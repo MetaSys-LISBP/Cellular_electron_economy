@@ -1,0 +1,7 @@
+organism	model	publication	doi	source	bundled_file	objective	glucose_exchange	oxygen_exchange
+Escherichia coli K-12 MG1655	iML1515	Monk et al., Nature Biotechnology (2017)	10.1038/nbt.3956	BiGG Models; primary E. coli analysis	../iML1515.xml	BIOMASS_Ec_iML1515_core_75p37M	EX_glc__D_e	EX_o2_e
+Saccharomyces cerevisiae S288C	Yeast9 / yeast-GEM v9.1.0	Zhang et al., Molecular Systems Biology (2024)	10.1038/s44320-024-00060-7	yeast-GEM v9.1.0 release	yeast-GEM-v9.1.0.xlsx	r_2111	r_1714	r_1992
+Bacillus subtilis 168	iBB1018	Blazquez et al., International Journal of Molecular Sciences (2023)	10.3390/ijms24087091	Publication repository	iBB1018.xlsx	BiomassRepsolRed	EX_glc__D_e	EX_o2_e
+Salmonella enterica pan-reactome	iYS1720	Seif et al., Nature Communications (2018)	10.1038/s41467-018-06112-5	BiGG Models distribution (copy bundled with COBRApy 0.32.1)	iYS1720.xml.gz	BIOMASS_iRR1083_1	EX_glc__D_e	EX_o2_e
+Komagataella phaffii (Pichia pastoris)	iMT1026	Tomas-Gamisans et al., PLoS ONE (2016)	10.1371/journal.pone.0148031	BioModels MODEL1508040001 / publication supplement	iMT1026_model.xlsx	Ex_biomass	Ex_glc_D	Ex_o2
+Escherichia coli K-12 MG1655	iJO1366	Orth et al., Molecular Systems Biology (2011)	10.1038/msb.2011.65	COBRApy 0.32.1 bundled BiGG distribution	iJO1366.xml.gz	BIOMASS_Ec_iJO1366_core_53p95M	EX_glc__D_e	EX_o2_e

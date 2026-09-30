@@ -1,0 +1,1878 @@
+met_id,name,formula,charge,compartment,gamma,chemical_domain_supported
+2pg_c,D-Glycerate 2-phosphate,C3H4O7P,-3,c,10.0,True
+13dpg_c,3-Phospho-D-glyceroyl phosphate,C3H4O10P2,-4,c,10.0,True
+prbamp_c,1-(5-Phosphoribosyl)-AMP,C15H19N5O14P2,-4,c,50.0,True
+grdp_c,Geranyl diphosphate,C10H17O7P2,-3,c,56.0,True
+dms_e,Dimethyl sulfide,C2H6S,0,e,20.0,True
+fpram_c,2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine,C8H15N3O8P,-1,c,28.0,True
+dcyt_p,Deoxycytidine,C9H13N3O4,0,p,32.0,True
+fum_p,Fumarate,C4H2O4,-2,p,12.0,True
+tyr__L_p,L-Tyrosine,C9H11NO3,0,p,38.0,True
+feenter_e,Fe-enterobactin,C30H27FeN3O15,3,e,,False
+gg4abut_c,Gamma-glutamyl-gamma aminobutyric acid,C9H15O5N2,-1,c,36.0,True
+arbtn_e,Aerobactin minus Fe3,C22H33N4O13,-3,e,86.0,True
+aso3_c,Arsenite,AsO3,-3,c,,False
+cpgn_un_e,Coprogen unloaded (no Fe(III)),C35H52N6O13,-4,e,152.0,True
+alaala_e,D-Alanyl-D-alanine,C6H12N2O3,0,e,24.0,True
+3ohexACP_c,3-Oxohexanoyl-[acyl-carrier protein],C17H29N2O9PRS,-1,c,,False
+3ocddec5eACP_c,3-oxo-cis-dodec-5-enoyl-[acyl-carrier protein],C23H39N2O9PRS,-1,c,,False
+clpn120_p,"Cardiolipin (tetradodecanoyl, n-C12:0)",C57H108O17P2,-2,p,314.0,True
+apg141_c,Acyl phosphatidylglycerol (n-C14:1),C48H86O11P,-1,c,262.0,True
+dca_c,Decanoate (n-C10:0),C10H19O2,-1,c,56.0,True
+dkdglcn_c,"2,5-Diketo-3-deoxy-D-gluconate",C6H7O6,-1,c,20.0,True
+chtbs_p,"N,N'-diacetylchitobiose",C16H28N2O11,0,p,64.0,True
+fusa_p,Fusidic acid,C31H48O5,0,p,162.0,True
+metglcur_c,1-O-methyl-Beta-D-glucuronate,C7H11O7,-1,c,26.0,True
+pep_c,Phosphoenolpyruvate,C3H2O6P,-3,c,10.0,True
+h_c,H+,H,1,c,0.0,True
+rib__D_c,D-Ribose,C5H10O5,0,c,20.0,True
+2dr1p_c,2-Deoxy-D-ribose 1-phosphate,C5H9O7P,-2,c,22.0,True
+gthrd_c,Reduced glutathione,C10H16N3O6S,-1,c,42.0,True
+ala__L_e,L-Alanine,C3H7NO2,0,e,12.0,True
+actACP_c,Acetoacetyl-ACP,C15H25N2O9PRS,-1,c,,False
+actp_c,Acetyl phosphate,C2H3O5P,-2,c,8.0,True
+2pglyc_c,2-Phosphoglycolate,C2H2O6P,-3,c,6.0,True
+g3pc_c,Sn-Glycero-3-phosphocholine,C8H20NO6P,0,c,42.0,True
+dmbzid_c,"5,6-Dimethylbenzimidazole",C9H10N2,0,c,40.0,True
+xtp_c,XTP,C10H11N4O15P3,-4,c,28.0,True
+cd2_c,Cadmium,Cd,2,c,,False
+tcynt_p,Thiocyanate,CNS,-1,p,8.0,True
+acanth_c,N-Acetylanthranilate,C9H8NO3,-1,c,36.0,True
+so2_p,Sulfur dioxide,O2S,0,p,2.0,True
+mn2_c,Manganese,Mn,2,c,,False
+pa181_c,"1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate",C39H71O8P1,-2,c,218.0,True
+2agpg181_p,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1),C24H46O9P1,-1,p,130.0,True
+tdecoa_c,Tetradecenoyl-CoA (n-C14:1CoA),C35H56N7O17P3S,-4,c,166.0,True
+thym_p,Thymine C5H6N2O2,C5H6N2O2,0,p,16.0,True
+mocogdp_c,Molybdopterin guanine dinucleotide,C20H22N10O15P2S2Mo,-2,c,,False
+octapb_c,Octanoate (protein bound),C8H15O,1,c,44.0,True
+cysi__L_e,L Cystine C6H12N2O4S2,C6H12N2O4S2,0,e,34.0,True
+dhap_c,Dihydroxyacetone phosphate,C3H5O6P,-2,c,12.0,True
+prbatp_c,1-(5-Phosphoribosyl)-ATP,C15H19N5O20P4,-6,c,50.0,True
+10fthf_c,10-Formyltetrahydrofolate,C20H21N7O7,-2,c,68.0,True
+btal_c,Butanal C4H8O,C4H8O,0,c,22.0,True
+6pgg_c,"6-Phospho-beta-D-glucosyl-(1,4)-D-glucose",C12H21O14P,-2,c,48.0,True
+co2_e,CO2 CO2,CO2,0,e,0.0,True
+akg_e,2-Oxoglutarate,C5H4O5,-2,e,16.0,True
+gsn_e,Guanosine,C10H13N5O5,0,e,28.0,True
+pydx5p_c,Pyridoxal 5'-phosphate,C8H8NO6P,-2,c,32.0,True
+3dhgulnp_c,3-keto-L-gulonate-6-phosphate,C6H8O10P,-3,c,20.0,True
+g3ps_c,Glycerophosphoserine,C6H13NO8P,-1,c,24.0,True
+adphep_LD_c,ADP-L-glycero-D-manno-heptose,C17H25N5O16P2,-2,c,58.0,True
+lyx__L_c,L-Lyxose,C5H10O5,0,c,20.0,True
+din_p,Deoxyinosine,C10H12N4O4,0,p,32.0,True
+malt_p,Maltose C12H22O11,C12H22O11,0,p,48.0,True
+pppn_p,Phenylpropanoate,C9H9O2,-1,p,42.0,True
+hphhlipa_c,Heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA,C131H231N2O60P3,-8,c,652.0,True
+phphhlipa_c,Phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA,C131H230N2O63P4,-10,c,652.0,True
+murein3px4p_p,"Two disacharide linked murein units, tripeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)",C71H107N13O38,-4,p,280.0,True
+1odec11eg3p_c,1-octadec-11-enoyl-sn-glycerol 3-phosphate,C21H39O7P1,-2,c,116.0,True
+12dgr181_p,"1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)",C39H72O5,0,p,218.0,True
+dsbdrd_c,Fused thiol:disulfide interchange protein (reduced),XH2,0,c,,False
+sla_c,Sulpholactaldehyde,C3H5O5S,-1,c,14.0,True
+ribflv_p,Riboflavin C17H20N4O6,C17H20N4O6,0,p,64.0,True
+cysi__L_c,L Cystine C6H12N2O4S2,C6H12N2O4S2,0,c,34.0,True
+f1p_c,D-Fructose 1-phosphate,C6H11O9P,-2,c,24.0,True
+thr__L_c,L-Threonine,C4H9NO3,0,c,16.0,True
+2ddglcn_c,2-Dehydro-3-deoxy-D-gluconate,C6H9O6,-1,c,22.0,True
+btn_e,Biotin,C10H15N2O3S,-1,e,50.0,True
+ocdcea_e,Octadecenoate (n-C18:1),C18H33O2,-1,e,102.0,True
+dtdp4d6dg_c,DTDP-4-dehydro-6-deoxy-D-glucose,C16H22N2O15P2,-2,c,62.0,True
+acmum_e,N-Acetylmuramate,C11H18NO8,-1,e,44.0,True
+man_p,D-Mannose,C6H12O6,0,p,24.0,True
+adocbl_e,Adenosylcobalamin,C72H100CoN18O17P,0,e,,False
+frulysp_c,Fructoselysine Phosphate,C12H24N2O10P,-1,c,52.0,True
+dump_p,DUMP C9H11N2O8P,C9H11N2O8P,-2,p,32.0,True
+eca4und_p,(enterobacterial common antigen)x4 undecaprenyl-diphosphate,C151H234N12O67P2,-6,p,684.0,True
+pa160_c,"1,2-dihexadecanoyl-sn-glycerol 3-phosphate",C35H67O8P1,-2,c,198.0,True
+cdpdhdec9eg_c,"CDP-1,2-dihexadec-9-enoylglycerol",C44H75N3O15P2,-2,c,224.0,True
+progly_c,L-Prolinylglycine,C7H12N2O3,0,c,28.0,True
+clpn161_p,"Cardiolipin (tetrahexadec-9-enoyl, n-C16:1)",C73H132O17P2,-2,p,402.0,True
+1ddecg3p_p,1-dodecanoyl-sn-glycerol 3-phosphate,C15H29O7P1,-2,p,82.0,True
+ca2_p,Calcium,Ca,2,p,-2.0,True
+iscssh_c,IscS with bound sulfur,HS2R,0,c,,False
+novbcn_p,Novobiocin,C31H36N2O11,0,p,132.0,True
+rpntp_c,?-D-ribose-1-methylphosphonate-5-triphosphate,C6H11O16P4,-5,c,28.0,True
+gmplys_c,GMP-N-?-(N-?-acetyl lysine methyl ester) 5'-phosphoramidate,C19H29N7O10P,-1,c,70.0,True
+r5p_c,Alpha-D-Ribose 5-phosphate,C5H9O8P,-2,c,20.0,True
+akg_c,2-Oxoglutarate,C5H4O5,-2,c,16.0,True
+ac_c,Acetate,C2H3O2,-1,c,8.0,True
+citr__L_c,L-Citrulline,C6H13N3O3,0,c,22.0,True
+34hpp_c,3-(4-Hydroxyphenyl)pyruvate,C9H7O4,-1,c,36.0,True
+duri_c,Deoxyuridine,C9H12N2O5,0,c,32.0,True
+ala_B_c,Beta-Alanine,C3H7NO2,0,c,12.0,True
+no2_e,Nitrite,NO2,-1,e,-6.0,True
+tag6p__D_c,D-Tagatose 6-phosphate,C6H11O9P,-2,c,24.0,True
+dhpppn_c,"3-(2,3-Dihydroxyphenyl)propanoate",C9H9O4,-1,c,38.0,True
+g6p_e,D-Glucose 6-phosphate,C6H11O9P,-2,e,24.0,True
+hdcea_c,Hexadecenoate (n-C16:1),C16H29O2,-1,c,90.0,True
+acgam6p_c,N-Acetyl-D-glucosamine 6-phosphate,C8H14NO9P,-2,c,32.0,True
+thmpp_c,Thiamine diphosphate,C12H16N4O7P2S,-2,c,56.0,True
+val__L_p,L-Valine,C5H11NO2,0,p,24.0,True
+ppt_p,Phosphonate,HO3P,-2,p,2.0,True
+pyr_p,Pyruvate,C3H3O3,-1,p,10.0,True
+ni2_c,Nickel,Ni,2,c,,False
+peamn_p,Phenethylamine,C8H12N,1,p,40.0,True
+mso3_e,Methanesulfonate,CH3O3S,-1,e,8.0,True
+murein5p5p_p,"Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)",C80H124N16O42,-4,p,316.0,True
+thrp_e,L-Threonine O-3-phosphate,C4H8NO6P,-2,e,16.0,True
+octa_c,Octanoate (n-C8:0),C8H15O2,-1,c,44.0,True
+1odecg3p_p,1-octadecanoyl-sn-glycerol 3-phosphate,C21H41O7P1,-2,p,118.0,True
+LalaLglu_e,L-alanine-L-glutamate,C8H13N2O5,-1,e,30.0,True
+mththf_c,"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran",C5H10O5,0,c,20.0,True
+sufbcd_2fe2s_c,SufBCD with bound [2Fe-2S] cluster,H4O2S8Fe2R,-2,c,,False
+bwco_c,Tungsten bispterin cofactor,C20H20N10O13P2S4W,-4,c,,False
+f_p,Fluoride,F,-1,p,,False
+fru_c,D-Fructose,C6H12O6,0,c,24.0,True
+glyc3p_c,Glycerol 3-phosphate,C3H7O6P,-2,c,14.0,True
+2ahbut_c,(S)-2-Aceto-2-hydroxybutanoate,C6H9O4,-1,c,26.0,True
+ser__L_c,L-Serine,C3H7NO3,0,c,10.0,True
+ump_c,UMP C9H11N2O9P,C9H11N2O9P,-2,c,30.0,True
+4c2me_c,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol,C14H23N3O14P2,-2,c,54.0,True
+ade_e,Adenine,C5H5N5,0,e,10.0,True
+rmn_e,L-Rhamnose,C6H12O5,0,e,26.0,True
+2dhguln_c,2-Dehydro-L-gulonate,C6H9O7,-1,c,20.0,True
+2ddglcn_e,2-Dehydro-3-deoxy-D-gluconate,C6H9O6,-1,e,22.0,True
+glyb_e,Glycine betaine,C5H11NO2,0,e,24.0,True
+glcr_e,D-Glucarate,C6H8O8,-2,e,18.0,True
+cyan_c,Hydrogen cyanide,CHN,0,c,2.0,True
+cu2_e,Copper,Cu,2,e,,False
+15dap_p,"1,5-Diaminopentane",C5H16N2,2,p,28.0,True
+ptrc_p,Putrescine,C4H14N2,2,p,22.0,True
+arbtn_p,Aerobactin minus Fe3,C22H33N4O13,-3,p,86.0,True
+34dhpac_e,"3,4-Dihydroxyphenylacetaldehyde",C8H8O3,0,e,34.0,True
+anhgm_e,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,C19H29N2O12,-1,e,76.0,True
+cu2_p,Copper,Cu,2,p,,False
+14glucan_p,"1,4-alpha-D-glucan",C36H62O31,0,p,144.0,True
+pgp141_c,"Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)",C34H61O13P2,-3,c,184.0,True
+dsbard_p,Periplasmic protein disulfide isomerase I (reduced),XH2,0,p,,False
+galctn__L_e,L-Galactonate,C6H11O7,-1,e,22.0,True
+pydxn_p,Pyridoxine,C8H11NO3,0,p,34.0,True
+preq0_c,7-cyano-7-carbaguanine,C7H5N5O,0,c,16.0,True
+iscu_2fe2s_c,IscU with bound [2Fe-2S] cluster,H4O2S8Fe2R,-2,c,,False
+novbcn_e,Novobiocin,C31H36N2O11,0,e,132.0,True
+flxr_c,Flavodoxin reduced,XH,-1,c,,False
+lcts_c,Lactose C12H22O11,C12H22O11,0,c,48.0,True
+3ohdcoa_c,3-Oxohexadecanoyl-CoA,C37H60N7O18P3S,-4,c,176.0,True
+gln__L_e,L-Glutamine,C5H10N2O3,0,e,18.0,True
+tre_e,Trehalose,C12H22O11,0,e,48.0,True
+glyald_c,D-Glyceraldehyde,C3H6O3,0,c,12.0,True
+g3pg_c,Glycerophosphoglycerol,C6H14O8P,-1,c,28.0,True
+adocbl_c,Adenosylcobalamin,C72H100CoN18O17P,0,c,,False
+idon__L_e,L-Idonate,C6H11O7,-1,e,22.0,True
+tcynt_c,Thiocyanate,CNS,-1,c,8.0,True
+pheme_e,Protoheme C34H30FeN4O4,C34H30FeN4O4,-2,e,,False
+3hodcoa_c,(S)-3-Hydroxyoctadecanoyl-CoA,C39H66N7O18P3S,-4,c,190.0,True
+all__D_e,D-Allose,C6H12O6,0,e,24.0,True
+ca2_e,Calcium,Ca,2,e,-2.0,True
+fe2_p,Fe2+ mitochondria,Fe,2,p,,False
+g1p_e,D-Glucose 1-phosphate,C6H11O9P,-2,e,24.0,True
+udcpdp_p,Undecaprenyl diphosphate,C55H89O7P2,-3,p,308.0,True
+ag_e,Silver,Ag,1,e,,False
+pa141_c,"1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate",C31H55O8P1,-2,c,170.0,True
+cdpdddecg_c,"CDP-1,2-didodecanoylglycerol",C36H63N3O15P2,-2,c,180.0,True
+pe140_p,"Phosphatidylethanolamine (ditetradecanoyl, n-C14:0)",C33H66N1O8P1,0,p,184.0,True
+2agpg120_c,2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0),C18H36O9P1,-1,c,96.0,True
+2tdecg3p_p,2-tetradecanoyl-sn-glycerol 3-phosphate,C17H34O7P1,-1,p,94.0,True
+2odecg3p_c,2-octadecanoyl-sn-glycerol 3-phosphate,C21H42O7P1,-1,c,118.0,True
+hdcoa_c,Hexadecenoyl-CoA (n-C16:1CoA),C37H60N7O17P3S,-4,c,178.0,True
+o16a4colipa_e,(O16 antigen)x4 core oligosaccharide lipid A,C312H523N6O200P4,-11,e,1384.0,True
+udcpgl_c,Undecaprenol-diphosphate-glucose,C61H100O12P2,-2,c,332.0,True
+mepn_c,Methylphosphonic acid,CH4O3P,-1,c,8.0,True
+mepn_p,Methylphosphonic acid,CH4O3P,-1,p,8.0,True
+cyst__L_c,L-Cystathionine,C7H14N2O4S,0,c,34.0,True
+dutp_c,DUTP C9H11N2O14P3,C9H11N2O14P3,-4,c,32.0,True
+dmlz_c,"6,7-Dimethyl-8-(1-D-ribityl)lumazine",C13H18N4O6,0,c,46.0,True
+pan4p_c,Pantetheine 4'-phosphate,C11H21N2O7PS,-2,c,58.0,True
+adprib_c,ADPribose C15H21N5O14P2,C15H21N5O14P2,-2,c,50.0,True
+quln_c,Quinolinate,C7H3NO4,-2,c,22.0,True
+dxyl_c,1-deoxy-D-xylulose,C5H10O4,0,c,22.0,True
+dhptd_c,"4,5-dihydroxy-2,3-pentanedione",C5H8O4,0,c,20.0,True
+lipa_c,KDO(2)-lipid (A),C110H196N2O39P2,-6,c,568.0,True
+sheme_c,Siroheme C42H36FeN4O16,C42H36FeN4O16,-8,c,,False
+all__D_p,D-Allose,C6H12O6,0,p,24.0,True
+h2o_p,H2O H2O,H2O,0,p,0.0,True
+hdca_p,Hexadecanoate (n-C16:0),C16H31O2,-1,p,92.0,True
+gal1p_p,Alpha-D-Galactose 1-phosphate,C6H11O9P,-2,p,24.0,True
+g3pe_e,Sn-Glycero-3-phosphoethanolamine,C5H14NO6P,0,e,24.0,True
+anhm3p_c,"1,6-anhydrous-N-Acetylmuramyl-tripeptide",C26H39N5O14,-2,c,102.0,True
+clpn140_p,"Cardiolipin (tetratetradecanoyl, n-C14:0)",C65H124O17P2,-2,p,362.0,True
+12dgr180_p,"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",C39H76O5,0,p,222.0,True
+2agpe140_p,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0),C19H40NO7P1,0,p,104.0,True
+5drib_c,5'-deoxyribose,C5H10O4,0,c,22.0,True
+uracp_c,Ureidoacrylate peracid,C4H6N2O4,0,c,8.0,True
+preq1_c,7-aminomethyl-7-deazaguanine,C7H10N5O,1,c,20.0,True
+bmoco_c,Bis-molybdenum cofactor,C20H20N10O13P2S4Mo,-4,c,,False
+bmoco1gdp_c,Bis-molybdopterin mono-guanine dinucleotide,C30H32N15O20P3S4Mo,-4,c,,False
+f_e,Fluoride,F,-1,e,,False
+iprimv_c,Isoprimeverose,C11H20O10,0,c,44.0,True
+psuri_c,Pseudouridine,C9H12N2O6,0,c,30.0,True
+xu5p__D_c,D-Xylulose 5-phosphate,C5H9O8P,-2,c,20.0,True
+aspsa_c,L-Aspartate 4-semialdehyde,C4H7NO3,0,c,14.0,True
+xtsn_c,Xanthosine,C10H12N4O6,0,c,28.0,True
+alltn_e,Allantoin,C4H6N4O3,0,e,4.0,True
+f6p_e,D-Fructose 6-phosphate,C6H11O9P,-2,e,24.0,True
+fadh2_c,Flavin adenine dinucleotide reduced,C27H33N9O15P2,-2,c,96.0,True
+dhpmp_c,Dihydroneopterin monophosphate,C9H12N5O7P,-2,c,26.0,True
+pppi_c,Inorganic triphosphate,HO10P3,-4,c,0.0,True
+ocdca_e,Octadecanoate (n-C18:0),C18H35O2,-1,e,104.0,True
+glyclt_c,Glycolate C2H3O3,C2H3O3,-1,c,6.0,True
+ppap_c,Propanoyl phosphate,C3H5O5P,-2,c,14.0,True
+gp4g_c,"P1,P4-Bis(5'-guanosyl) tetraphosphate",C20H24N10O21P4,-4,c,56.0,True
+glyb_c,Glycine betaine,C5H11NO2,0,c,24.0,True
+phaccoa_c,Phenylacetyl-CoA,C29H38N7O17P3S,-4,c,124.0,True
+but_e,Butyrate (n-C4:0),C4H7O2,-1,e,20.0,True
+kdo2lipid4p_c,KDO(2)-lipid IV(A) with palmitoleoyl,C100H176N2O38P2,-6,c,510.0,True
+cobalt2_e,Co2+,Co,2,e,,False
+cbl1_c,Cob(I)alamin,C62H88CoN13O14P,-1,c,,False
+uri_p,Uridine,C9H12N2O6,0,p,30.0,True
+ocdcea_p,Octadecenoate (n-C18:1),C18H33O2,-1,p,102.0,True
+dimp_c,DIMP C10H12N4O7P,C10H11N4O7P,-2,c,32.0,True
+odecoa_c,Octadecenoyl-CoA (n-C18:1CoA),C39H64N7O17P3S,-4,c,190.0,True
+cgly_c,Cys Gly C5H10N2O3S,C5H10N2O3S,0,c,24.0,True
+metsox_R__L_e,L-methionine-R-sulfoxide,C5H11NO3S,0,e,28.0,True
+pheme_p,Protoheme C34H30FeN4O4,C34H30FeN4O4,-2,p,,False
+dimp_p,DIMP C10H12N4O7P,C10H11N4O7P,-2,p,32.0,True
+ctbt_p,Crotonobetaine,C7H13NO2,0,p,34.0,True
+murein5p4p_p,"Two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain)",C77H119N15O41,-4,p,304.0,True
+toct2eACP_c,Trans-Oct-2-enoyl-[acyl-carrier protein],C19H33N2O8PRS,-1,c,,False
+clpn141_p,"Cardiolipin (tetratetradec-7-enoyl, n-C14:1)",C65H116O17P2,-2,p,354.0,True
+2agpe120_c,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0),C17H36NO7P1,0,c,92.0,True
+1agpg181_p,1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1),C24H46O9P1,-1,p,130.0,True
+oxalcoa_c,Oxalyl-CoA,C23H31N7O19P3S,-5,c,90.0,True
+hdceap_c,Hexadecanoyl-phosphate (n-C16:1),C16H30O5P,-1,c,90.0,True
+mepn_e,Methylphosphonic acid,CH4O3P,-1,e,8.0,True
+3pg_c,3-Phospho-D-glycerate,C3H4O7P,-3,c,10.0,True
+ctp_c,CTP C9H12N3O14P3,C9H12N3O14P3,-4,c,30.0,True
+dadp_c,DADP C10H12N5O9P2,C10H12N5O9P2,-3,c,32.0,True
+xan_c,Xanthine,C5H4N4O2,0,c,8.0,True
+2p4c2me_c,2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol,C14H22N3O17P3,-4,c,54.0,True
+lgt__S_c,(R)-S-Lactoylglutathione,C13H20N3O8S,-1,c,54.0,True
+gam1p_c,D-Glucosamine 1-phosphate,C6H13NO8P,-1,c,24.0,True
+zn2_e,Zinc,Zn,2,e,,False
+ura_e,Uracil,C4H4N2O2,0,e,10.0,True
+lys__L_e,L-Lysine,C6H15N2O2,1,e,28.0,True
+cynt_c,Cyanate,CNO,-1,c,0.0,True
+ascb6p_c,L-ascorbate-6-phosphate,C6H7O9P,-2,c,20.0,True
+acmum6p_c,N-acetylmuramate 6-phosphate,C11H17NO11P,-3,c,44.0,True
+all__D_c,D-Allose,C6H12O6,0,c,24.0,True
+acnam_p,N-Acetylneuraminate,C11H18NO9,-1,p,42.0,True
+g6p_p,D-Glucose 6-phosphate,C6H11O9P,-2,p,24.0,True
+pnto__R_p,(R)-Pantothenate,C9H16NO5,-1,p,40.0,True
+amp_p,AMP C10H12N5O7P,C10H12N5O7P,-2,p,30.0,True
+gal_bD_p,Beta D-Galactose,C6H12O6,0,p,24.0,True
+fald_p,Formaldehyde,CH2O,0,p,4.0,True
+LalaDgluMdapDala_e,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",C18H30N5O9,-1,e,70.0,True
+hlipa_c,Heptosyl-kdo2-lipidA,C117H208N2O45P2,-6,c,596.0,True
+phhlipa_c,Phospho-heptosyl-heptosyl-kdo2-lipidA,C124H219N2O54P3,-8,c,624.0,True
+alpp_p,Applipoprotein,X,0,p,,False
+5mtr_p,5-Methylthio-D-ribose,C6H12O4S,0,p,34.0,True
+sf_c,6-deoxy-6-sulphofructose,C6H11O8S,-1,c,26.0,True
+accoa_c,Acetyl-CoA,C23H34N7O17P3S,-4,c,96.0,True
+arg__L_c,L-Arginine,C6H15N4O2,1,c,22.0,True
+26dap_LL_c,"LL-2,6-Diaminoheptanedioate",C7H14N2O4,0,c,28.0,True
+cellb_e,Cellobiose,C12H22O11,0,e,48.0,True
+uamr_c,UDP-N-acetylmuramate,C20H28N3O19P2,-3,c,74.0,True
+sbt__D_e,D-Sorbitol,C6H14O6,0,e,26.0,True
+arg__L_e,L-Arginine,C6H15N4O2,1,e,22.0,True
+dgsn_e,Deoxyguanosine,C10H13N5O4,0,e,30.0,True
+spmd_e,Spermidine,C7H22N3,3,e,38.0,True
+sucgsa_c,N2-Succinyl-L-glutamate 5-semialdehyde,C9H11NO6,-2,c,34.0,True
+tartr__L_c,L-tartrate,C4H4O6,-2,c,10.0,True
+ocdcea_c,Octadecenoate (n-C18:1),C18H33O2,-1,c,102.0,True
+h_p,H+,H,1,p,0.0,True
+succ_p,Succinate,C4H4O4,-2,p,14.0,True
+gal_p,D-Galactose,C6H12O6,0,p,24.0,True
+maltttr_p,Maltotetraose,C24H42O21,0,p,96.0,True
+met__D_c,D-Methionine,C5H10NO2S,0,c,29.0,True
+dtmp_p,DTMP C10H13N2O8P,C10H13N2O8P,-2,p,38.0,True
+aso4_c,Arsenate,AsO4,-3,c,,False
+acgal_p,N-Acetyl-D-galactosamine,C8H15NO6,0,p,32.0,True
+cys__D_e,D-Cysteine,C3H7NO2S,0,e,18.0,True
+pgp160_p,"Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)",C38H73O13P2,-3,p,212.0,True
+cbm_c,Carbamate,CH2NO2,-1,c,0.0,True
+pmeACP_c,Pimeloyl-[acyl-carrier protein] methyl ester,C19H33N2O10PRS,-1,c,,False
+nad_c,Nicotinamide adenine dinucleotide,C21H26N7O14P2,-1,c,72.0,True
+r1p_c,Alpha-D-Ribose 1-phosphate,C5H9O8P,-2,c,20.0,True
+5mta_c,5-Methylthioadenosine,C11H15N5O3S,0,c,44.0,True
+val__L_e,L-Valine,C5H11NO2,0,e,24.0,True
+gdpofuc_c,GDP-4-oxo-L-fucose,C16H21N5O15P2,-2,c,52.0,True
+chol_c,Choline C5H14NO,C5H14NO,1,c,28.0,True
+malt_c,Maltose C12H22O11,C12H22O11,0,c,48.0,True
+rhcys_c,S-Ribosyl-L-homocysteine,C9H17NO6S,0,c,44.0,True
+met__D_e,D-Methionine,C5H10NO2S,0,e,29.0,True
+gbbtn_c,Gamma-butyrobetaine,C7H15NO2,0,c,36.0,True
+dmso_e,Dimethyl sulfoxide,C2H6OS,0,e,18.0,True
+r15bp_c,"D-Ribose 1,5-bisphosphate",C5H8O11P2,-4,c,20.0,True
+g3pe_p,Sn-Glycero-3-phosphoethanolamine,C5H14NO6P,0,p,24.0,True
+arab__D_c,D Arabinose C5H10O5,C5H10O5,0,c,20.0,True
+sulfac_c,Sulfoacetate,C2H2O5S,-2,c,8.0,True
+mg2_c,Magnesium,Mg,2,c,-2.0,True
+acmalt_c,Acetyl-maltose,C14H24O12,0,c,56.0,True
+1hdecg3p_c,1-hexadecanoyl-sn-glycerol 3-phosphate,C19H37O7P1,-2,c,106.0,True
+pg141_p,"Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1)",C34H62O10P1,-1,p,184.0,True
+apg181_c,Acyl phosphatidylglycerol (n-C18:1),C60H110O11P,-1,c,334.0,True
+pydx_p,Pyridoxal,C8H9NO3,0,p,32.0,True
+cellb_p,Cellobiose,C12H22O11,0,p,48.0,True
+adp_c,ADP C10H12N5O10P2,C10H12N5O10P2,-3,c,30.0,True
+mal__L_c,L-Malate,C4H4O5,-2,c,12.0,True
+urea_c,Urea CH4N2O,CH4N2O,0,c,0.0,True
+5apru_c,5-Amino-6-(5'-phosphoribosylamino)uracil,C9H13N4O9P,-2,c,26.0,True
+pnto__R_c,(R)-Pantothenate,C9H16NO5,-1,c,40.0,True
+gdptp_c,Guanosine 3'-diphosphate 5'-triphosphate,C10H11N5O20P5,-7,c,28.0,True
+3hddcoa_c,(S)-3-Hydroxydodecanoyl-CoA,C33H54N7O18P3S,-4,c,154.0,True
+thymd_e,Thymidine C10H14N2O5,C10H14N2O5,0,e,38.0,True
+5aizc_c,5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate,C9H11N3O9P,-3,c,28.0,True
+xu5p__L_c,L-Xylulose 5-phosphate,C5H9O8P,-2,c,20.0,True
+hkntd_c,2-hydroxy-6-ketononatrienedioate,C9H6O6,-2,c,32.0,True
+sucr_p,Sucrose C12H22O11,C12H22O11,0,p,48.0,True
+gmp_e,GMP C10H12N5O8P,C10H12N5O8P,-2,e,28.0,True
+isetac_p,Isethionic acid,C2H5O4S,-1,p,12.0,True
+dhmptp_c,Dihydromonapterin-triphosphate,C9H12N5O13P3,-4,c,26.0,True
+alaala_p,D-Alanyl-D-alanine,C6H12N2O3,0,p,24.0,True
+thex2eACP_c,Trans-Hex-2-enoyl-[acyl-carrier protein],C17H29N2O8PRS,-1,c,,False
+t3c9palmeACP_c,Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein],C27H47N2O8PRS,-1,c,,False
+cpe160_c,"Cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)",C39H74N1O8P1,0,c,216.0,True
+lpp_p,Lipoprotein,XC16H30O1,0,p,,False
+1agpe181_p,1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1),C23H46NO7P1,0,p,126.0,True
+ghb_c,Gamma-hydroxybutyrate,C4H7O3,-1,c,18.0,True
+LalaLglu_p,L-alanine-L-glutamate,C8H13N2O5,-1,p,30.0,True
+mdhdhf_c,"(2R,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one",C5H8O4,0,c,20.0,True
+moadamp_c,MoaD Protein with bound AMP,C11H12N5O8P1X,-1,c,,False
+mththf_p,"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran",C5H10O5,0,p,20.0,True
+3hbz_c,3-Hydroxybenzoate,C7H6O3,0,c,28.0,True
+prpmn_c,?-D-ribose-1-methylphosphonate 5-phosphate,C6H11O10P2,-3,c,28.0,True
+asp__L_c,L-Aspartate,C4H6NO4,-1,c,12.0,True
+acg5sa_c,N-Acetyl-L-glutamate 5-semialdehyde,C7H10NO4,-1,c,28.0,True
+skm_c,Shikimate,C7H9O5,-1,c,28.0,True
+imp_c,IMP C10H11N4O8P,C10H11N4O8P,-2,c,30.0,True
+o2_c,O2 O2,O2,0,c,-4.0,True
+3hbcoa_c,(S)-3-Hydroxybutanoyl-CoA,C25H38N7O18P3S,-4,c,106.0,True
+s17bp_c,"Sedoheptulose 1,7-bisphosphate",C7H12O13P2,-4,c,28.0,True
+pydxn_c,Pyridoxine,C8H11NO3,0,c,34.0,True
+sucorn_c,N2-Succinyl-L-ornithine,C9H15N2O5,-1,c,36.0,True
+dhcinnm_c,"2,3-dihydroxicinnamic acid",C9H7O4,-1,c,36.0,True
+idon__L_c,L-Idonate,C6H11O7,-1,c,22.0,True
+pac_c,Phenylacetic acid,C8H7O2,-1,c,36.0,True
+3hpppn_e,3-(3-hydroxy-phenyl)propionate,C9H9O3,-1,e,40.0,True
+ctbt_c,Crotonobetaine,C7H13NO2,0,c,34.0,True
+tdeACP_c,Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1),C25H45N2O8PRS,-1,c,,False
+23dhba_c,"(2,3-Dihydroxybenzoyl)adenylate",C17H17N5O10P,-1,c,56.0,True
+ddcacoa_c,Dodecanoyl-CoA (n-C12:0CoA),C33H54N7O17P3S,-4,c,156.0,True
+his__L_p,L-Histidine,C6H9N3O2,0,p,20.0,True
+no2_p,Nitrite,NO2,-1,p,-6.0,True
+cd2_e,Cadmium,Cd,2,e,,False
+Nmtrp_c,N-Methyltryptophan,C12H14N2O2,0,c,52.0,True
+icolipa_c,Inner core oligosaccharide lipid A (E coli),C145H251N2O74P4,-11,c,708.0,True
+crn__D_p,D-Carnitine,C7H15NO3,0,p,34.0,True
+cd2_p,Cadmium,Cd,2,p,,False
+2doxg6p_c,2 Deoxy D glucose 6 phosphate C6H11O8P,C6H11O8P,-2,c,26.0,True
+murein4px4p4p_p,"Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain)",C111H169N21O59,-6,p,438.0,True
+dt5hsu_c,4-Deoxy-L-threo-5-hexosulose uronate,C6H7O6,-1,c,20.0,True
+slnt_p,Selenite,O3Se,-2,p,,False
+hgmeACP_c,3-Hydroxyglutaryl-[acyl-carrier protein] methyl ester,C17H29N2O11PRS,-1,c,,False
+ttrcyc_p,Tetracycline,C22H24N2O8,0,p,90.0,True
+2sephchc_c,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate,C14H13O9,-3,c,54.0,True
+dhps_c,"2,3-Dihydroxypropane-1-sulfonate",C3H7O5S,-1,c,16.0,True
+mercpeth_c,Mercaptoethanol,C2H6OS,0,c,18.0,True
+puacgam_p,"Poly-?-1,6-N-acetyl-D-glucosamine",C8N1O5H14R,1,p,,False
+nadphx__S_c,(S)-NADPHX,C21H28N7O18P3,-4,c,74.0,True
+met__L_c,L-Methionine,C5H11NO2S,0,c,30.0,True
+ncam_c,Nicotinamide,C6H6N2O,0,c,22.0,True
+sucbz_c,O-Succinylbenzoate,C11H8O5,-2,c,44.0,True
+glx_c,Glyoxylate,C2H1O3,-1,c,4.0,True
+etoh_e,Ethanol,C2H6O,0,e,12.0,True
+pro__L_e,L-Proline,C5H9NO2,0,e,22.0,True
+ppp9_c,Protoporphyrin,C34H32N4O4,-2,c,150.0,True
+air_c,5-amino-1-(5-phospho-D-ribosyl)imidazole,C8H12N3O7P,-2,c,28.0,True
+6hmhptpp_c,6-hydroxymethyl-dihydropterin pyrophosphate,C7H8N5O8P2,-3,c,18.0,True
+pydam_c,Pyridoxamine,C8H13N2O2,1,c,34.0,True
+gam6p_e,D-Glucosamine 6-phosphate,C6H13NO8P,-1,e,24.0,True
+nac_e,Nicotinate,C6H4NO2,-1,e,22.0,True
+galctn__D_c,D-Galactonate,C6H11O7,-1,c,22.0,True
+micit_c,Methylisocitrate,C7H7O7,-3,c,24.0,True
+hdeACP_c,Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1),C27H49N2O8PRS,-1,c,,False
+acmana_p,N-Acetyl-D-mannosamine,C8H15NO6,0,p,32.0,True
+nh4_p,Ammonium,H4N,1,p,0.0,True
+cbi_p,Cobinamide,C48H72CoN11O8,0,p,,False
+gal_bD_e,Beta D-Galactose,C6H12O6,0,e,24.0,True
+imp_p,IMP C10H11N4O8P,C10H11N4O8P,-2,p,30.0,True
+glcur1p_p,D-Glucuronate 1-phosphate,C6H8O10P,-3,p,20.0,True
+skm_p,Shikimate,C7H9O5,-1,p,28.0,True
+murein5px3p_p,"Two disacharide linked murein units, pentapeptide corsslinked tripeptide (A2pm->A2pm) (middle of chain)",C74H112N14O39,-4,p,292.0,True
+2agpe161_p,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1),C21H42NO7P1,0,p,114.0,True
+5dglcn_e,5-Dehydro-D-gluconate,C6H9O7,-1,e,20.0,True
+dgslnt_c,Selenodiglutathione,C20H30N6O12S2Se,-2,c,,False
+sufsesh_c,SufSE with bound sulfur,HS2R,0,c,,False
+4abzglu_e,4-aminobenzoyl-glutamate,C12H12N2O5,-2,e,46.0,True
+lkdr_c,2-dehydro-3-deoxy-L-rhamnonate,C6H9O5,-1,c,24.0,True
+3hbzcoa_c,3-hydroxybenzoyl-CoA,C28H36N7O18P3S,-4,c,116.0,True
+xylu__D_c,D-Xylulose,C5H10O5,0,c,20.0,True
+amet_c,S-Adenosyl-L-methionine,C15H23N6O5S,1,c,60.0,True
+h2s_c,Hydrogen sulfide,H2S,0,c,8.0,True
+3oocoa_c,3-Oxooctanoyl-CoA,C29H44N7O18P3S,-4,c,128.0,True
+acgam1p_c,N-Acetyl-D-glucosamine 1-phosphate,C8H14NO9P,-2,c,32.0,True
+malt_e,Maltose C12H22O11,C12H22O11,0,e,48.0,True
+mn2_e,Manganese,Mn,2,e,,False
+u23ga_c,"UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine",C43H75N3O20P2,-2,c,210.0,True
+fuc__L_c,L-Fucose,C6H12O5,0,c,26.0,True
+4abutn_c,4-Aminobutanal,C4H10NO,1,c,20.0,True
+tma_e,Trimethylamine,C3H10N,1,e,18.0,True
+occoa_c,Octanoyl-CoA (n-C8:0CoA),C29H46N7O17P3S,-4,c,132.0,True
+lyx__L_e,L-Lyxose,C5H10O5,0,e,20.0,True
+gtp_e,GTP C10H12N5O14P3,C10H12N5O14P3,-4,e,28.0,True
+man6p_p,D-Mannose 6-phosphate,C6H11O9P,-2,p,24.0,True
+fecrm_un_c,Ferrichrome minus Fe(III),C27H42N9O12,-3,c,102.0,True
+lipa_cold_p,Cold adapted KDO(2)-lipid (A),C114H202N2O39P2,-6,p,590.0,True
+murein3p3p_p,"Two linked disacharide tripeptide murein units (uncrosslinked, middle of chain)",C68H104N12O38,-4,p,268.0,True
+hexACP_c,Hexanoyl-ACP (n-C6:0ACP),C17H31N2O8PRS,-1,c,,False
+pg161_c,"Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)",C38H70O10P1,-1,c,208.0,True
+pe120_p,"Phosphatidylethanolamine (didodecanoyl, n-C12:0)",C29H58N1O8P1,0,p,160.0,True
+ppal_p,Propanal,C3H6O,0,p,16.0,True
+colipap_p,Core oligosaccharide lipid A diphosphate,C176H303N2O103P5,-12,p,832.0,True
+dhps_p,"2,3-Dihydroxypropane-1-sulfonate",C3H7O5S,-1,p,16.0,True
+2hptcl_c,"2-hydroxycyclohepta-1,4,6-triene-1-carboxylate",C8H7O3,-1,c,34.0,True
+phpyr_c,Phenylpyruvate,C9H7O3,-1,c,38.0,True
+4ampm_c,4-Amino-2-methyl-5-phosphomethylpyrimidine,C6H8N3O4P,-2,c,22.0,True
+fru_e,D-Fructose,C6H12O6,0,e,24.0,True
+pyr_e,Pyruvate,C3H3O3,-1,e,10.0,True
+dtdp4addg_c,"DTDP-4-amino-4,6-dideoxy-D-galactose",C16H26N3O14P2,-1,c,64.0,True
+unagamuf_c,"Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose",C79H126N3O22P2,-3,c,402.0,True
+malttr_e,Maltotriose C18H32O16,C18H32O16,0,e,72.0,True
+5mthf_c,5-Methyltetrahydrofolate,C20H24N7O6,-1,c,72.0,True
+ppt_e,Phosphonate,HO3P,-2,e,2.0,True
+na1_p,Sodium,Na,1,p,-1.0,True
+glyald_p,D-Glyceraldehyde,C3H6O3,0,p,12.0,True
+rbl__D_c,D-Ribulose,C5H10O5,0,c,20.0,True
+hom__L_e,L-Homoserine,C4H9NO3,0,e,16.0,True
+dcmp_e,DCMP C9H12N3O7P,C9H12N3O7P,-2,e,32.0,True
+dgmp_e,DGMP C10H12N5O7P,C10H12N5O7P,-2,e,30.0,True
+fald_c,Formaldehyde,CH2O,0,c,4.0,True
+23ccmp_e,"2',3'-Cyclic CMP",C9H11N3O7P,-1,e,30.0,True
+udpg_e,UDPglucose,C15H22N2O17P2,-2,e,54.0,True
+acgal_e,N-Acetyl-D-galactosamine,C8H15NO6,0,e,32.0,True
+3ocvac11eACP_c,3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein],C29H51N2O9PRS,-1,c,,False
+3hoctaACP_c,(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein],C29H55N2O9PRS,-1,c,,False
+2agpe181_p,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1),C23H46NO7P1,0,p,126.0,True
+ocdca_c,Octadecanoate (n-C18:0),C18H35O2,-1,c,104.0,True
+2agpg180_c,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0),C24H48O9P1,-1,c,132.0,True
+2tdec7eg3p_p,2-tetradec-7-enoyl-sn-glycerol 3-phosphate,C17H32O7P1,-1,p,92.0,True
+malcoame_c,Malonyl-CoA methyl ester,C25H36N7O19P3S,-4,c,102.0,True
+gmeACP_c,Glutaryl-[acyl-carrier protein] methyl ester,C17H29N2O10PRS,-1,c,,False
+mpt_c,Molybdopterin,C10H10N5O6PS2Cu,-2,c,,False
+4crsol_c,P-Cresol,C7H8O,0,c,34.0,True
+gam_c,D-Glucosamine,C6H14NO5,1,c,24.0,True
+psuri_p,Pseudouridine,C9H12N2O6,0,p,30.0,True
+g3p_c,Glyceraldehyde 3-phosphate,C3H5O6P,-2,c,12.0,True
+etoh_c,Ethanol,C2H6O,0,c,12.0,True
+so3_c,Sulfite,O3S,-2,c,2.0,True
+aicar_c,5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide,C9H13N4O8P,-2,c,28.0,True
+altrn_c,D-Altronate,C6H11O7,-1,c,22.0,True
+fruur_c,D-Fructuronate,C6H9O7,-1,c,20.0,True
+ac_e,Acetate,C2H3O2,-1,e,8.0,True
+k_e,Potassium,K,1,e,-1.0,True
+lipidX_c,"2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate",C34H64NO12P,-2,c,180.0,True
+mi1p__D_c,1D-myo-Inositol 1-phosphate,C6H11O9P,-2,c,24.0,True
+taur_e,Taurine C2H7NO3S,C2H7NO3S,0,e,12.0,True
+glcn_p,D-Gluconate,C6H11O7,-1,p,22.0,True
+gua_p,Guanine,C5H5N5O,0,p,8.0,True
+fe3hox_un_p,"Fe(III)hydoxamate, unloaded",C9H18O6N3,-3,p,36.0,True
+xmp_e,Xanthosine 5'-phosphate,C10H11N4O9P,-2,e,28.0,True
+so3_p,Sulfite,O3S,-2,p,2.0,True
+glcur1p_e,D-Glucuronate 1-phosphate,C6H8O10P,-3,e,20.0,True
+tdec2eACP_c,Trans-Dec-2-enoyl-[acyl-carrier protein],C21H37N2O8PRS,-1,c,,False
+3hpp_p,3-Hydroxypropanoate,C3H5O3,-1,p,12.0,True
+pimACP_c,Pimeloyl-[acyl-carrier protein],C18H31N2O10PRS,-1,c,,False
+dhcholn_c,"3?,12?-dihydroxy-7-oxo-5?-cholan-24-oate",C24H37O5,-1,c,124.0,True
+pi_c,Phosphate,HO4P,-2,c,0.0,True
+argsuc_c,N(omega)-(L-Arginino)succinate,C10H17N4O6,-1,c,34.0,True
+chor_c,Chorismate,C10H8O6,-2,c,38.0,True
+hom__L_c,L-Homoserine,C4H9NO3,0,c,16.0,True
+thymd_c,Thymidine C10H14N2O5,C10H14N2O5,0,c,38.0,True
+dgdp_c,DGDP C10H12N5O10P2,C10H12N5O10P2,-3,c,30.0,True
+glu1sa_c,L-Glutamate 1-semialdehyde,C5H9NO3,0,c,20.0,True
+cit_e,Citrate,C6H5O7,-3,e,18.0,True
+leu__L_e,L-Leucine,C6H13NO2,0,e,30.0,True
+q8h2_c,Ubiquinol-8,C49H76O4,0,c,264.0,True
+ala__D_e,D-Alanine,C3H7NO2,0,e,12.0,True
+fe2_e,Fe2+ mitochondria,Fe,2,e,,False
+galt_e,Galactitol,C6H14O6,0,e,26.0,True
+unagamu_c,Undecaprenyl-diphospho-N-acetylglucosamine-N-acetylmannosaminuronate,C71H113N2O18P2,-3,c,368.0,True
+5prdmbz_c,"N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole",C14H17N2O7P,-2,c,60.0,True
+cynt_e,Cyanate,CNO,-1,e,0.0,True
+cit_p,Citrate,C6H5O7,-3,p,18.0,True
+xan_p,Xanthine,C5H4N4O2,0,p,8.0,True
+fruur_p,D-Fructuronate,C6H9O7,-1,p,20.0,True
+ggptrc_c,Gamma-glutamyl-putrescine,C9H20O3N3,1,c,40.0,True
+sulfac_e,Sulfoacetate,C2H2O5S,-2,e,8.0,True
+ps160_c,"Phosphatidylserine (dihexadecanoyl, n-C16:0)",C38H73N1O10P1,-1,c,208.0,True
+pg120_c,"Phosphatidylglycerol (didodecanoyl, n-C12:0)",C30H58O10P1,-1,c,164.0,True
+2agpe141_p,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1),C19H38NO7P1,0,p,102.0,True
+apg140_c,Acyl phosphatidylglycerol (n-C14:0),C48H92O11P,-1,c,268.0,True
+dhna_c,"1,4-Dihydroxy-2-naphthoate",C11H7O4,-1,c,44.0,True
+galctn__L_c,L-Galactonate,C6H11O7,-1,c,22.0,True
+lipa_cold_e,Cold adapted KDO(2)-lipid (A),C114H202N2O39P2,-6,e,590.0,True
+bwcogdp_c,Tungsten bispterin cofactor guanine dinucleotide,C40H44N20O27P4S4W,-4,c,,False
+thptdn_c,"5,6,7,8-tetrahydropteridine",C6H10N4,2,c,20.0,True
+6pgc_c,6-Phospho-D-gluconate,C6H10O10P,-3,c,22.0,True
+udpgal_c,UDPgalactose,C15H22N2O17P2,-2,c,54.0,True
+nh4_c,Ammonium,H4N,1,c,0.0,True
+rml1p_c,L-Rhamnulose 1-phosphate,C6H11O8P,-2,c,26.0,True
+cytd_c,Cytidine,C9H13N3O5,0,c,30.0,True
+thym_c,Thymine C5H6N2O2,C5H6N2O2,0,c,16.0,True
+sbzcoa_c,O-Succinylbenzoyl-CoA,C32H39N7O20P3S,-5,c,132.0,True
+gal_e,D-Galactose,C6H12O6,0,e,24.0,True
+acnam_c,N-Acetylneuraminate,C11H18NO9,-1,c,42.0,True
+dha_e,Dihydroxyacetone,C3H6O3,0,e,12.0,True
+aacald_c,Aminoacetaldehyde,C2H6NO,1,c,8.0,True
+gbbtn_p,Gamma-butyrobetaine,C7H15NO2,0,p,36.0,True
+4abut_p,4-Aminobutanoate,C4H9NO2,0,p,18.0,True
+mnl_p,D-Mannitol,C6H14O6,0,p,26.0,True
+12ppd__R_c,"(R)-Propane-1,2-diol",C3H8O2,0,c,16.0,True
+dad_5_c,5'-Deoxyadenosine,C10H13N5O3,0,c,32.0,True
+LalaDgluMdap_p,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",C15H25N4O8,-1,p,58.0,True
+hhlipa_c,Heptosyl-heptosyl-kdo2-lipidA,C124H220N2O51P2,-6,c,624.0,True
+crnDcoa_c,D-carnitinyl-CoA,C28H46N8O18P3S,-3,c,122.0,True
+zn2_c,Zinc,Zn,2,c,,False
+skm_e,Shikimate,C7H9O5,-1,e,28.0,True
+3odecACP_c,3-Oxodecanoyl-[acyl-carrier protein],C21H37N2O9PRS,-1,c,,False
+1tdecg3p_c,1-tetradecanoyl-sn-glycerol 3-phosphate,C17H33O7P1,-2,c,94.0,True
+pa140_c,"1,2-ditetradecanoyl-sn-glycerol 3-phosphate",C31H59O8P1,-2,c,174.0,True
+cdpdtdec7eg_c,"CDP-1,2-ditetradec-7-enoylglycerol",C40H67N3O15P2,-2,c,200.0,True
+2agpe140_c,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0),C19H40NO7P1,0,c,104.0,True
+teo2_c,Tellurite,O3Te,-2,c,,False
+tyr__L_c,L-Tyrosine,C9H11NO3,0,c,38.0,True
+cys__L_c,L-Cysteine,C3H7NO2S,0,c,18.0,True
+2aobut_c,L-2-Amino-3-oxobutanoate,C4H7NO3,0,c,14.0,True
+4r5au_c,4-(1-D-Ribitylamino)-5-aminouracil,C9H16N4O6,0,c,28.0,True
+gam_e,D-Glucosamine,C6H14NO5,1,e,24.0,True
+met__L_e,L-Methionine,C5H11NO2S,0,e,30.0,True
+4hbz_c,4-Hydroxybenzoate,C7H5O3,-1,c,28.0,True
+dscl_c,Dihydrosirohydrochlorin,C42H41N4O16,-7,c,172.0,True
+phthr_c,O-Phospho-4-hydroxy-L-threonine,C4H8NO7P,-2,c,14.0,True
+acmana_e,N-Acetyl-D-mannosamine,C8H15NO6,0,e,32.0,True
+n8aspmd_c,N8-Acetylspermidine,C9H23N3O,2,c,46.0,True
+ascb__L_e,L-Ascorbate,C6H8O6,0,e,20.0,True
+thymd_p,Thymidine C10H14N2O5,C10H14N2O5,0,p,38.0,True
+ditp_c,DITP(4-),C10H11N4O13P3,-4,c,32.0,True
+23dappa_e,"2,3-diaminopropionate",C3H9N2O2,1,e,10.0,True
+um4p_c,"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate-D-alanine",C38H56N8O27P2,-4,c,144.0,True
+uLa4fn_c,Undecaprenyl phosphate-4-amino-4-formyl-L-arabinose,C61H99N1O8P1,-1,c,330.0,True
+lipa_p,KDO(2)-lipid (A),C110H196N2O39P2,-6,p,568.0,True
+zn2_p,Zinc,Zn,2,p,,False
+hg2_c,Mercury  charged 2  Hg,Hg,2,c,,False
+2tpr3dpcoa_c,2'-(5''-triphosphoribosyl)-3'-dephospho-CoA,C26H40N7O26P5S,-6,c,108.0,True
+bglycogen_c,Branching glycogen,C6H10O5,0,c,24.0,True
+dsbdox_c,Fused thiol:disulfide interchange protein (oxidized),X,0,c,,False
+progly_e,L-Prolinylglycine,C7H12N2O3,0,e,28.0,True
+ogmeACP_c,3-Oxo-glutaryl-[acyl-carrier protein] methyl ester,C17H27N2O11PRS,-1,c,,False
+hpmeACP_c,3-Hydroxypimeloyl-[acyl-carrier protein] methyl ester,C19H33N2O11PRS,-1,c,,False
+sufse_c,SufSE sulfur acceptor complex,HSR,0,c,,False
+cs1_p,Cesium ion,Cs,1,p,,False
+atp_c,ATP C10H12N5O13P3,C10H12N5O13P3,-4,c,30.0,True
+rbl__L_c,L-Ribulose,C5H10O5,0,c,20.0,True
+indole_c,Indole,C8H7N,0,c,36.0,True
+eig3p_c,D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate,C6H9N2O6P,-2,c,22.0,True
+26dap__M_c,"Meso-2,6-Diaminoheptanedioate",C7H14N2O4,0,c,28.0,True
+thf_c,"5,6,7,8-Tetrahydrofolate",C19H21N7O6,-2,c,66.0,True
+orot5p_c,Orotidine 5'-phosphate,C10H10N2O11P,-3,c,30.0,True
+h_e,H+,H,1,e,0.0,True
+aact_c,Aminoacetone,C3H8NO,1,c,14.0,True
+asn__L_e,L-Asparagine,C4H8N2O3,0,e,12.0,True
+5caiz_c,5-phosphoribosyl-5-carboxyaminoimidazole,C9H11N3O9P,-3,c,28.0,True
+dhnpt_c,Dihydroneopterin,C9H13N5O4,0,c,26.0,True
+pyam5p_c,Pyridoxamine 5'-phosphate,C8H12N2O5P,-1,c,34.0,True
+lcts_e,Lactose C12H22O11,C12H22O11,0,e,48.0,True
+btcoa_c,Butanoyl-CoA,C25H38N7O17P3S,-4,c,108.0,True
+u3hga_c,UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine,C29H50N3O18P2,-1,c,132.0,True
+tdcoa_c,Tetradecanoyl-CoA (n-C14:0CoA),C35H58N7O17P3S,-4,c,168.0,True
+dca_e,Decanoate (n-C10:0),C10H19O2,-1,e,56.0,True
+malt6p_c,Maltose 6'-phosphate,C12H21O14P,-2,c,48.0,True
+met__L_p,L-Methionine,C5H11NO2S,0,p,30.0,True
+ser__L_p,L-Serine,C3H7NO3,0,p,10.0,True
+octa_p,Octanoate (n-C8:0),C8H15O2,-1,p,44.0,True
+chtbs_e,"N,N'-diacetylchitobiose",C16H28N2O11,0,e,64.0,True
+dopa_e,Dopamine,C8H12NO2,1,e,36.0,True
+isetac_e,Isethionic acid,C2H5O4S,-1,e,12.0,True
+cpgn_c,Coprogen,C35H52N6O13Fe,-1,c,,False
+butACP_c,Butyryl-ACP (n-C4:0ACP),C15H27N2O8PRS,-1,c,,False
+1hdec9eg3p_c,1-hexadec-9-enoyl-sn-glycerol 3-phosphate,C19H35O7P1,-2,c,104.0,True
+pe181_c,"Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)",C41H78N1O8P1,0,c,228.0,True
+pe160_p,"Phosphatidylethanolamine (dihexadecanoyl, n-C16:0)",C37H74N1O8P1,0,p,208.0,True
+2agpg160_c,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0),C22H44O9P1,-1,c,120.0,True
+hxa_c,Hexanoate (n-C6:0),C6H11O2,-1,c,32.0,True
+3hppnl_c,3-Hydroxypropanal,C3H6O2,0,c,14.0,True
+glyc2p_c,Glycerol 2-phosphate,C3H7O6P,-2,c,14.0,True
+wco_c,Tungsten binding cofactor,C10H10N5O8PS2W,-2,c,,False
+dhmpt_c,Dihydromonapterin,C9H13N5O4,0,c,26.0,True
+mincyc_p,Minocycline,C23H27N3O7,0,p,96.0,True
+sq_c,Sulphoquinovose,C6H11O8S,-1,c,26.0,True
+sfp_c,6-deoxy-6-sulphofructose 1-phosphate,C6H10O11PS,-3,c,26.0,True
+sq_e,Sulphoquinovose,C6H11O8S,-1,e,26.0,True
+5phdt_c,Phenylhydantoin,C9H8N2O2,0,c,34.0,True
+adpglc_c,ADPglucose C16H23N5O15P2,C16H23N5O15P2,-2,c,54.0,True
+dudp_c,DUDP C9H11N2O11P2,C9H11N2O11P2,-3,c,32.0,True
+4ppan_c,D-4'-Phosphopantothenate,C9H15NO8P,-3,c,40.0,True
+23dhb_c,"2,3-Dihydroxybenzoate",C7H5O4,-1,c,26.0,True
+2mecdp_c,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate",C5H10O9P2,-2,c,24.0,True
+dcyt_e,Deoxycytidine,C9H13N3O4,0,e,32.0,True
+orot_e,Orotate C5H3N2O4,C5H3N2O4,-1,e,10.0,True
+agdpcbi_c,Adenosine-GDP-cobinamide,C68H95CoN21O21P2,-1,c,,False
+u3aga_c,UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine,C31H51N3O19P2,-2,c,140.0,True
+thm_c,Thiamin,C12H17N4OS,1,c,56.0,True
+feoxam_c,Generic ferrioxamine-Fe-III,C25H46FeN6O8,1,c,,False
+gln__L_p,L-Glutamine,C5H10N2O3,0,p,18.0,True
+glyc_p,Glycerol,C3H8O3,0,p,14.0,True
+thr__L_p,L-Threonine,C4H9NO3,0,p,16.0,True
+ttdca_p,Tetradecanoate (n-C14:0),C14H27O2,-1,p,80.0,True
+acgam_c,N-Acetyl-D-glucosamine,C8H15NO6,0,c,32.0,True
+metsox_S__L_p,L-Methionine Sulfoxide,C5H11NO3S,0,p,28.0,True
+pacald_p,Phenylacetaldehyde,C8H8O,0,p,38.0,True
+eca4colipa_p,(enterobacterial common antigen)x4 core oligosaccharide lipid A,C272H447N14O160P4,-15,p,1208.0,True
+udpglcur_e,UDP-D-glucuronate,C15H19N2O18P2,-3,e,50.0,True
+murein3px3p_p,"Two disacharide linked murein units, tripeptide crosslinked tripeptide (A2pm->A2pm) (middle of chain)",C68H102N12O37,-4,p,268.0,True
+3hcpalm9eACP_c,(R)-3-hydroxy-cis-palm-9-eoyl-[acyl-carrier protein],C27H49N2O9PRS,-1,c,,False
+3ocpalm9eACP_c,3-oxo-cis-palm-9-eoyl-[acyl-carrier protein],C27H47N2O9PRS,-1,c,,False
+2ddecg3p_c,2-dodecanoyl-sn-glycerol 3-phosphate,C15H30O7P1,-1,c,82.0,True
+1agpe161_p,1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1),C21H42NO7P1,0,p,114.0,True
+ppa_p,Propionate (n-C3:0),C3H5O2,-1,p,14.0,True
+msa_c,Malonate semialdehyde,C3H3O3,-1,c,10.0,True
+slnt_c,Selenite,O3Se,-2,c,,False
+metglcur_e,1-O-methyl-Beta-D-glucuronate,C7H11O7,-1,e,26.0,True
+dgsn_c,Deoxyguanosine,C10H13N5O4,0,c,30.0,True
+dttp_c,DTTP C10H13N2O14P3,C10H13N2O14P3,-4,c,38.0,True
+but_c,Butyrate (n-C4:0),C4H7O2,-1,c,20.0,True
+glutrna_c,L-Glutamyl-tRNA(Glu),C5H7NO3R,0,c,,False
+adn_e,Adenosine,C10H13N5O4,0,e,30.0,True
+octdp_c,All-trans-Octaprenyl diphosphate,C40H65O7P2,-3,c,224.0,True
+cinnm_c,Trans-Cinnamate,C9H7O2,-1,c,40.0,True
+arbt6p_c,Arbutin 6-phosphate,C12H15O10P,-2,c,50.0,True
+ttdca_c,Tetradecanoate (n-C14:0),C14H27O2,-1,c,80.0,True
+tma_p,Trimethylamine,C3H10N,1,p,18.0,True
+fe3dcit_e,Fe(III)dicitrate,C12H10FeO14,-3,e,,False
+fe3hox_un_c,"Fe(III)hydoxamate, unloaded",C9H18O6N3,-3,c,36.0,True
+damp_e,DAMP C10H12N5O6P,C10H12N5O6P,-2,e,32.0,True
+o16a4und_p,(O16 antigen)x4 undecaprenyl diphosphate,C191H310N4O107P2,-2,p,860.0,True
+n2o_c,Nitrous oxide,N2O,0,c,-8.0,True
+hg2_e,Mercury  charged 2  Hg,Hg,2,e,,False
+3hoctACP_c,(R)-3-Hydroxyoctanoyl-[acyl-carrier protein],C19H35N2O9PRS,-1,c,,False
+toctd2eACP_c,Trans-octadec-2-enoyl-[acyl-carrier protein],C29H53N2O8PRS,-1,c,,False
+dsbcox_p,Protein disulfide isomerase II (oxidized),X,0,p,,False
+clpn160_p,"Cardiolipin (tetrahexadecanoyl, n-C16:0)",C73H140O17P2,-2,p,410.0,True
+clpn181_p,"Cardiolipin (tetraoctadec-11-enoyl, n-C18:1)",C81H148O17P2,-2,p,450.0,True
+arbt_p,Arbutin C12H16O7,C12H16O7,0,p,50.0,True
+ttdceap_c,Tetradecanoyl-phosphate (n-C14:1),C14H26O5P,-1,c,78.0,True
+cpmp_c,Cyclic pyranopterin monophosphate,C10H13N5O8P,-1,c,28.0,True
+doxrbcn_e,Doxorubicin,C27H29NO11,0,e,112.0,True
+dxylnt_p,D-Xylonate,C5H9O6,-1,p,18.0,True
+2hptcoa_c,"2-hydroxycyclohepta-1,4,6-triene-1-carboxyl-CoA",C29H37N7P3S1O18,-5,c,122.0,True
+ru5p__D_c,D-Ribulose 5-phosphate,C5H9O8P,-2,c,20.0,True
+23dhmb_c,"(R)-2,3-Dihydroxy-3-methylbutanoate",C5H9O4,-1,c,22.0,True
+galur_c,D-Galacturonate,C6H9O7,-1,c,20.0,True
+arab__L_e,L-Arabinose,C5H10O5,0,e,20.0,True
+lald__L_c,L-Lactaldehyde,C3H6O2,0,c,14.0,True
+6hmhpt_c,6-hydroxymethyl dihydropterin,C7H9N5O2,0,c,18.0,True
+ppcoa_c,Propanoyl-CoA,C24H36N7O17P3S,-4,c,102.0,True
+adocbi_c,Adenosyl cobinamide,C58H84CoN16O11,1,c,,False
+acac_c,Acetoacetate,C4H5O3,-1,c,16.0,True
+acmanap_c,N-Acetyl-D-mannosamine 6-phosphate,C8H14NO9P,-2,c,32.0,True
+pppn_e,Phenylpropanoate,C9H9O2,-1,e,42.0,True
+3hcinnm_e,3-hydroxycinnamic acid,C9H7O3,-1,e,38.0,True
+tmao_c,Trimethylamine N-oxide,C3H9NO,0,c,16.0,True
+tsul_c,Thiosulfate,O3S2,-2,c,8.0,True
+man6pglyc_c,2(alpha-D-Mannosyl-6-phosphate)-D-glycerate,C9H14O12P,-3,c,34.0,True
+oxam_c,Oxamate,C2H2NO3,-1,c,2.0,True
+dha_p,Dihydroxyacetone,C3H6O3,0,p,12.0,True
+LalaDgluMdapDala_c,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",C18H30N5O9,-1,c,70.0,True
+colipa_p,Core oligosaccharide lipid A,C176H303N2O100P4,-11,p,832.0,True
+colipa_e,Core oligosaccharide lipid A,C176H303N2O100P4,-11,e,832.0,True
+glyc2p_p,Glycerol 2-phosphate,C3H7O6P,-2,p,14.0,True
+pe141_p,"Phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1)",C33H62N1O8P1,0,p,180.0,True
+pe181_p,"Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)",C41H78N1O8P1,0,p,228.0,True
+12dgr140_p,"1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)",C31H60O5,0,p,174.0,True
+2hdecg3p_p,2-hexadecanoyl-sn-glycerol 3-phosphate,C19H38O7P1,-1,p,106.0,True
+oxadpcoa_c,3-Oxoadipyl-CoA,C27H37N7O20P3S,-5,c,110.0,True
+mptamp_c,Adenylated molybdopterin,C20H22N10O12P2S2Cu,-2,c,,False
+cs1_e,Cesium ion,Cs,1,e,,False
+glc__D_c,D-Glucose,C6H12O6,0,c,24.0,True
+e4p_c,D-Erythrose 4-phosphate,C4H7O7P,-2,c,16.0,True
+man1p_c,D-Mannose 1-phosphate,C6H11O9P,-2,c,24.0,True
+trp__L_c,L-Tryptophan,C11H12N2O2,0,c,46.0,True
+acser_c,O-Acetyl-L-serine,C5H9NO4,0,c,18.0,True
+lys__L_c,L-Lysine,C6H15N2O2,1,c,28.0,True
+2shchc_c,"2-Succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate",C11H10O6,-2,c,44.0,True
+dxyl5p_c,1-deoxy-D-xylulose 5-phosphate,C5H9O7P,-2,c,22.0,True
+man_e,D-Mannose,C6H12O6,0,e,24.0,True
+acmana_c,N-Acetyl-D-mannosamine,C8H15NO6,0,c,32.0,True
+fcl__L_c,L-fuculose,C6H12O5,0,c,26.0,True
+h2_e,Hydrogen,H2,0,e,2.0,True
+nmn_e,NMN C11H14N2O8P,C11H14N2O8P,-1,e,42.0,True
+man6p_e,D-Mannose 6-phosphate,C6H11O9P,-2,e,24.0,True
+csn_p,Cytosine,C4H5N3O,0,p,10.0,True
+cytd_p,Cytidine,C9H13N3O5,0,p,30.0,True
+fuc__L_p,L-Fucose,C6H12O5,0,p,26.0,True
+mal__L_p,L-Malate,C4H4O5,-2,p,12.0,True
+tmao_p,Trimethylamine N-oxide,C3H9NO,0,p,16.0,True
+hxa_p,Hexanoate (n-C6:0),C6H11O2,-1,p,32.0,True
+mobd_p,Molybdate,MoO4,-2,p,,False
+g1p_p,D-Glucose 1-phosphate,C6H11O9P,-2,p,24.0,True
+anhgm3p_c,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide,C34H52N6O19,-2,c,134.0,True
+ggagicolipa_c,Glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A,C163H281N2O89P4,-11,c,780.0,True
+pser__L_p,O-Phospho-L-serine,C3H6NO6P,-2,p,10.0,True
+fe3dhbzs_p,"Ferric 2,3-dihydroxybenzoylserine",C10H10NO6Fe,2,p,,False
+cu_e,Cu+,Cu,1,e,,False
+cdpdtdecg_c,"CDP-1,2-ditetradecanoylglycerol",C40H71N3O15P2,-2,c,204.0,True
+pe120_c,"Phosphatidylethanolamine (didodecanoyl, n-C12:0)",C29H58N1O8P1,0,c,160.0,True
+pg160_p,"Phosphatidylglycerol (dihexadecanoyl, n-C16:0)",C38H74O10P1,-1,p,212.0,True
+pa120_p,"1,2-didodecanoyl-sn-glycerol 3-phosphate",C27H51O8P1,-2,p,150.0,True
+ddcap_c,Dodecanoly-phosphate (n-C12:0),C12H24O5P1,-1,c,68.0,True
+hdcap_c,Hexadecanoyl-phosphate (n-C16:0),C16H32O5P,-1,c,92.0,True
+egmeACP_c,Enoylglutaryl-[acyl-carrier protein] methyl ester,C17H27N2O10PRS,-1,c,,False
+cph4_c,"6-carboxy-5,6,7,8-tetrahydropterin",C7H8N5O3,-1,c,16.0,True
+iscu_2fe2s2_c,IscU with two bound [2Fe-2S] clusters,O2S10Fe4R,-4,c,,False
+thmnp_c,Tetrahydromonapterin,C9H15N5O4,0,c,28.0,True
+trdox_c,Oxidized thioredoxin,X,0,c,,False
+5mtr_c,5-Methylthio-D-ribose,C6H12O4S,0,c,34.0,True
+3ig3p_c,C'-(3-Indolyl)-glycerol 3-phosphate,C11H12NO6P,-2,c,48.0,True
+sl26da_c,"N-Succinyl-LL-2,6-diaminoheptanedioate",C11H16N2O7,-2,c,42.0,True
+dctp_c,DCTP C9H12N3O13P3,C9H12N3O13P3,-4,c,32.0,True
+din_c,Deoxyinosine,C10H12N4O4,0,c,32.0,True
+ichor_c,Isochorismate,C10H8O6,-2,c,38.0,True
+cpppg3_c,Coproporphyrinogen III,C36H40N4O8,-4,c,160.0,True
+3ohcoa_c,3-Oxohexanoyl-CoA,C27H40N7O18P3S,-4,c,116.0,True
+ser__D_e,D-Serine,C3H7NO3,0,e,10.0,True
+ohpb_c,2-Oxo-3-hydroxy-4-phosphobutanoate,C4H4O8P,-3,c,12.0,True
+amp_e,AMP C10H12N5O7P,C10H12N5O7P,-2,e,30.0,True
+o2s_c,Superoxide anion,O2,-1,c,-3.0,True
+ugmd_c,"UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate",C35H51N7O26P2,-4,c,132.0,True
+fecrm_c,Ferrichrome,C27H42FeN9O12,0,c,,False
+ile__L_p,L-Isoleucine,C6H13NO2,0,p,30.0,True
+nmn_p,NMN C11H14N2O8P,C11H14N2O8P,-1,p,42.0,True
+hxan_p,Hypoxanthine,C5H4N4O,0,p,10.0,True
+metsox_R__L_p,L-methionine-R-sulfoxide,C5H11NO3S,0,p,28.0,True
+23cgmp_p,"2',3'-Cyclic GMP",C10H11N5O7P,-1,p,28.0,True
+LalaDgluMdap_e,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",C15H25N4O8,-1,e,58.0,True
+cgly_p,Cys Gly C5H10N2O3S,C5H10N2O3S,0,p,24.0,True
+2hdecg3p_c,2-hexadecanoyl-sn-glycerol 3-phosphate,C19H38O7P1,-1,c,106.0,True
+1agpg160_p,1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0),C22H44O9P1,-1,p,120.0,True
+4abzglu_p,4-aminobenzoyl-glutamate,C12H12N2O5,-2,p,46.0,True
+34dhpha_c,3-4-Dihydroxyphenylacetate,C8H7O4,-1,c,32.0,True
+glcn_c,D-Gluconate,C6H11O7,-1,c,22.0,True
+paps_c,3'-Phosphoadenylyl sulfate,C10H11N5O13P2S,-4,c,30.0,True
+utp_c,UTP C9H11N2O15P3,C9H11N2O15P3,-4,c,30.0,True
+dhor__S_c,(S)-Dihydroorotate,C5H5N2O4,-1,c,12.0,True
+adn_c,Adenosine,C10H13N5O4,0,c,30.0,True
+2me4p_c,2-C-methyl-D-erythritol 4-phosphate,C5H11O7P,-2,c,24.0,True
+tre_c,Trehalose,C12H22O11,0,c,48.0,True
+dad_2_e,Deoxyadenosine,C10H13N5O3,0,e,32.0,True
+thym_e,Thymine C5H6N2O2,C5H6N2O2,0,e,16.0,True
+fecrm_p,Ferrichrome,C27H42FeN9O12,0,p,,False
+ins_p,Inosine,C10H12N4O5,0,p,30.0,True
+k_c,Potassium,K,1,c,-1.0,True
+o2_p,O2 O2,O2,0,p,-4.0,True
+ala_B_p,Beta-Alanine,C3H7NO2,0,p,12.0,True
+cbi_e,Cobinamide,C48H72CoN11O8,0,e,,False
+tungs_p,Tungstate,O4W1,-2,p,,False
+dtmp_e,DTMP C10H13N2O8P,C10H13N2O8P,-2,e,38.0,True
+12dgr160_c,"1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)",C35H68O5,0,c,198.0,True
+12dgr181_c,"1,2-Diacyl-sn-glycerol (dioctadec-11-enoyl, n-C18:1)",C39H72O5,0,c,218.0,True
+dsbcrd_p,Protein disulfide isomerase II (reduced),XH2,0,p,,False
+pgp181_p,"Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)",C42H77O13P2,-3,p,232.0,True
+orot_p,Orotate C5H3N2O4,C5H3N2O4,-1,p,10.0,True
+LalaDglu_p,L-alanine-D-glutamate,C8H13N2O5,-1,p,30.0,True
+cdigmp_c,Cyclic diguanosine monophosphate,C20H22N10O14P2,-2,c,56.0,True
+uri_c,Uridine,C9H12N2O6,0,c,30.0,True
+dad_2_c,Deoxyadenosine,C10H13N5O3,0,c,32.0,True
+datp_c,DATP C10H12N5O12P3,C10H12N5O12P3,-4,c,32.0,True
+3hhcoa_c,(S)-3-Hydroxyhexanoyl-CoA,C27H42N7O18P3S,-4,c,118.0,True
+3otdcoa_c,3-Oxotetradecanoyl-CoA,C35H56N7O18P3S,-4,c,164.0,True
+3hhdcoa_c,(S)-3-Hydroxyhexadecanoyl-CoA,C37H62N7O18P3S,-4,c,178.0,True
+hx2coa_c,Trans-Hex-2-enoyl-CoA,C27H40N7O17P3S,-4,c,118.0,True
+uacmam_c,UDP-N-acetyl-D-mannosamine,C17H25N3O17P2,-2,c,62.0,True
+glycogen_c,Glycogen C6H10O5,C6H10O5,0,c,24.0,True
+ahcys_c,S-Adenosyl-L-homocysteine,C14H20N6O5S,0,c,54.0,True
+pydx_c,Pyridoxal,C8H9NO3,0,c,32.0,True
+lac__D_e,D-Lactate,C3H5O3,-1,e,12.0,True
+2mcacn_c,Cis-2-Methylaconitate,C7H5O6,-3,c,24.0,True
+aconm_c,E-3-carboxy-2-pentenedioate 6-methyl ester,C7H6O6,-2,c,24.0,True
+adn_p,Adenosine,C10H13N5O4,0,p,30.0,True
+asn__L_p,L-Asparagine,C4H8N2O3,0,p,12.0,True
+dgsn_p,Deoxyguanosine,C10H13N5O4,0,p,30.0,True
+manglyc_p,2(alpha-D-Mannosyl)-D-glycerate,C9H15O9,-1,p,34.0,True
+dms_p,Dimethyl sulfide,C2H6S,0,p,20.0,True
+h2s_p,Hydrogen sulfide,H2S,0,p,8.0,True
+feoxam_e,Generic ferrioxamine-Fe-III,C25H46FeN6O8,1,e,,False
+lipoate_e,Lipoate,C8H14O2S2,0,e,54.0,True
+pacald_c,Phenylacetaldehyde,C8H8O,0,c,38.0,True
+isetac_c,Isethionic acid,C2H5O4S,-1,c,12.0,True
+anhgm4p_c,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide,C37H57N7O20,-2,c,146.0,True
+gggagicolipa_c,Glucosyl-glucosyl-galactosyl-glucosyl-inner core oligosaccharide lipid A,C169H291N2O94P4,-11,c,804.0,True
+grxrd_c,Glutaredoxin (reduced),XH2,0,c,,False
+so2_e,Sulfur dioxide,O2S,0,e,2.0,True
+cys__D_c,D-Cysteine,C3H7NO2S,0,c,18.0,True
+pa161_c,"1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate",C35H63O8P1,-2,c,194.0,True
+pgp140_c,"Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)",C34H65O13P2,-3,c,188.0,True
+pgp161_c,"Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)",C38H69O13P2,-3,c,208.0,True
+ps180_c,"Phosphatidylserine (dioctadecanoyl, n-C18:0)",C42H81N1O10P1,-1,c,232.0,True
+pe141_c,"Phosphatidylethanolamine (ditetradec-7-enoyl, n-C14:1)",C33H62N1O8P1,0,c,180.0,True
+cpg160_c,"Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)",C40H74O10P1,-1,c,220.0,True
+crn__D_e,D-Carnitine,C7H15NO3,0,e,34.0,True
+13ppd_c,"1,3-Propanediol",C3H8O2,0,c,16.0,True
+pran_c,N-(5-Phospho-D-ribosyl)anthranilate,C12H13NO9P,-3,c,48.0,True
+gsn_c,Guanosine,C10H13N5O5,0,c,28.0,True
+ins_c,Inosine,C10H12N4O5,0,c,30.0,True
+ura_c,Uracil,C4H4N2O2,0,c,10.0,True
+chol_e,Choline C5H14NO,C5H14NO,1,e,28.0,True
+gly_e,Glycine,C2H5NO2,0,e,6.0,True
+8aonn_c,8-Amino-7-oxononanoate,C9H17NO3,0,c,44.0,True
+pdx5p_c,Pyridoxine 5'-phosphate,C8H10NO6P,-2,c,34.0,True
+23doguln_c,"2,3-Dioxo-L-gulonate",C6H7O7,-1,c,18.0,True
+tmao_e,Trimethylamine N-oxide,C3H9NO,0,e,16.0,True
+acac_p,Acetoacetate,C4H5O3,-1,p,16.0,True
+but_p,Butyrate (n-C4:0),C4H7O2,-1,p,20.0,True
+34dhpac_p,"3,4-Dihydroxyphenylacetaldehyde",C8H8O3,0,p,34.0,True
+lipa_e,KDO(2)-lipid (A),C110H196N2O39P2,-6,e,568.0,True
+enlipa_e,Phosphoethanolamine KDO(2)-lipid (A),C112H202N3O42P3,-6,e,578.0,True
+n2o_e,Nitrous oxide,N2O,0,e,-8.0,True
+cobalt2_c,Co2+,Co,2,c,,False
+cobalt2_p,Co2+,Co,2,p,,False
+mmet_p,S-Methyl-L-methionine,C6H14NO2S,1,p,36.0,True
+aso3_e,Arsenite,AsO3,-3,e,,False
+dsbgox_p,Periplasmic disulfide isomerase/thiol-disulphide oxidase (oxidized),X,0,p,,False
+pg140_p,"Phosphatidylglycerol (ditetradecanoyl, n-C14:0)",C34H66O10P1,-1,p,188.0,True
+2agpg181_c,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1),C24H46O9P1,-1,c,130.0,True
+apg120_c,Acyl phosphatidylglycerol (n-C12:0),C42H80O11P,-1,c,232.0,True
+apg160_c,Acyl phosphatidylglycerol (n-C16:0),C54H104O11P,-1,c,304.0,True
+mchtbs6p_c,N-monoacetylchitobiose 6'-phosphate,C14H26N2O13P,-1,c,56.0,True
+fdp_c,"D-Fructose 1,6-bisphosphate",C6H10O12P2,-4,c,24.0,True
+mthgxl_c,Methylglyoxal,C3H4O2,0,c,12.0,True
+rmn_c,L-Rhamnose,C6H12O5,0,c,26.0,True
+dtmp_c,DTMP C10H13N2O8P,C10H13N2O8P,-2,c,38.0,True
+gdp_c,GDP C10H12N5O11P2,C10H12N5O11P2,-3,c,28.0,True
+man_c,D-Mannose,C6H12O6,0,c,24.0,True
+uaagmda_c,"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala",C95H152N8O28P2,-4,c,466.0,True
+crn_e,L-Carnitine,C7H15NO3,0,e,34.0,True
+fe2_c,Fe2+ mitochondria,Fe,2,c,,False
+thm_e,Thiamin,C12H17N4OS,1,e,56.0,True
+glyald_e,D-Glyceraldehyde,C3H6O3,0,e,12.0,True
+indole_e,Indole,C8H7N,0,e,36.0,True
+mg2_e,Magnesium,Mg,2,e,-2.0,True
+S2hglut_c,(S)-2-Hydroxyglutarate,C5H6O5,-2,c,18.0,True
+glyclt_p,Glycolate C2H3O3,C2H3O3,-1,p,6.0,True
+xtsn_p,Xanthosine,C10H12N4O6,0,p,28.0,True
+akg_p,2-Oxoglutarate,C5H4O5,-2,p,16.0,True
+frulys_c,Fructoselysine,C12H25N2O7,1,c,52.0,True
+g3pg_e,Glycerophosphoglycerol,C6H14O8P,-1,e,28.0,True
+ocACP_c,Octanoyl-ACP (n-C8:0ACP),C19H35N2O8PRS,-1,c,,False
+ttdcea_p,Tetradecenoate (n-C14:1),C14H25O2,-1,p,78.0,True
+2agpe160_c,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0),C21H44NO7P1,0,c,116.0,True
+kdo2lipid4_p,KDO(2)-lipid IV(A),C84H148N2O37P2,-6,p,420.0,True
+athtp_c,Adenosine thiamine triphosphate,C22H28N9O13P3S,-2,c,86.0,True
+3ohodcoa_c,3-Oxooctadecanoyl-CoA,C39H64N7O18P3S,-4,c,188.0,True
+23dhbzs3_c,2-3-dihydroxybenzoylserine trimer,C30H28N3O16,-1,c,108.0,True
+sqg_c,1-(?-D-sulfoquinovosyl)glycerol,C9H17O10S,-1,c,40.0,True
+fad_p,Flavin adenine dinucleotide oxidized,C27H31N9O15P2,-2,p,94.0,True
+rhmn_c,L-rhamnonate,C6H11O6,-1,c,24.0,True
+cbp_c,Carbamoyl phosphate,CH2NO5P,-2,c,0.0,True
+3mob_c,3-Methyl-2-oxobutanoate,C5H7O3,-1,c,22.0,True
+suchms_c,O-Succinyl-L-homoserine,C8H12NO6,-1,c,30.0,True
+dcyt_c,Deoxycytidine,C9H13N3O4,0,c,32.0,True
+dc2coa_c,Trans-Dec-2-enoyl-CoA,C31H48N7O17P3S,-4,c,142.0,True
+glyc_e,Glycerol,C3H8O3,0,e,14.0,True
+4mop_c,4-Methyl-2-oxopentanoate,C6H9O3,-1,c,28.0,True
+gal1p_c,Alpha-D-Galactose 1-phosphate,C6H11O9P,-2,c,24.0,True
+dann_c,"7,8-Diaminononanoate",C9H21N2O2,1,c,46.0,True
+gdpmann_c,GDP-D-mannose,C16H23N5O16P2,-2,c,52.0,True
+2h3oppan_c,2-Hydroxy-3-oxopropanoate,C3H3O4,-1,c,8.0,True
+hpyr_c,Hydroxypyruvate,C3H3O4,-1,c,8.0,True
+tartr__L_e,L-tartrate,C4H4O6,-2,e,10.0,True
+cbi_c,Cobinamide,C48H72CoN11O8,0,c,,False
+octa_e,Octanoate (n-C8:0),C8H15O2,-1,e,44.0,True
+gdp_e,GDP C10H12N5O11P2,C10H12N5O11P2,-3,e,28.0,True
+dmso_p,Dimethyl sulfoxide,C2H6OS,0,p,18.0,True
+gdp_p,GDP C10H12N5O11P2,C10H12N5O11P2,-3,p,28.0,True
+4hoxpacd_e,4-Hydroxyphenylacetaldehyde,C8H8O2,0,e,36.0,True
+acser_p,O-Acetyl-L-serine,C5H9NO4,0,p,18.0,True
+cdpdodecg_c,"CDP-1,2-dioctadecanoylglycerol",C48H87N3O15P2,-2,c,252.0,True
+ps140_c,"Phosphatidylserine (ditetradecanoyl, n-C14:0)",C34H65N1O10P1,-1,c,184.0,True
+2tdecg3p_c,2-tetradecanoyl-sn-glycerol 3-phosphate,C17H34O7P1,-1,c,94.0,True
+2tdec7eg3p_c,2-tetradec-7-enoyl-sn-glycerol 3-phosphate,C17H32O7P1,-1,c,92.0,True
+bmocogdp_c,Bis-molybdopterin guanine dinucleotide,C40H44N20O27P4S4Mo,-4,c,,False
+mththf_e,"(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran",C5H10O5,0,e,20.0,True
+dhptdp_c,"(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione",C5H7O7P,-2,c,20.0,True
+cholate_c,Cholate c,C24H39O5,-1,c,126.0,True
+puacgam_c,"Poly-?-1,6-N-acetyl-D-glucosamine",C8N1O5H14R,1,c,,False
+ppi_c,Diphosphate,HO7P2,-3,c,0.0,True
+nadp_c,Nicotinamide adenine dinucleotide phosphate,C21H25N7O17P3,-3,c,72.0,True
+glu__L_c,L-Glutamate,C5H8NO4,-1,c,18.0,True
+fum_c,Fumarate,C4H2O4,-2,c,12.0,True
+spmd_c,Spermidine,C7H22N3,3,c,38.0,True
+ile__L_c,L-Isoleucine,C6H13NO2,0,c,30.0,True
+3dhq_c,3-Dehydroquinate,C7H9O6,-1,c,26.0,True
+hisp_c,L-Histidinol phosphate,C6H11N3O4P,-1,c,24.0,True
+so4_e,Sulfate,O4S,-2,e,0.0,True
+orn_e,Ornithine,C5H13N2O2,1,e,22.0,True
+galt1p_c,Galactitol 1-phosphate,C6H13O9P,-2,c,26.0,True
+ppa_c,Propionate (n-C3:0),C3H5O2,-1,c,14.0,True
+taur_c,Taurine C2H7NO3S,C2H7NO3S,0,c,12.0,True
+uamag_c,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate,C28H39N5O23P2,-4,c,104.0,True
+dhpt_c,Dihydropteroate,C14H13N6O3,-1,c,46.0,True
+manglyc_e,2(alpha-D-Mannosyl)-D-glycerate,C9H15O9,-1,e,34.0,True
+ascb__L_p,L-Ascorbate,C6H8O6,0,p,20.0,True
+idon__L_p,L-Idonate,C6H11O7,-1,p,22.0,True
+urea_p,Urea CH4N2O,CH4N2O,0,p,0.0,True
+gicolipa_c,Glucosyl-inner core oligosaccharide lipid A,C151H261N2O79P4,-11,c,732.0,True
+halipa_e,Hepta-acylated KDO(2)-lipid (A),C126H226N2O40P2,-6,e,660.0,True
+butso3_c,Butanesulfonate,C4H9O3S,-1,c,26.0,True
+lipoate_p,Lipoate,C8H14O2S2,0,p,54.0,True
+2agpg120_p,2-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0),C18H36O9P1,-1,p,96.0,True
+2agpg180_p,2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0),C24H48O9P1,-1,p,132.0,True
+1agpe120_p,1-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0),C17H36NO7P1,0,p,92.0,True
+oxa_c,Oxalate,C2O4,-2,c,2.0,True
+dxylnt_e,D-Xylonate,C5H9O6,-1,e,18.0,True
+nalme_c,N-?-acetyl lysine methyl ester,C9H19N2O3,1,c,42.0,True
+udpg_c,UDPglucose,C15H22N2O17P2,-2,c,54.0,True
+gln__L_c,L-Glutamine,C5H10N2O3,0,c,18.0,True
+3c3hmp_c,3-Carboxy-3-hydroxy-4-methylpentanoate,C7H10O5,-2,c,30.0,True
+anth_c,Anthranilate,C7H6NO2,-1,c,28.0,True
+pap_c,"Adenosine 3',5'-bisphosphate",C10H11N5O10P2,-4,c,30.0,True
+xmp_c,Xanthosine 5'-phosphate,C10H11N4O9P,-2,c,28.0,True
+ile__L_e,L-Isoleucine,C6H13NO2,0,e,30.0,True
+2omhmbl_c,"2-Octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinol",C48H74O4,0,c,258.0,True
+5dh4dglc_c,5-Dehydro-4-deoxy-D-glucarate,C6H6O7,-2,c,18.0,True
+cechddd_c,"Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol",C9H11O4,-1,c,40.0,True
+25dkglcn_c,"2,5-diketo-D-gluconate",C6H7O7,-1,c,18.0,True
+adphep_DD_c,ADP-D-glycero-D-manno-heptose,C17H25N5O16P2,-2,c,58.0,True
+h2s_e,Hydrogen sulfide,H2S,0,e,8.0,True
+acac_e,Acetoacetate,C4H5O3,-1,e,16.0,True
+4adcho_c,4-amino-4-deoxychorismate,C10H10NO5,-1,c,38.0,True
+rib__D_p,D-Ribose,C5H10O5,0,p,20.0,True
+xyl__D_p,D-Xylose,C5H10O5,0,p,20.0,True
+inost_p,Myo-Inositol,C6H12O6,0,p,24.0,True
+ocdca_p,Octadecanoate (n-C18:0),C18H35O2,-1,p,104.0,True
+g3ps_e,Glycerophosphoserine,C6H13NO8P,-1,e,24.0,True
+3gmp_p,Guanosine 3  phosphate C10H12N5O8P,C10H12N5O8P,-2,p,28.0,True
+anhgm4p_p,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide,C37H57N7O20,-2,p,146.0,True
+udpLa4n_c,Uridine 5''-diphospho-{beta}-4-deoxy-4-amino-L-arabinose,C14H22N3O15P2,-1,c,50.0,True
+hacolipa_e,Hepta-acylated core oligosaccharide lipid A (E. coli),C192H333N2O101P4,-11,e,924.0,True
+o16aund_c,O16 antigen undecaprenyl diphosphate,C89H145N1O32P2,-2,c,446.0,True
+o16aund_p,O16 antigen undecaprenyl diphosphate,C89H145N1O32P2,-2,p,446.0,True
+3hhexACP_c,(R)-3-Hydroxyhexanoyl-[acyl-carrier protein],C17H31N2O9PRS,-1,c,,False
+t3c5ddeceACP_c,Trans-3-cis-5-dodecenoyl-[acyl-carrier protein],C23H39N2O8PRS,-1,c,,False
+ps120_c,"Phosphatidylserine (didodecanoyl, n-C12:0)",C30H57N1O10P1,-1,c,160.0,True
+12dgr161_p,"1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)",C35H64O5,0,p,194.0,True
+12dgr120_p,"1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)",C27H52O5,0,p,150.0,True
+pydam_p,Pyridoxamine,C8H13N2O2,1,p,34.0,True
+btn_p,Biotin,C10H15N2O3S,-1,p,50.0,True
+ttdcap_c,Tetradecanoyl-phosphate (n-C14:0),C14H28O5P,-1,c,80.0,True
+ch4_p,Methane,CH4,0,p,8.0,True
+fmn_p,FMN C17H19N4O9P,C17H19N4O9P,-2,p,64.0,True
+dhptdd_c,"3-hydroxy-5-phosphonooxypentane-2,4-dione",C5H7O7P,-2,c,20.0,True
+dtgcl_c,2-hydroxyethyldisulfide,C4H10O2S2,0,c,34.0,True
+cholate_p,Cholate c,C24H39O5,-1,p,126.0,True
+34dphacoa_c,"3,4-dihydroxyphenylacetyl-CoA",C29H38N7O19P3S,-4,c,120.0,True
+metglcur_p,1-O-methyl-Beta-D-glucuronate,C7H11O7,-1,p,26.0,True
+g1p_c,D-Glucose 1-phosphate,C6H11O9P,-2,c,24.0,True
+acorn_c,N2-Acetyl-L-ornithine,C7H14N2O3,0,c,30.0,True
+glu5sa_c,L-Glutamate 5-semialdehyde,C5H9NO3,0,c,20.0,True
+2dhp_c,2-Dehydropantoate,C6H9O4,-1,c,26.0,True
+aacoa_c,Acetoacetyl-CoA,C25H36N7O18P3S,-4,c,104.0,True
+hemeO_c,Heme O C49H56FeN4O5,C49H56FeN4O5,-2,c,,False
+4abut_e,4-Aminobutanoate,C4H9NO2,0,e,18.0,True
+glu__L_e,L-Glutamate,C5H8NO4,-1,e,18.0,True
+2oph_c,2-Octaprenylphenol,C46H70O,0,c,252.0,True
+ckdo_c,CMP-3-deoxy-D-manno-octulosonate,C17H24N3O15P,-2,c,60.0,True
+glcr_c,D-Glucarate,C6H8O8,-2,c,18.0,True
+gmhep7p_c,D-Glycero-D-manno-heptose 7-phosphate,C7H13O10P,-2,c,28.0,True
+od2coa_c,Trans-Octadec-2-enoyl-CoA,C39H64N7O17P3S,-4,c,190.0,True
+agm_p,Agmatine,C5H16N4,2,p,22.0,True
+chol_p,Choline C5H14NO,C5H14NO,1,p,28.0,True
+3hpppn_p,3-(3-hydroxy-phenyl)propionate,C9H9O3,-1,p,40.0,True
+minohp_p,Myo-Inositol hexakisphosphate,C6H6O24P6,-12,p,24.0,True
+dcmp_p,DCMP C9H12N3O7P,C9H12N3O7P,-2,p,32.0,True
+eca3und_p,(enterobacterial common antigen)x3 undecaprenyl-diphosphate,C127H198N9O52P2,-5,p,590.0,True
+ragund_c,Rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate,C69H113N1O16P2,-2,c,366.0,True
+no_p,Nitric oxide,NO,0,p,-5.0,True
+murein4p4p_p,"Two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain)",C74H114N14O40,-4,p,292.0,True
+tpalm2eACP_c,Trans-Hexadec-2-enoyl-[acyl-carrier protein],C27H49N2O8PRS,-1,c,,False
+pgp160_c,"Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)",C38H73O13P2,-3,c,212.0,True
+pe160_c,"Phosphatidylethanolamine (dihexadecanoyl, n-C16:0)",C37H74N1O8P1,0,c,208.0,True
+enlipa_p,Phosphoethanolamine KDO(2)-lipid (A),C112H202N3O42P3,-6,p,578.0,True
+pg181_p,"Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)",C42H78O10P1,-1,p,232.0,True
+thcur_c,Tetrahydrocurcumin,C21H24O6,0,c,96.0,True
+nadhx__R_c,(R)-NADHX,C21H29N7O15P2,-2,c,74.0,True
+2cpr5p_c,1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate,C12H13NO9P,-3,c,48.0,True
+dcmp_c,DCMP C9H12N3O7P,C9H12N3O7P,-2,c,32.0,True
+dgmp_c,DGMP C10H12N5O7P,C10H12N5O7P,-2,c,30.0,True
+4mhetz_c,4-Methyl-5-(2-hydroxyethyl)-thiazole,C6H9NOS,0,c,34.0,True
+tyr__L_e,L-Tyrosine,C9H11NO3,0,e,38.0,True
+2dmmq8_c,2-Demethylmenaquinone 8,C50H70O2,0,c,266.0,True
+cys__L_e,L-Cysteine,C3H7NO2S,0,e,18.0,True
+26dap__M_e,"Meso-2,6-Diaminoheptanedioate",C7H14N2O4,0,e,28.0,True
+pppn_c,Phenylpropanoate,C9H9O2,-1,c,42.0,True
+malthx_c,Maltohexaose,C36H62O31,0,c,144.0,True
+acon_T_c,Trans-Aconitate,C6H3O6,-3,c,18.0,True
+bbtcoa_c,Gamma-butyrobetainyl-CoA,C28H46N8O17P3S,-3,c,124.0,True
+ddca_e,Dodecanoate (n-C12:0),C12H23O2,-1,e,68.0,True
+octeACP_c,Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1),C29H53N2O8PRS,-1,c,,False
+gtspmd_c,Glutathionylspermidine,C17H36N6O5S,2,c,80.0,True
+cys__L_p,L-Cysteine,C3H7NO2S,0,p,18.0,True
+arbtn_fe3_p,Aerobactin,C22H33FeN4O13,0,p,,False
+orn_p,Ornithine,C5H13N2O2,1,p,22.0,True
+asp__L_p,L-Aspartate,C4H6NO4,-1,p,12.0,True
+crn_p,L-Carnitine,C7H15NO3,0,p,34.0,True
+pro__L_p,L-Proline,C5H9NO2,0,p,22.0,True
+co2_p,CO2 CO2,CO2,0,p,0.0,True
+fe3_c,Iron (Fe3+),Fe,3,c,,False
+fad_e,Flavin adenine dinucleotide oxidized,C27H31N9O15P2,-2,e,94.0,True
+23dappa_c,"2,3-diaminopropionate",C3H9N2O2,1,c,10.0,True
+dopa_p,Dopamine,C8H12NO2,1,p,36.0,True
+g3pc_p,Sn-Glycero-3-phosphocholine,C8H20NO6P,0,p,42.0,True
+anhgm3p_p,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide,C34H52N6O19,-2,p,134.0,True
+anhm4p_c,"1,6-anhydrous-N-Acetylmuramyl-tetrapeptide",C29H44N6O15,-2,c,114.0,True
+udcpp_p,Undecaprenyl phosphate,C55H89O4P,-2,p,308.0,True
+mg2_p,Magnesium,Mg,2,p,-2.0,True
+cyan_p,Hydrogen cyanide,CHN,0,p,2.0,True
+mercppyr_c,Mercaptopyruvate,C3H3O3S,-1,c,16.0,True
+udpg_p,UDPglucose,C15H22N2O17P2,-2,p,54.0,True
+fe3dhbzs_e,"Ferric 2,3-dihydroxybenzoylserine",C10H10NO6Fe,2,e,,False
+t3c7mrseACP_c,Trans-3-cis-7-myristoleoyl-[acyl-carrier protein],C25H43N2O8PRS,-1,c,,False
+t3c11vaceACP_c,Trans-3-cis-11-vacceoyl-[acyl-carrier protein],C29H51N2O8PRS,-1,c,,False
+pg180_c,"Phosphatidylglycerol (dioctadecanoyl, n-C18:0)",C42H82O10P1,-1,c,236.0,True
+1agpe160_p,1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0),C21H44NO7P1,0,p,116.0,True
+chtbs6p_c,Diacetylchitobiose-6-phosphate,C16H27N2O14P,-2,c,64.0,True
+quin_p,Quinate,C7H12O6,0,p,28.0,True
+slnt_e,Selenite,O3Se,-2,e,,False
+moadcoo_c,MoaD Protein with carboxylate,C1O2X,-1,c,,False
+f_c,Fluoride,F,-1,c,,False
+3c2hmp_c,3-Carboxy-2-hydroxy-4-methylpentanoate,C7H10O5,-2,c,30.0,True
+pser__L_c,O-Phospho-L-serine,C3H6NO6P,-2,c,10.0,True
+4abut_c,4-Aminobutanoate,C4H9NO2,0,c,18.0,True
+gmp_c,GMP C10H12N5O8P,C10H12N5O8P,-2,c,28.0,True
+gua_c,Guanine,C5H5N5O,0,c,8.0,True
+udcpdp_c,Undecaprenyl diphosphate,C55H89O7P2,-3,c,308.0,True
+glu__D_c,D-Glutamate,C5H8NO4,-1,c,18.0,True
+3ophb_c,3-Octaprenyl-4-hydroxybenzoate,C47H69O3,-1,c,252.0,True
+3dhsk_c,3-Dehydroshikimate,C7H7O5,-1,c,26.0,True
+acACP_c,Acetyl-ACP,C13H23N2O8PRS,-1,c,,False
+udpgalfur_c,"UDP-D-galacto-1,4-furanose",C15H22N2O17P2,-2,c,54.0,True
+feenter_p,Fe-enterobactin,C30H27FeN3O15,3,p,,False
+glcr_p,D-Glucarate,C6H8O8,-2,p,18.0,True
+tre_p,Trehalose,C12H22O11,0,p,48.0,True
+imp_e,IMP C10H11N4O8P,C10H11N4O8P,-2,e,30.0,True
+feoxam_un_p,Ferroxamine minus Fe(3),C25H46N6O8,-2,p,114.0,True
+gal1p_e,Alpha-D-Galactose 1-phosphate,C6H11O9P,-2,e,24.0,True
+LalaDglu_c,L-alanine-D-glutamate,C8H13N2O5,-1,c,30.0,True
+acglc__D_c,6-Acetyl-D-glucose,C8H14O7,0,c,32.0,True
+r5p_p,Alpha-D-Ribose 5-phosphate,C5H9O8P,-2,p,20.0,True
+r5p_e,Alpha-D-Ribose 5-phosphate,C5H9O8P,-2,e,20.0,True
+acser_e,O-Acetyl-L-serine,C5H9NO4,0,e,18.0,True
+mn2_p,Manganese,Mn,2,p,,False
+3hpalmACP_c,R-3-hydroxypalmitoyl-[acyl-carrier protein],C27H51N2O9PRS,-1,c,,False
+12dgr140_c,"1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)",C31H60O5,0,c,174.0,True
+apg161_c,Acyl phosphatidylglycerol (n-C16:1),C54H98O11P,-1,c,298.0,True
+tartr__D_e,D-tartrate,C4H4O6,-2,e,10.0,True
+r2hglut_c,(R)-2-Hydroxyglutarate,C5H6O5,-2,c,18.0,True
+5phua_c,Phenylureidoacetic acid,C9H10N2O3,0,c,34.0,True
+uppg3_c,Uroporphyrinogen III,C40H36N4O16,-8,c,160.0,True
+3hocoa_c,(S)-3-Hydroxyoctanoyl-CoA,C29H46N7O18P3S,-4,c,130.0,True
+uagmda_c,"Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine",C87H139N7O23P2,-4,c,434.0,True
+his__L_e,L-Histidine,C6H9N3O2,0,e,20.0,True
+hxan_e,Hypoxanthine,C5H4N4O,0,e,10.0,True
+na1_e,Sodium,Na,1,e,-1.0,True
+fmn_e,FMN C17H19N4O9P,C17H19N4O9P,-2,e,64.0,True
+glyc3p_e,Glycerol 3-phosphate,C3H7O6P,-2,e,14.0,True
+3hcinnm_c,3-hydroxycinnamic acid,C9H7O3,-1,c,38.0,True
+dtdp4aaddg_c,"DTDP-4-acetamido-4,6-dideoxy-D-galactose",C18H27N3O15P2,-2,c,72.0,True
+maltpt_c,Maltopentaose,C30H52O26,0,c,120.0,True
+maltttr_c,Maltotetraose,C24H42O21,0,c,96.0,True
+duri_p,Deoxyuridine,C9H12N2O5,0,p,32.0,True
+tartr__L_p,L-tartrate,C4H4O6,-2,p,10.0,True
+26dap__M_p,"Meso-2,6-Diaminoheptanedioate",C7H14N2O4,0,p,28.0,True
+adocbl_p,Adenosylcobalamin,C72H100CoN18O17P,0,p,,False
+acolipa_p,4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A,C181H314N3O103P4,-9,p,852.0,True
+butso3_p,Butanesulfonate,C4H9O3S,-1,p,26.0,True
+cpgn_un_c,Coprogen unloaded (no Fe(III)),C35H52N6O13,-4,c,152.0,True
+ps161_c,"Phosphatidylserine (dihexadec-9-enoyl, n-C16:1)",C38H69N1O10P1,-1,c,204.0,True
+progly_p,L-Prolinylglycine,C7H12N2O3,0,p,28.0,True
+pa181_p,"1,2-dioctadec-11-enoyl-sn-glycerol 3-phosphate",C39H71O8P1,-2,p,218.0,True
+2agpe160_p,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0),C21H44NO7P1,0,p,116.0,True
+2agpg140_c,2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0),C20H40O9P1,-1,c,108.0,True
+1hdecg3p_p,1-hexadecanoyl-sn-glycerol 3-phosphate,C19H37O7P1,-2,p,106.0,True
+mal__D_p,D-Malate,C4H4O5,-2,p,12.0,True
+5dglcn_p,5-Dehydro-D-gluconate,C6H9O7,-1,p,20.0,True
+arbt_e,Arbutin C12H16O7,C12H16O7,0,e,50.0,True
+quin_c,Quinate,C7H12O6,0,c,28.0,True
+sel_p,Selenate,O4Se,-2,p,,False
+epmeACP_c,Enoylpimeloyl-[acyl-carrier protein] methyl ester,C19H31N2O10PRS,-1,c,,False
+mococdp_c,Molybdopterin cytosine dinucleotide,C19H22N8O15P2S2Mo,-2,c,,False
+doxrbcn_p,Doxorubicin,C27H29NO11,0,p,112.0,True
+ala__L_c,L-Alanine,C3H7NO2,0,c,12.0,True
+hco3_c,Bicarbonate,CHO3,-1,c,0.0,True
+phe__L_c,L-Phenylalanine,C9H11NO2,0,c,40.0,True
+15dap_c,"1,5-Diaminopentane",C5H16N2,2,c,28.0,True
+ser__D_c,D-Serine,C3H7NO3,0,c,10.0,True
+mlthf_c,"5,10-Methylenetetrahydrofolate",C20H21N7O6,-2,c,70.0,True
+frdp_c,Farnesyl diphosphate,C15H25O7P2,-3,c,84.0,True
+pant__R_c,(R)-Pantoate,C6H11O4,-1,c,28.0,True
+glcur_c,D-Glucuronate,C6H9O7,-1,c,20.0,True
+inost_e,Myo-Inositol,C6H12O6,0,e,24.0,True
+cytd_e,Cytidine,C9H13N3O5,0,e,30.0,True
+2dmmql8_c,2-Demethylmenaquinol 8,C50H72O2,0,c,268.0,True
+g3pe_c,Sn-Glycero-3-phosphoethanolamine,C5H14NO6P,0,c,24.0,True
+glyclt_e,Glycolate C2H3O3,C2H3O3,-1,e,6.0,True
+12ppd__S_e,"(S)-Propane-1,2-diol",C3H8O2,0,e,16.0,True
+1pyr5c_c,1-Pyrroline-5-carboxylate,C5H6NO2,-1,c,20.0,True
+ppa_e,Propionate (n-C3:0),C3H5O2,-1,e,14.0,True
+acmum_p,N-Acetylmuramate,C11H18NO8,-1,p,44.0,True
+malttr_p,Maltotriose C18H32O16,C18H32O16,0,p,72.0,True
+acald_p,Acetaldehyde,C2H4O,0,p,10.0,True
+gly_p,Glycine,C2H5NO2,0,p,6.0,True
+ser__D_p,D-Serine,C3H7NO3,0,p,10.0,True
+o2s_p,Superoxide anion,O2,-1,p,-3.0,True
+23cump_p,"2',3'-Cyclic UMP",C9H10N2O8P,-1,p,30.0,True
+udpLa4fn_c,Uridine 5''-diphospho-{beta}-4-deoxy-4-formamido-L-arabinose,C15H21N3O16P2,-2,c,52.0,True
+uacgam_e,UDP-N-acetyl-D-glucosamine,C17H25N3O17P2,-2,e,62.0,True
+ocdcaACP_c,Octadecanoyl-ACP (n-C18:0ACP),C29H55N2O8PRS,-1,c,,False
+pg160_c,"Phosphatidylglycerol (dihexadecanoyl, n-C16:0)",C38H74O10P1,-1,c,212.0,True
+12dgr120_c,"1,2-Diacyl-sn-glycerol (didodecanoyl, n-C12:0)",C27H52O5,0,c,150.0,True
+pa160_p,"1,2-dihexadecanoyl-sn-glycerol 3-phosphate",C35H67O8P1,-2,p,198.0,True
+2odec11eg3p_c,2-octadec-11-enoyl-sn-glycerol 3-phosphate,C21H40O7P1,-1,c,116.0,True
+12ppd__R_p,"(R)-Propane-1,2-diol",C3H8O2,0,p,16.0,True
+f6p_p,D-Fructose 6-phosphate,C6H11O9P,-2,p,24.0,True
+kdo2lipid4_e,KDO(2)-lipid IV(A),C84H148N2O37P2,-6,e,420.0,True
+5pg35pg_c,5-Phosphoguanylyl(3->5)guanosine,C20H23N10O15P2,-3,c,56.0,True
+urate_p,Urate C5H4N4O3,C5H4N4O3,0,p,6.0,True
+h2o_c,H2O H2O,H2O,0,c,0.0,True
+ala__D_c,D-Alanine,C3H7NO2,0,c,12.0,True
+alac__S_c,(S)-2-Acetolactate,C5H7O4,-1,c,20.0,True
+dcdp_c,DCDP C9H12N3O10P2,C9H12N3O10P2,-3,c,32.0,True
+db4p_c,"3,4-dihydroxy-2-butanone 4-phosphate",C4H7O6P,-2,c,18.0,True
+nmn_c,NMN C11H14N2O8P,C11H14N2O8P,-1,c,42.0,True
+gly_c,Glycine,C2H5NO2,0,c,6.0,True
+h2o2_c,Hydrogen peroxide,H2O2,0,c,-2.0,True
+malcoa_c,Malonyl CoA C24H33N7O19P3S,C24H33N7O19P3S,-5,c,96.0,True
+xyl__D_e,D-Xylose,C5H10O5,0,e,20.0,True
+galctn__D_e,D-Galactonate,C6H11O7,-1,e,22.0,True
+fmnh2_c,Reduced FMN,C17H21N4O9P,-2,c,66.0,True
+alaala_c,D-Alanyl-D-alanine,C6H12N2O3,0,c,24.0,True
+spmd_p,Spermidine,C7H22N3,3,p,38.0,True
+ni2_p,Nickel,Ni,2,p,,False
+xmp_p,Xanthosine 5'-phosphate,C10H11N4O9P,-2,p,28.0,True
+pacald_e,Phenylacetaldehyde,C8H8O,0,e,38.0,True
+anhgm_c,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,C19H29N2O12,-1,c,76.0,True
+LalaDgluMdapDala_p,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",C18H30N5O9,-1,p,70.0,True
+garagund_c,Glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate,C77H125N1O22P2,-2,c,398.0,True
+o16a3und_p,(O16 antigen)x3 undecaprenyl diphosphate,C157H255N3O82P2,-2,p,722.0,True
+sulfac_p,Sulfoacetate,C2H2O5S,-2,p,8.0,True
+cu2_c,Copper,Cu,2,c,,False
+tcynt_e,Thiocyanate,CNS,-1,e,8.0,True
+14glucan_c,"1,4-alpha-D-glucan",C36H62O31,0,c,144.0,True
+cdpdodec11eg_c,"CDP-1,2-dioctadec-11-enoylglycerol",C48H83N3O15P2,-2,c,248.0,True
+pgp120_p,"Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)",C30H57O13P2,-3,p,164.0,True
+1agpg180_p,1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:0),C24H48O9P1,-1,p,132.0,True
+psclys_c,Psicoselysine,C12H25N2O7,1,c,52.0,True
+colipap_e,Core oligosaccharide lipid A diphosphate,C176H303N2O103P5,-12,e,832.0,True
+dhgly_c,Dehydroglycine,C2H2NO2,-1,c,4.0,True
+lipopb_c,Lipoate (protein bound),C8H13OS2,1,c,54.0,True
+2ippm_c,2-Isopropylmaleate,C7H8O4,-2,c,30.0,True
+3psme_c,5-O-(1-Carboxyvinyl)-3-phosphoshikimate,C10H9O10P,-4,c,38.0,True
+imacp_c,3-(Imidazol-4-yl)-2-oxopropyl phosphate,C6H7N2O5P,-2,c,22.0,True
+xan_e,Xanthine,C5H4N4O2,0,e,8.0,True
+ttdcea_e,Tetradecenoate (n-C14:1),C14H25O2,-1,e,78.0,True
+tma_c,Trimethylamine,C3H10N,1,c,18.0,True
+uama_c,UDP-N-acetylmuramoyl-L-alanine,C23H33N4O20P2,-3,c,86.0,True
+trp__L_p,L-Tryptophan,C11H12N2O2,0,p,46.0,True
+lcts_p,Lactose C12H22O11,C12H22O11,0,p,48.0,True
+fruur_e,D-Fructuronate,C6H9O7,-1,e,20.0,True
+frulys_p,Fructoselysine,C12H25N2O7,1,p,52.0,True
+pmtcoa_c,Palmitoyl-CoA (n-C16:0CoA),C37H62N7O17P3S,-4,c,180.0,True
+dump_e,DUMP C9H11N2O8P,C9H11N2O8P,-2,e,32.0,True
+3amp_p,3  AMP C10H12N5O7P,C10H12N5O7P,-2,p,30.0,True
+kphphhlipa_c,Kdo-phospho-heptosyl-phospho-heptosyl-heptosyl-kdo2-lipidA,C139H241N2O70P4,-11,c,682.0,True
+gagicolipa_c,Galactosyl-glucosyl-inner core oligosaccharide lipid A,C157H271N2O84P4,-11,c,756.0,True
+hg2_p,Mercury  charged 2  Hg,Hg,2,p,,False
+2amsa_c,2-Aminomalonate semialdehyde,C3H5NO3,0,c,8.0,True
+dsbaox_p,Periplasmic protein disulfide isomerase I (oxidized),X,0,p,,False
+pa161_p,"1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate",C35H63O8P1,-2,p,194.0,True
+ca2_c,Calcium,Ca,2,c,-2.0,True
+galctn__L_p,L-Galactonate,C6H11O7,-1,p,22.0,True
+2fe1s_c,[2Fe-1S] desulfurated iron-sulfur cluster,SFe2,2,c,,False
+flxso_c,Flavodoxin semi oxidized,XH,0,c,,False
+gal_c,D-Galactose,C6H12O6,0,c,24.0,True
+phom_c,O-Phospho-L-homoserine,C4H8NO6P,-2,c,16.0,True
+glc__D_e,D-Glucose,C6H12O6,0,e,24.0,True
+3odcoa_c,3-Oxodecanoyl-CoA,C31H48N7O18P3S,-4,c,140.0,True
+ugmda_c,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine",C41H61N9O28P2,-4,c,156.0,True
+mobd_e,Molybdate,MoO4,-2,e,,False
+nh4_e,Ammonium,H4N,1,e,0.0,True
+idp_c,IDP C10H11N4O11P2,C10H11N4O11P2,-3,c,30.0,True
+ahdt_c,"2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate",C9H12N5O13P3,-4,c,26.0,True
+hdca_e,Hexadecanoate (n-C16:0),C16H31O2,-1,e,92.0,True
+cenchddd_c,"Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol",C9H9O4,-1,c,38.0,True
+uacmamu_c,UDP-N-acetyl-D-mannosaminouronate,C17H22N3O18P2,-3,c,58.0,True
+hxcoa_c,Hexanoyl-CoA (n-C6:0CoA),C27H42N7O17P3S,-4,c,120.0,True
+cynt_p,Cyanate,CNO,-1,p,0.0,True
+3hcinnm_p,3-hydroxycinnamic acid,C9H7O3,-1,p,38.0,True
+ura_p,Uracil,C4H4N2O2,0,p,10.0,True
+fald_e,Formaldehyde,CH2O,0,e,4.0,True
+uacgam_p,UDP-N-acetyl-D-glucosamine,C17H25N3O17P2,-2,p,62.0,True
+murein5p5p5p_p,"Three linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)",C120H186N24O63,-6,p,474.0,True
+murein4px4p_p,"Two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain)",C74H112N14O39,-4,p,292.0,True
+tmrs2eACP_c,Trans-Tetradec-2-enoyl-[acyl-carrier protein],C25H45N2O8PRS,-1,c,,False
+pe180_c,"Phosphatidylethanolamine (dioctadecanoyl, n-C18:0)",C41H82N1O8P1,0,c,232.0,True
+cpg180_c,"Cyclopropane phosphatidylglycerol (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)",C44H82O10P1,-1,c,244.0,True
+pg120_p,"Phosphatidylglycerol (didodecanoyl, n-C12:0)",C30H58O10P1,-1,p,164.0,True
+2hdec9eg3p_c,2-hexadec-9-enoyl-sn-glycerol 3-phosphate,C19H36O7P1,-1,c,104.0,True
+cl_c,Chloride,Cl,-1,c,1.0,True
+2oxpaccoa_c,2-oxepin-2(3H)-ylideneacetyl-CoA,C29H38N7O18P3S,-4,c,122.0,True
+g6p_c,D-Glucose 6-phosphate,C6H11O9P,-2,c,24.0,True
+trdrd_c,Reduced thioredoxin,XH2,0,c,,False
+mnl1p_c,D-Mannitol 1-phosphate,C6H13O9P,-2,c,26.0,True
+agm_c,Agmatine,C5H16N4,2,c,22.0,True
+prpp_c,5-Phospho-alpha-D-ribose 1-diphosphate,C5H8O14P3,-5,c,20.0,True
+histd_c,L-Histidinol,C6H12N3O,1,c,24.0,True
+orot_c,Orotate C5H3N2O4,C5H3N2O4,-1,c,10.0,True
+damp_c,DAMP C10H12N5O6P,C10H12N5O6P,-2,c,32.0,True
+fmn_c,FMN C17H19N4O9P,C17H19N4O9P,-2,c,64.0,True
+3oddcoa_c,3-Oxododecanoyl-CoA,C33H52N7O18P3S,-4,c,152.0,True
+trnaglu_c,TRNA (Glu),R,0,c,,False
+ins_e,Inosine,C10H12N4O5,0,e,30.0,True
+q8_c,Ubiquinone-8,C49H74O4,0,c,262.0,True
+orn_c,Ornithine,C5H13N2O2,1,c,22.0,True
+2ombzl_c,"2-Octaprenyl-6-methoxy-1,4-benzoquinol",C47H72O3,0,c,254.0,True
+gthox_e,Oxidized glutathione,C20H30N6O12S2,-2,e,82.0,True
+etha_c,Ethanolamine,C2H8NO,1,c,10.0,True
+betald_c,Betaine aldehyde,C5H12NO,1,c,26.0,True
+hdca_c,Hexadecanoate (n-C16:0),C16H31O2,-1,c,92.0,True
+fgam_c,N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide,C8H13N2O9P,-2,c,28.0,True
+dd2coa_c,Trans-Dodec-2-enoyl-CoA,C33H52N7O17P3S,-4,c,154.0,True
+iasp_c,Iminoaspartate,C4H3NO4,-2,c,10.0,True
+fru_p,D-Fructose,C6H12O6,0,p,24.0,True
+indole_p,Indole,C8H7N,0,p,36.0,True
+ppal_c,Propanal,C3H6O,0,c,16.0,True
+12dgr161_c,"1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)",C35H64O5,0,c,194.0,True
+tartr__D_c,D-tartrate,C4H4O6,-2,c,10.0,True
+3oxdhscoa_c,"3-oxo-5,6-dehydrosuberyl-CoA",C29H39N7O20P3S,-5,c,120.0,True
+gslnt_c,Glutathiolselenolate,C10H16N3O6SSe,-1,c,,False
+ampnt_c,Aminomethylphosphonate,CH5NO3P,-1,c,6.0,True
+f6p_c,D-Fructose 6-phosphate,C6H11O9P,-2,c,24.0,True
+ametam_c,S-Adenosylmethioninamine,C14H24N6O3S,2,c,60.0,True
+pphn_c,Prephenate,C10H8O6,-2,c,38.0,True
+prlp_c,5-[(5-phospho-1-deoxyribulos-1-ylamino)methylideneamino]-1-(5-phosphoribosyl)imidazole-4-carboxamide,C15H21N5O15P2,-4,c,50.0,True
+2mahmp_c,2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate,C6H8N3O7P2,-3,c,22.0,True
+nicrnt_c,Nicotinate D-ribonucleotide,C11H12NO9P,-2,c,42.0,True
+o2_e,O2 O2,O2,0,e,-4.0,True
+succ_e,Succinate,C4H4O4,-2,e,14.0,True
+mql8_c,Menaquinol 8,C51H74O2,0,c,274.0,True
+xtsn_e,Xanthosine,C10H12N4O6,0,e,28.0,True
+5dglcn_c,5-Dehydro-D-gluconate,C6H9O7,-1,c,20.0,True
+mmet_e,S-Methyl-L-methionine,C6H14NO2S,1,e,36.0,True
+N1aspmd_c,N1-Acetylspermidine,C9H23N3O,2,c,46.0,True
+methf_c,"5,10-Methenyltetrahydrofolate",C20H20N7O6,-1,c,68.0,True
+ala__L_p,L-Alanine,C3H7NO2,0,p,12.0,True
+galur_p,D-Galacturonate,C6H9O7,-1,p,20.0,True
+for_p,Formate,CH1O2,-1,p,2.0,True
+fecrm_e,Ferrichrome,C27H42FeN9O12,0,e,,False
+mal__D_e,D-Malate,C4H4O5,-2,e,12.0,True
+g3pg_p,Glycerophosphoglycerol,C6H14O8P,-1,p,28.0,True
+ppgpp_c,"Guanosine 3',5'-bis(diphosphate)",C10H11N5O17P4,-6,c,28.0,True
+ethso3_c,Ethanesulfonate,C2H5O3S,-1,c,14.0,True
+acgam1p_p,N-Acetyl-D-glucosamine 1-phosphate,C8H14NO9P,-2,p,32.0,True
+murein5px4p_p,"Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)",C77H117N15O40,-4,p,304.0,True
+dcaACP_c,Decanoyl-ACP (n-C10:0ACP),C21H39N2O8PRS,-1,c,,False
+3hcddec5eACP_c,(R)-3-hydroxy-cis-dodec-5-enoyl-[acyl-carrier protein],C23H41N2O9PRS,-1,c,,False
+2agpg140_p,2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0),C20H40O9P1,-1,p,108.0,True
+1agpe180_p,1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0),C23H48NO7P1,0,p,128.0,True
+1agpg141_p,1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1),C20H38O9P1,-1,p,106.0,True
+sufbcd_c,SufBCD scaffold complex,H8O2S6R,0,c,,False
+nadphx__R_c,(R)-NADPHX,C21H28N7O18P3,-4,c,74.0,True
+oaa_c,Oxaloacetate,C4H2O5,-2,c,10.0,True
+tre6p_c,"Alpha,alpha'-Trehalose 6-phosphate",C12H21O14P,-2,c,48.0,True
+man6p_c,D-Mannose 6-phosphate,C6H11O9P,-2,c,24.0,True
+fprica_c,5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide,C10H13N4O9P,-2,c,30.0,True
+mana_c,D-Mannonate,C6H11O7,-1,c,22.0,True
+glcn_e,D-Gluconate,C6H11O7,-1,e,22.0,True
+lipidA_c,"2,3,2'3'-Tetrakis(beta-hydroxymyristoyl)-D-glucosaminyl-1,6-beta-D-glucosamine 1,4'-bisphosphate",C68H126N2O23P2,-4,c,360.0,True
+sbt6p_c,D-Sorbitol 6-phosphate,C6H13O9P,-2,c,26.0,True
+csn_c,Cytosine,C4H5N3O,0,c,10.0,True
+ap5a_c,"P1,P5-Bis(5'-adenosyl) pentaphosphate",C20H24N10O22P5,-5,c,60.0,True
+seln_c,Selenide,HSe,-1,c,,False
+apoACP_c,Apoprotein [acyl carrier protein],RHO,0,c,,False
+ump_e,UMP C9H11N2O9P,C9H11N2O9P,-2,e,30.0,True
+enter_p,Enterochelin,C30H27N3O15,0,p,108.0,True
+o2s_e,Superoxide anion,O2,-1,e,-3.0,True
+3cmp_p,3  CMP C9H12N3O8P,C9H12N3O8P,-2,p,30.0,True
+crn__D_c,D-Carnitine,C7H15NO3,0,c,34.0,True
+udpgal_e,UDPgalactose,C15H22N2O17P2,-2,e,54.0,True
+udpacgal_p,UDP-N-acetyl-D-galactosamine,C17H25N3O17P2,-2,p,62.0,True
+glyc2p_e,Glycerol 2-phosphate,C3H7O6P,-2,e,14.0,True
+murein5p3p_p,"Two linked disacharide pentapeptide and tripeptide murein units (uncrosslinked, middle of chain)",C74H114N14O40,-4,p,292.0,True
+pa180_c,"1,2-dioctadecanoyl-sn-glycerol 3-phosphate",C39H75O8P1,-2,c,222.0,True
+didp_c,DIDP; 2'-deoxyinosine-5'-diphosphate(3-),C10H11N4O10P2,-3,c,32.0,True
+pg161_p,"Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)",C38H70O10P1,-1,p,208.0,True
+2agpg141_p,2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1),C20H38O9P1,-1,p,106.0,True
+1hdec9eg3p_p,1-hexadec-9-enoyl-sn-glycerol 3-phosphate,C19H35O7P1,-2,p,104.0,True
+iscu_4fe4s_c,IscU with bound [4Fe-4S] cluster,H4O2S10Fe4R,-2,c,,False
+cm_p,Chloramphenicol,C11H12Cl2N2O5,0,p,40.0,True
+cur_c,Curcumin,C21H20O6,0,c,92.0,True
+prcp_c,"5-phospho-?-D-ribose 1,2-cyclic phosphate",C5H7O10P2,-3,c,20.0,True
+succ_c,Succinate,C4H4O4,-2,c,14.0,True
+gam6p_c,D-Glucosamine 6-phosphate,C6H13NO8P,-1,c,24.0,True
+aps_c,Adenosine 5'-phosphosulfate,C10H12N5O10PS,-2,c,30.0,True
+thdp_c,"2,3,4,5-Tetrahydrodipicolinate",C7H7NO4,-2,c,26.0,True
+cdp_c,CDP C9H12N3O11P2,C9H12N3O11P2,-3,c,30.0,True
+ipdp_c,Isopentenyl diphosphate,C5H9O7P2,-3,c,28.0,True
+ppbng_c,Porphobilinogen,C10H13N2O4,-1,c,40.0,True
+pheme_c,Protoheme C34H30FeN4O4,C34H30FeN4O4,-2,c,,False
+gua_e,Guanine,C5H5N5O,0,e,8.0,True
+12ppd__S_c,"(S)-Propane-1,2-diol",C3H8O2,0,c,16.0,True
+2ohph_c,2-Octaprenyl-6-hydroxyphenol,C46H70O2,0,c,250.0,True
+sucglu_c,N2-Succinyl-L-glutamate,C9H10NO7,-3,c,32.0,True
+op4en_c,2-Oxopent-4-enoate,C5H5O3,-1,c,20.0,True
+dmso_c,Dimethyl sulfoxide,C2H6OS,0,c,18.0,True
+dtdp4d6dm_c,DTDP-4-dehydro-6-deoxy-L-mannose,C16H22N2O15P2,-2,c,62.0,True
+malttr_c,Maltotriose C18H32O16,C18H32O16,0,c,72.0,True
+sucarg_c,N2-Succinyl-L-arginine,C10H17N4O5,-1,c,36.0,True
+arab__L_p,L-Arabinose,C5H10O5,0,p,20.0,True
+gsn_p,Guanosine,C10H13N5O5,0,p,28.0,True
+no3_p,Nitrate,NO3,-1,p,-8.0,True
+ddca_p,Dodecanoate (n-C12:0),C12H23O2,-1,p,68.0,True
+mobd_c,Molybdate,MoO4,-2,c,,False
+fecrm_un_e,Ferrichrome minus Fe(III),C27H42N9O12,-3,e,102.0,True
+g3pi_e,Sn-Glycero-3-phospho-1-inositol,C9H18O11P,-1,e,38.0,True
+g3pc_e,Sn-Glycero-3-phosphocholine,C8H20NO6P,0,e,42.0,True
+23camp_p,"2',3'-Cyclic AMP",C10H11N5O6P,-1,p,30.0,True
+uLa4n_c,Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose,C60H100N1O7P1,0,c,328.0,True
+tyrp_p,Phosphotyrosine,C9H10NO6P,-2,p,38.0,True
+ps181_c,"Phosphatidylserine (dioctadec-11-enoyl, n-C18:1)",C42H77N1O10P1,-1,c,228.0,True
+pgp140_p,"Phosphatidylglycerophosphate (ditetradecanoyl, n-C14:0)",C34H65O13P2,-3,p,188.0,True
+2agpg141_c,2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1),C20H38O9P1,-1,c,106.0,True
+2agpg161_c,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1),C22H42O9P1,-1,c,118.0,True
+cysi__L_p,L Cystine C6H12N2O4S2,C6H12N2O4S2,0,p,34.0,True
+2ddara_c,2-dehydro-3-deoxy-D-arabinonate,C5H7O5,-1,c,18.0,True
+s7p_c,Sedoheptulose 7-phosphate,C7H13O10P,-2,c,28.0,True
+prfp_c,1-(5-Phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide,C15H21N5O15P2,-4,c,50.0,True
+csn_e,Cytosine,C4H5N3O,0,e,10.0,True
+kdo8p_c,3-Deoxy-D-manno-octulosonate 8-phosphate,C8H12O11P,-3,c,30.0,True
+ser__L_e,L-Serine,C3H7NO3,0,e,10.0,True
+amob_c,S-Adenosyl-4-methylthio-2-oxobutanoate,C15H19N5O6S,0,c,58.0,True
+ttdca_e,Tetradecanoate (n-C14:0),C14H27O2,-1,e,80.0,True
+mmcoa__S_c,(S)-Methylmalonyl-CoA,C25H35N7O19P3S,-5,c,102.0,True
+glyc__R_c,(R)-Glycerate,C3H5O4,-1,c,10.0,True
+dms_c,Dimethyl sulfide,C2H6S,0,c,20.0,True
+2dh3dgal_c,2-Dehydro-3-deoxy-D-galactonate,C6H9O6,-1,c,22.0,True
+ddcaACP_c,Dodecanoyl-ACP (n-C12:0ACP),C23H43N2O8PRS,-1,c,,False
+hkndd_c,"2-Hydroxy-6-oxonona-2,4-diene-1,9-dioate",C9H8O6,-2,c,34.0,True
+all6p_c,D-Allose 6-phosphate,C6H11O9P,-2,c,24.0,True
+allul6p_c,Allulose 6-phosphate,C6H11O9P,-2,c,24.0,True
+galt_p,Galactitol,C6H14O6,0,p,26.0,True
+glc__D_p,D-Glucose,C6H12O6,0,p,24.0,True
+phe__L_p,L-Phenylalanine,C9H11NO2,0,p,40.0,True
+tsul_p,Thiosulfate,O3S2,-2,p,8.0,True
+thm_p,Thiamin,C12H17N4OS,1,p,56.0,True
+arbtn_fe3_e,Aerobactin,C22H33FeN4O13,0,e,,False
+cl_e,Chloride,Cl,-1,e,1.0,True
+stcoa_c,Stearoyl-CoA (n-C18:0CoA),C39H66N7O17P3S,-4,c,192.0,True
+damp_p,DAMP C10H12N5O6P,C10H12N5O6P,-2,p,32.0,True
+3gmp_e,Guanosine 3  phosphate C10H12N5O8P,C10H12N5O8P,-2,e,28.0,True
+udpglcur_p,UDP-D-glucuronate,C15H19N2O18P2,-3,p,50.0,True
+tddec2eACP_c,Trans-Dodec-2-enoyl-[acyl-carrier protein],C23H41N2O8PRS,-1,c,,False
+pe180_p,"Phosphatidylethanolamine (dioctadecanoyl, n-C18:0)",C41H82N1O8P1,0,p,232.0,True
+2agpe181_c,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1),C23H46NO7P1,0,c,126.0,True
+3hpp_e,3-Hydroxypropanoate,C3H5O3,-1,e,12.0,True
+opmeACP_c,3-Oxo-pimeloyl-[acyl-carrier protein] methyl ester,C19H31N2O11PRS,-1,c,,False
+meoh_p,Methanol,CH4O1,0,p,6.0,True
+bwco1gdp_c,Tungsten bispterin cofactor mono-guanine dinucleotide,C30H32N15O20P3S4W,-4,c,,False
+acmet_c,N-Acetylmethionine,C7H12NO3S,-1,c,38.0,True
+nadhx__S_c,"Adenosine 5'-(3-{5-[(2S)-5-carbamoyl-2-hydroxy-3,4-dihydropyridin-1-yl]-5-deoxy-?-D-ribofuranosyl} dihydrogen diphosphate)",C21H29N7O15P2,-2,c,74.0,True
+23dhmp_c,"(R)-2,3-Dihydroxy-3-methylpentanoate",C6H11O4,-1,c,28.0,True
+hmbil_c,Hydroxymethylbilane,C40H38N4O17,-8,c,160.0,True
+no3_e,Nitrate,NO3,-1,e,-8.0,True
+ara5p_c,D-Arabinose 5-phosphate,C5H9O8P,-2,c,20.0,True
+kdo_c,3-Deoxy-D-manno-2-octulosonate,C8H13O8,-1,c,30.0,True
+duri_e,Deoxyuridine,C9H12N2O5,0,e,32.0,True
+2omph_c,2-Octaprenyl-6-methoxyphenol,C47H72O2,0,c,256.0,True
+scl_c,Sirohydrochlorin,C42H39N4O16,-7,c,170.0,True
+pppg9_c,Protoporphyrinogen IX,C34H38N4O4,-2,c,156.0,True
+acnam_e,N-Acetylneuraminate,C11H18NO9,-1,e,42.0,True
+inost_c,Myo-Inositol,C6H12O6,0,c,24.0,True
+gmhep1p_c,D-Glycero-D-manno-heptose 1-phosphate,C7H13O10P,-2,c,28.0,True
+ttdcea_c,Tetradecenoate (n-C14:1),C14H25O2,-1,c,78.0,True
+ni2_e,Nickel,Ni,2,e,,False
+ch4_e,Methane,CH4,0,e,8.0,True
+murein5px4px4p_p,Three disacharide linked murein units (pentapeptide crosslinked tetrapeptide (A2pm->D-ala) tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain),C114H172N22O59,-6,p,450.0,True
+pg141_c,"Phosphatidylglycerol (ditetradec-7-enoyl, n-C14:1)",C34H62O10P1,-1,c,184.0,True
+pa120_c,"1,2-didodecanoyl-sn-glycerol 3-phosphate",C27H51O8P1,-2,c,150.0,True
+gthox_p,Oxidized glutathione,C20H30N6O12S2,-2,p,82.0,True
+2agpe161_c,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1),C21H42NO7P1,0,c,114.0,True
+forcoa_c,Formyl-CoA(4-),C22H32N7O17P3S,-4,c,90.0,True
+moadcosh_c,MoaD Protein with thiocarboxylate,C1H1O1S1X,0,c,,False
+ttrcyc_e,Tetracycline,C22H24N2O8,0,e,90.0,True
+his__L_c,L-Histidine,C6H9N3O2,0,c,20.0,True
+ribflv_c,Riboflavin C17H20N4O6,C17H20N4O6,0,c,64.0,True
+lac__L_e,L-Lactate,C3H5O3,-1,e,12.0,True
+so4_c,Sulfate,O4S,-2,c,0.0,True
+itp_c,ITP C10H11N4O14P3,C10H11N4O14P3,-4,c,30.0,True
+2mcit_c,2-Methylcitrate,C7H7O7,-3,c,24.0,True
+dtdpglu_c,DTDPglucose,C16H24N2O16P2,-2,c,62.0,True
+g3pi_c,Sn-Glycero-3-phospho-1-inositol,C9H18O11P,-1,c,38.0,True
+h2mb4p_c,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate,C5H9O8P2,-3,c,26.0,True
+galct__D_p,D-Galactarate,C6H8O8,-2,p,18.0,True
+glcur_p,D-Glucuronate,C6H9O7,-1,p,20.0,True
+maltpt_p,Maltopentaose,C30H52O26,0,p,120.0,True
+so4_p,Sulfate,O4S,-2,p,0.0,True
+feoxam_un_c,Ferroxamine minus Fe(3),C25H46N6O8,-2,c,114.0,True
+mso3_c,Methanesulfonate,CH3O3S,-1,c,8.0,True
+Sfglutth_c,S-Formylglutathione,C11H16N3O7S,-1,c,44.0,True
+pe140_c,"Phosphatidylethanolamine (ditetradecanoyl, n-C14:0)",C33H66N1O8P1,0,c,184.0,True
+pgp120_c,"Phosphatidylglycerophosphate (didodecanoyl, n-C12:0)",C30H57O13P2,-3,c,164.0,True
+clpn180_p,"Cardiolipin (tetraoctadecanoyl, n-C18:0)",C81H156O17P2,-2,p,458.0,True
+2agpe180_p,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0),C23H48NO7P1,0,p,128.0,True
+gam6p_p,D-Glucosamine 6-phosphate,C6H13NO8P,-1,p,24.0,True
+meoh_c,Methanol,CH4O1,0,c,6.0,True
+fe3dcit_c,Fe(III)dicitrate,C12H10FeO14,-3,c,,False
+4hthr_c,4-Hydroxy-L-threonine,C4H9NO4,0,c,14.0,True
+cit_c,Citrate,C6H5O7,-3,c,18.0,True
+skm5p_c,Shikimate 5-phosphate,C7H8O8P,-3,c,28.0,True
+td2coa_c,Trans-Tetradec-2-enoyl-CoA,C35H56N7O17P3S,-4,c,166.0,True
+tagur_c,D-Tagaturonate,C6H9O7,-1,c,20.0,True
+acgam_e,N-Acetyl-D-glucosamine,C8H15NO6,0,e,32.0,True
+pnto__R_e,(R)-Pantothenate,C9H16NO5,-1,e,40.0,True
+dtdprmn_c,DTDP-L-rhamnose,C16H24N2O15P2,-2,c,64.0,True
+3dhguln_c,3-Dehydro-L-gulonate,C6H9O7,-1,c,20.0,True
+hqn_c,Hydroquinone,C6H6O2,0,c,26.0,True
+glucys_c,Gamma-L-Glutamyl-L-cysteine,C8H13N2O5S,-1,c,36.0,True
+minohp_e,Myo-Inositol hexakisphosphate,C6H6O24P6,-12,e,24.0,True
+ac_p,Acetate,C2H3O2,-1,p,8.0,True
+malthx_p,Maltohexaose,C36H62O31,0,p,144.0,True
+cgly_e,Cys Gly C5H10N2O3S,C5H10N2O3S,0,e,24.0,True
+fecrm_un_p,Ferrichrome minus Fe(III),C27H42N9O12,-3,p,102.0,True
+o16a4colipa_p,(O16 antigen)x4 core oligosaccharide lipid A,C312H523N6O200P4,-11,p,1384.0,True
+aso3_p,Arsenite,AsO3,-3,p,,False
+thrp_p,L-Threonine O-3-phosphate,C4H8NO6P,-2,p,16.0,True
+cys__D_p,D-Cysteine,C3H7NO2S,0,p,18.0,True
+ag_c,Silver,Ag,1,c,,False
+1ddecg3p_c,1-dodecanoyl-sn-glycerol 3-phosphate,C15H29O7P1,-2,c,82.0,True
+pe161_p,"Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)",C37H70N1O8P1,0,p,204.0,True
+pg180_p,"Phosphatidylglycerol (dioctadecanoyl, n-C18:0)",C42H82O10P1,-1,p,236.0,True
+2odec11eg3p_p,2-octadec-11-enoyl-sn-glycerol 3-phosphate,C21H40O7P1,-1,p,116.0,True
+12ppd__R_e,"(R)-Propane-1,2-diol",C3H8O2,0,e,16.0,True
+1agpe140_p,1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0),C19H40NO7P1,0,p,104.0,True
+rephaccoa_c,"Ring 1,2-epoxyphenylacetyl-CoA",C29H38N7O18P3S,-4,c,122.0,True
+2fe2s_c,[2Fe-2S] iron-sulfur cluster,S2Fe2,2,c,,False
+23doguln_p,"2,3-Dioxo-L-gulonate",C6H7O7,-1,p,18.0,True
+6pgl_c,"6-phospho-D-glucono-1,5-lactone",C6H9O9P,-2,c,22.0,True
+ptrc_c,Putrescine,C4H14N2,2,c,22.0,True
+2dda7p_c,2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate,C7H10O10P,-3,c,26.0,True
+sl2a6o_c,N-Succinyl-2-L-amino-6-oxoheptanedioate,C11H12NO8,-3,c,40.0,True
+cmp_c,CMP C9H12N3O8P,C9H12N3O8P,-2,c,30.0,True
+gtp_c,GTP C10H12N5O14P3,C10H12N5O14P3,-4,c,28.0,True
+uacgam_c,UDP-N-acetyl-D-glucosamine,C17H25N3O17P2,-2,c,62.0,True
+uaccg_c,UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-glucosamine,C20H26N3O19P2,-3,c,72.0,True
+lipidAds_c,Lipid A Disaccharide,C68H127N2O20P,-2,c,360.0,True
+fc1p_c,L-Fuculose 1-phosphate,C6H11O8P,-2,c,26.0,True
+btn_c,Biotin,C10H15N2O3S,-1,c,50.0,True
+cbl1_e,Cob(I)alamin,C62H88CoN13O14P,-1,e,,False
+xylu__L_c,L-Xylulose,C5H10O5,0,c,20.0,True
+xylu__L_e,L-Xylulose,C5H10O5,0,e,20.0,True
+arg__L_p,L-Arginine,C6H15N4O2,1,p,22.0,True
+gam_p,D-Glucosamine,C6H14NO5,1,p,24.0,True
+glyb_p,Glycine betaine,C5H11NO2,0,p,24.0,True
+lac__L_p,L-Lactate,C3H5O3,-1,p,12.0,True
+pydx_e,Pyridoxal,C8H9NO3,0,e,32.0,True
+metsox_R__L_c,L-methionine-R-sulfoxide,C5H11NO3S,0,c,28.0,True
+hmgth_c,Hydroxymethylglutathione,C11H18N3O7S,-1,c,46.0,True
+sel_e,Selenate,O4Se,-2,e,,False
+glyc__R_e,(R)-Glycerate,C3H5O4,-1,e,10.0,True
+eca4colipa_e,(enterobacterial common antigen)x4 core oligosaccharide lipid A,C272H447N14O160P4,-15,e,1208.0,True
+no_c,Nitric oxide,NO,0,c,-5.0,True
+cyan_e,Hydrogen cyanide,CHN,0,e,2.0,True
+hom__L_p,L-Homoserine,C4H9NO3,0,p,16.0,True
+3hddecACP_c,(R)-3-Hydroxydodecanoyl-[acyl-carrier protein],C23H43N2O9PRS,-1,c,,False
+cddec5eACP_c,Cis-dodec-5-enoyl-[acyl-carrier protein] (n-C12:1),C23H41N2O8PRS,-1,c,,False
+gthrd_p,Reduced glutathione,C10H16N3O6S,-1,p,42.0,True
+1odec11eg3p_p,1-octadec-11-enoyl-sn-glycerol 3-phosphate,C21H39O7P1,-2,p,116.0,True
+iscu_c,IscU scaffold protein,H8O2S6R,0,c,,False
+cxsam_c,Carboxy-S-adenosyl-L-methionine,C16H22N6O7S,0,c,60.0,True
+mteo2_c,Methanetelluronate,CH3O3Te,-1,c,,False
+glyc_c,Glycerol,C3H8O3,0,c,14.0,True
+val__L_c,L-Valine,C5H11NO2,0,c,24.0,True
+cbasp_c,N-Carbamoyl-L-aspartate,C5H6N2O5,-2,c,12.0,True
+mqn8_c,Menaquinone 8,C51H72O2,0,c,272.0,True
+fuc__L_e,L-Fucose,C6H12O5,0,e,26.0,True
+malthp_c,Maltoheptaose,C42H72O36,0,c,168.0,True
+tsul_e,Thiosulfate,O3S2,-2,e,8.0,True
+lipa_cold_c,Cold adapted KDO(2)-lipid (A),C114H202N2O39P2,-6,c,590.0,True
+hxa_e,Hexanoate (n-C6:0),C6H11O2,-1,e,32.0,True
+fe3hox_c,Fe(III)hydroxamate,C9H18O6N3Fe,0,c,,False
+leu__L_p,L-Leucine,C6H13NO2,0,p,30.0,True
+lyx__L_p,L-Lyxose,C5H10O5,0,p,20.0,True
+taur_p,Taurine C2H7NO3S,C2H7NO3S,0,p,12.0,True
+h2o2_p,Hydrogen peroxide,H2O2,0,p,-2.0,True
+dimp_e,DIMP C10H12N4O7P,C10H11N4O7P,-2,e,32.0,True
+3ump_e,3  UMP C9H11N2O9P,C9H11N2O9P,-2,e,30.0,True
+anhgm_p,N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid,C19H29N2O12,-1,p,76.0,True
+ethso3_e,Ethanesulfonate,C2H5O3S,-1,e,14.0,True
+n2o_p,Nitrous oxide,N2O,0,p,-8.0,True
+udpgal_p,UDPgalactose,C15H22N2O17P2,-2,p,54.0,True
+3oddecACP_c,3-Oxododecanoyl-[acyl-carrier protein],C23H41N2O9PRS,-1,c,,False
+pg181_c,"Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)",C42H78O10P1,-1,c,232.0,True
+12dgr141_c,"1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)",C31H56O5,0,c,170.0,True
+3ooctdACP_c,3-Oxooctadecanoyl-[acyl-carrier protein],C29H53N2O9PRS,-1,c,,False
+pgp161_p,"Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)",C38H69O13P2,-3,p,208.0,True
+ddca_c,Dodecanoate (n-C12:0),C12H23O2,-1,c,68.0,True
+acon_C_c,Cis-Aconitate,C6H3O6,-3,c,18.0,True
+23dhacoa_c,"2,3-dehydroadipyl-CoA",C27H37N7O19P3S,-5,c,112.0,True
+3hadpcoa_c,(3S)-3-Hydroxyadipyl-CoA,C27H39N7O20P3S,-5,c,112.0,True
+2dglc_p,2 Deoxy D glucose C6H12O5,C6H12O5,0,p,26.0,True
+nadph_c,Nicotinamide adenine dinucleotide phosphate - reduced,C21H26N7O17P3,-4,c,74.0,True
+acglu_c,N-Acetyl-L-glutamate,C7H9NO5,-2,c,26.0,True
+2obut_c,2-Oxobutanoate,C4H5O3,-1,c,16.0,True
+dmpp_c,Dimethylallyl diphosphate,C5H9O7P2,-3,c,28.0,True
+rbflvrd_c,Reduced riboflavin,C17H22N4O6,0,c,66.0,True
+tagdp__D_c,"D-Tagatose 1,6-biphosphate",C6H10O12P2,-4,c,24.0,True
+crn_c,L-Carnitine,C7H15NO3,0,c,34.0,True
+dnad_c,Deamino-NAD+,C21H24N6O15P2,-2,c,72.0,True
+pro__L_c,L-Proline,C5H9NO2,0,c,22.0,True
+ala_B_e,Beta-Alanine,C3H7NO2,0,e,12.0,True
+lac__D_p,D-Lactate,C3H5O3,-1,p,12.0,True
+ala__D_p,D-Alanine,C3H7NO2,0,p,12.0,True
+3cmp_e,3  CMP C9H12N3O8P,C9H12N3O8P,-2,e,30.0,True
+sarcs_c,Sarcosine C3H7NO2,C3H7NO2,0,c,12.0,True
+butso3_e,Butanesulfonate,C4H9O3S,-1,e,26.0,True
+acgal1p_p,N-Acetyl-D-galactosamine 1-phosphate,C8H14NO9P,-2,p,32.0,True
+acgal1p_e,N-Acetyl-D-galactosamine 1-phosphate,C8H14NO9P,-2,e,32.0,True
+3sala_c,3-Sulfino-L-alanine,C3H5NO4S,-2,c,14.0,True
+3hdecACP_c,(R)-3-Hydroxydecanoyl-[acyl-carrier protein],C21H39N2O9PRS,-1,c,,False
+cdec3eACP_c,Cis-dec-3-enoyl-[acyl-carrier protein] (n-C10:1),C21H37N2O8PRS,-1,c,,False
+3hcmrs7eACP_c,(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein],C25H45N2O9PRS,-1,c,,False
+pe161_c,"Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)",C37H70N1O8P1,0,c,204.0,True
+2odecg3p_p,2-octadecanoyl-sn-glycerol 3-phosphate,C21H42O7P1,-1,p,118.0,True
+1tdecg3p_p,1-tetradecanoyl-sn-glycerol 3-phosphate,C17H33O7P1,-2,p,94.0,True
+psclys_e,Psicoselysine,C12H25N2O7,1,e,52.0,True
+tartr__D_p,D-tartrate,C4H4O6,-2,p,10.0,True
+na15dap_c,"N-3-aminopropyl-1,5-diaminopentane",C8H24N3,3,c,44.0,True
+quin_e,Quinate,C7H12O6,0,e,28.0,True
+3amac_c,3-Aminoacrylate,C3H4NO2,-1,c,10.0,True
+fe3dhbzs3_c,2-3-dihydroxybenzoylserine trimer-Fe-III,C30H29FeN3O16,3,c,,False
+psuri_e,Pseudouridine,C9H12N2O6,0,e,30.0,True
+pyr_c,Pyruvate,C3H3O3,-1,c,10.0,True
+dump_c,DUMP C9H11N2O8P,C9H11N2O8P,-2,c,32.0,True
+4mpetz_c,4-Methyl-5-(2-phosphoethyl)-thiazole,C6H8NO4PS,-2,c,34.0,True
+ru5p__L_c,L-Ribulose 5-phosphate,C5H9O8P,-2,c,20.0,True
+sucr_e,Sucrose C12H22O11,C12H22O11,0,e,48.0,True
+lac__L_c,L-Lactate,C3H5O3,-1,c,12.0,True
+urea_e,Urea CH4N2O,CH4N2O,0,e,0.0,True
+gcald_c,Glycolaldehyde,C2H4O2,0,c,8.0,True
+hdcea_e,Hexadecenoate (n-C16:1),C16H29O2,-1,e,90.0,True
+gdpddman_c,GDP-4-dehydro-6-deoxy-D-mannose,C16H21N5O15P2,-2,c,52.0,True
+galct__D_c,D-Galactarate,C6H8O8,-2,c,18.0,True
+dha_c,Dihydroxyacetone,C3H6O3,0,c,12.0,True
+gthrd_e,Reduced glutathione,C10H16N3O6S,-1,e,42.0,True
+urdglyc_c,(-)-Ureidoglycolate,C3H5N2O4,-1,c,4.0,True
+dcacoa_c,Decanoyl-CoA (n-C10:0CoA),C31H50N7O17P3S,-4,c,144.0,True
+so3_e,Sulfite,O3S,-2,e,2.0,True
+acgam_p,N-Acetyl-D-glucosamine,C8H15NO6,0,p,32.0,True
+melib_p,Melibiose C12H22O11,C12H22O11,0,p,48.0,True
+rmn_p,L-Rhamnose,C6H12O5,0,p,26.0,True
+galctn__D_p,D-Galactonate,C6H11O7,-1,p,22.0,True
+frulys_e,Fructoselysine,C12H25N2O7,1,e,52.0,True
+cmp_e,CMP C9H12N3O8P,C9H12N3O8P,-2,e,30.0,True
+pydam_e,Pyridoxamine,C8H13N2O2,1,e,34.0,True
+gmp_p,GMP C10H12N5O8P,C10H12N5O8P,-2,p,28.0,True
+4hoxpacd_p,4-Hydroxyphenylacetaldehyde,C8H8O2,0,p,36.0,True
+3amp_e,3  AMP C10H12N5O7P,C10H12N5O7P,-2,e,30.0,True
+14glucan_e,"1,4-alpha-D-glucan",C36H62O31,0,e,144.0,True
+athr__L_c,L-Allo-threonine,C4H9NO3,0,c,16.0,True
+3opalmACP_c,3-Oxohexadecanoyl-[acyl-carrier protein],C27H49N2O9PRS,-1,c,,False
+3hcvac11eACP_c,(R)-3-hydroxy-cis-vacc-11-enoyl-[acyl-carrier protein],C29H53N2O9PRS,-1,c,,False
+sq_p,Sulphoquinovose,C6H11O8S,-1,p,26.0,True
+acampnt_c,2-N-acetamidomethylphosphonate,C3H7NO4P,-1,c,14.0,True
+coa_c,Coenzyme A,C21H32N7O16P3S,-4,c,88.0,True
+asn__L_c,L-Asparagine,C4H8N2O3,0,c,12.0,True
+udp_c,UDP C9H11N2O12P2,C9H11N2O12P2,-3,c,30.0,True
+hxan_c,Hypoxanthine,C5H4N4O,0,c,10.0,True
+leu__L_c,L-Leucine,C6H13NO2,0,c,30.0,True
+25aics_c,(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate,C13H15N4O12P,-4,c,40.0,True
+melib_e,Melibiose C12H22O11,C12H22O11,0,e,48.0,True
+gdpfuc_c,GDP-L-fucose,C16H23N5O15P2,-2,c,54.0,True
+unaga_c,Undecaprenyl diphospho N-acetyl-glucosamine,C63H103NO12P2,-2,c,340.0,True
+maltttr_e,Maltotetraose,C24H42O21,0,e,96.0,True
+glcur_e,D-Glucuronate,C6H9O7,-1,e,20.0,True
+crncoa_c,L-Carnitinyl-CoA,C28H46N8O18P3S,-3,c,122.0,True
+gbbtn_e,Gamma-butyrobetaine,C7H15NO2,0,e,36.0,True
+4abz_c,4-Aminobenzoate,C7H6NO2,-1,c,28.0,True
+cbl1_p,Cob(I)alamin,C62H88CoN13O14P,-1,p,,False
+enter_e,Enterochelin,C30H27N3O15,0,e,108.0,True
+colipa_c,Core oligosaccharide lipid A,C176H303N2O100P4,-11,c,832.0,True
+2dglc_c,2 Deoxy D glucose C6H12O5,C6H12O5,0,c,26.0,True
+3omrsACP_c,3-Oxotetradecanoyl-[acyl-carrier protein],C25H45N2O9PRS,-1,c,,False
+pgp181_c,"Phosphatidylglycerophosphate (dioctadec-11-enoyl, n-C18:1)",C42H77O13P2,-3,c,232.0,True
+cpe180_c,"Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)",C43H82N1O8P1,0,c,240.0,True
+urate_e,Urate C5H4N4O3,C5H4N4O3,0,e,6.0,True
+ocdceap_c,Octadecanoyl-phosphate (n-C18:1),C18H34O5P,-1,c,102.0,True
+cdg_c,7-deaza-7-carboxyguanine,C7H5N4O3,-1,c,16.0,True
+iscs_c,IscS sulfur acceptor protein,HSR,0,c,,False
+3c4mop_c,3-Carboxy-4-methyl-2-oxopentanoate,C7H8O5,-2,c,28.0,True
+hcys__L_c,L-Homocysteine,C4H9NO2S,0,c,24.0,True
+mal__L_e,L-Malate,C4H4O5,-2,e,12.0,True
+phe__L_e,L-Phenylalanine,C9H11NO2,0,e,40.0,True
+malACP_c,Malonyl-[acyl-carrier protein],C14H22N2O10PRS,-2,c,,False
+ptrc_e,Putrescine,C4H14N2,2,e,22.0,True
+3hpppn_c,3-(3-hydroxy-phenyl)propionate,C9H9O3,-1,c,40.0,True
+malthx_e,Maltohexaose,C36H62O31,0,e,144.0,True
+feoxam_p,Generic ferrioxamine-Fe-III,C25H46FeN6O8,1,p,,False
+glu__L_p,L-Glutamate,C5H8NO4,-1,p,18.0,True
+nac_p,Nicotinate,C6H4NO2,-1,p,22.0,True
+udpLa4o_c,UDP-4-keto-pyranose,C14H18N2O16P2,-2,c,48.0,True
+unagamuf_p,"Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose",C79H126N3O22P2,-3,p,402.0,True
+gfgaragund_c,Galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate,C83H135N1O27P2,-2,c,422.0,True
+glyc__R_p,(R)-Glycerate,C3H5O4,-1,p,10.0,True
+ethso3_p,Ethanesulfonate,C2H5O3S,-1,p,14.0,True
+lipoate_c,Lipoate,C8H14O2S2,0,c,54.0,True
+but2eACP_c,But-2-enoyl-[acyl-carrier protein],C15H25N2O8PRS,-1,c,,False
+12dgr180_c,"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",C39H76O5,0,c,222.0,True
+xdp_c,XDP,C10H11N4O12P2,-3,c,28.0,True
+dsbgrd_p,Periplasmic disulfide isomerase/thiol-disulphide oxidase (reduced),XH2,0,p,,False
+ppal_e,Propanal,C3H6O,0,e,16.0,True
+ocdcap_c,Octadecanoyl-phosphate (n-C18:0),C18H36O5P,-1,c,104.0,True
+acolipa_e,4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A,C181H314N3O103P4,-9,e,852.0,True
+4fe4s_c,[4Fe-4S] iron-sulfur cluster,S4Fe4,2,c,,False
+fusa_e,Fusidic acid,C31H48O5,0,e,162.0,True
+dhptdn_c,"6,7-Dihydropteridine",C6H6N4,0,c,18.0,True
+4hbz_p,4-Hydroxybenzoate,C7H5O3,-1,p,28.0,True
+prpncoa_c,Propenoyl-CoA,C24H34N7O17P3S,-4,c,100.0,True
+icit_c,Isocitrate,C6H5O7,-3,c,18.0,True
+lac__D_c,D-Lactate,C3H5O3,-1,c,12.0,True
+2dr5p_c,2-Deoxy-D-ribose 5-phosphate,C5H9O7P,-2,c,22.0,True
+dtdp_c,DTDP C10H13N2O11P2,C10H13N2O11P2,-3,c,38.0,True
+56dura_c,"5,6-dihydrouracil",C4H6N2O2,0,c,12.0,True
+urate_c,Urate C5H4N4O3,C5H4N4O3,0,c,6.0,True
+h2_c,Hydrogen,H2,0,c,2.0,True
+psd5p_c,Pseudouridine 5  phosphate C9H11N2O9P,C9H11N2O9P,-2,c,30.0,True
+maltpt_e,Maltopentaose,C30H52O26,0,e,120.0,True
+kdo2lipid4L_c,KDO(2)-lipid IV(A) with laurate,C96H170N2O38P2,-6,c,488.0,True
+no2_c,Nitrite,NO2,-1,c,-6.0,True
+hdd2coa_c,Trans-Hexadec-2-enoyl-CoA,C37H60N7O17P3S,-4,c,178.0,True
+no_e,Nitric oxide,NO,0,e,-5.0,True
+meoh_e,Methanol,CH4O1,0,e,6.0,True
+2ddglcn_p,2-Dehydro-3-deoxy-D-gluconate,C6H9O6,-1,p,22.0,True
+glyc3p_p,Glycerol 3-phosphate,C3H7O6P,-2,p,14.0,True
+gtp_p,GTP C10H12N5O14P3,C10H12N5O14P3,-4,p,28.0,True
+metsox_S__L_c,L-Methionine Sulfoxide,C5H11NO3S,0,c,28.0,True
+3ump_p,3  UMP C9H11N2O9P,C9H11N2O9P,-2,p,30.0,True
+pg140_c,"Phosphatidylglycerol (ditetradecanoyl, n-C14:0)",C34H66O10P1,-1,c,188.0,True
+pa140_p,"1,2-ditetradecanoyl-sn-glycerol 3-phosphate",C31H59O8P1,-2,p,174.0,True
+apg180_c,Acyl phosphatidylglycerol (n-C18:0),C60H116O11P,-1,c,340.0,True
+appl_c,1-Aminopropan-2-ol,C3H10NO,1,c,16.0,True
+14dhncoa_c,"1,4-dihydroxy-2-napthoyl-CoA",C32H38N7O19P3S,-4,c,132.0,True
+acald_c,Acetaldehyde,C2H4O,0,c,10.0,True
+5aprbu_c,5-Amino-6-(5'-phosphoribitylamino)uracil,C9H15N4O9P,-2,c,28.0,True
+5aop_c,5-Amino-4-oxopentanoate,C5H9NO3,0,c,20.0,True
+oc2coa_c,Trans-Oct-2-enoyl-CoA,C29H44N7O17P3S,-4,c,130.0,True
+rdmbzi_c,"N1-(alpha-D-ribosyl)-5,6-dimethylbenzimidazole",C14H18N2O4,0,c,60.0,True
+ctbtcoa_c,Crotonobetainyl-CoA,C28H44N8O17P3S,-3,c,122.0,True
+3hmrsACP_c,(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein],C25H47N2O9PRS,-1,c,,False
+pram_c,5-Phospho-beta-D-ribosylamine,C5H11NO7P,-1,c,20.0,True
+oxur_c,Oxalureate,C3H3N2O4,-1,c,2.0,True
+agm_e,Agmatine,C5H16N4,2,e,22.0,True
+feenter_c,Fe-enterobactin,C30H27FeN3O15,3,c,,False
+na1_c,Sodium,Na,1,c,-1.0,True
+lys__L_p,L-Lysine,C6H15N2O2,1,p,28.0,True
+no3_c,Nitrate,NO3,-1,c,-8.0,True
+cpgn_e,Coprogen,C35H52N6O13Fe,-1,e,,False
+cpgn_p,Coprogen,C35H52N6O13Fe,-1,p,,False
+tym_p,Tyramine,C8H12NO,1,p,38.0,True
+peamn_e,Phenethylamine,C8H12N,1,e,40.0,True
+23ccmp_p,"2',3'-Cyclic CMP",C9H11N3O7P,-1,p,30.0,True
+cu_p,Cu+,Cu,1,p,,False
+udpacgal_e,UDP-N-acetyl-D-galactosamine,C17H25N3O17P2,-2,e,62.0,True
+acetol_c,Acetol cytosol,C3H6O2,0,c,14.0,True
+murein4px4px4p_p,Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala) & tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain),C111H167N21O58,-6,p,438.0,True
+3haACP_c,(3R)-3-Hydroxyacyl-[acyl-carrier protein],C15H27N2O9PRS,-1,c,,False
+3ocmrs7eACP_c,3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein],C25H43N2O9PRS,-1,c,,False
+poaac_c,Peroxyaminoacrylate,C3H5NO3,0,c,8.0,True
+5mtr_e,5-Methylthio-D-ribose,C6H12O4S,0,e,34.0,True
+moco_c,Molybdenum cofactor,C10H10N5O8PS2Mo,-2,c,,False
+2ddg6p_c,2-Dehydro-3-deoxy-D-gluconate 6-phosphate,C6H8O9P,-3,c,22.0,True
+arab__L_c,L-Arabinose,C5H10O5,0,c,20.0,True
+ade_c,Adenine,C5H5N5,0,c,10.0,True
+acg5p_c,N-Acetyl-L-glutamyl 5-phosphate,C7H9NO8P,-3,c,26.0,True
+glu5p_c,L-Glutamate 5-phosphate,C5H8NO7P,-2,c,18.0,True
+23dhdp_c,"2,3-Dihydrodipicolinate",C7H5NO4,-2,c,24.0,True
+dgtp_c,DGTP C10H12N5O13P3,C10H12N5O13P3,-4,c,30.0,True
+4ahmmp_c,4-Amino-5-hydroxymethyl-2-methylpyrimidine,C6H9N3O,0,c,22.0,True
+dpcoa_c,Dephospho-CoA,C21H33N7O13P2S,-2,c,88.0,True
+23ddhb_c,"2,3-Dihydro-2,3-dihydroxybenzoate",C7H7O4,-1,c,28.0,True
+melib_c,Melibiose C12H22O11,C12H22O11,0,c,48.0,True
+galct__D_e,D-Galactarate,C6H8O8,-2,e,18.0,True
+myrsACP_c,Myristoyl-ACP (n-C14:0ACP),C25H47N2O8PRS,-1,c,,False
+dtbt_c,Dethiobiotin,C10H17N2O3,-1,c,46.0,True
+met__D_p,D-Methionine,C5H10NO2S,0,p,29.0,True
+mal__D_c,D-Malate,C4H4O5,-2,c,12.0,True
+anhm_c,"1,6-anhydrous-N-Acetylmuramate",C11H16NO7,-1,c,44.0,True
+fe3_p,Iron (Fe3+),Fe,3,p,,False
+tyrp_e,Phosphotyrosine,C9H10NO6P,-2,e,38.0,True
+grxox_c,Glutaredoxin (oxidized),X,0,c,,False
+1tdec7eg3p_c,1-tetradec-7-enoyl-sn-glycerol 3-phosphate,C17H31O7P1,-2,c,92.0,True
+pgp180_c,"Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)",C42H81O13P2,-3,c,236.0,True
+2ddecg3p_p,2-dodecanoyl-sn-glycerol 3-phosphate,C15H30O7P1,-1,p,82.0,True
+2hdec9eg3p_p,2-hexadec-9-enoyl-sn-glycerol 3-phosphate,C19H36O7P1,-1,p,104.0,True
+sel_c,Selenate,O4Se,-2,c,,False
+3fe4s_c,[3Fe-4S] damaged iron-sulfur cluster,S4Fe3,0,c,,False
+lipoamp_c,Lipoyl-AMP,C18H25N5O8PS2,-1,c,84.0,True
+2dglc_e,2 Deoxy D glucose C6H12O5,C6H12O5,0,e,26.0,True
+nadh_c,Nicotinamide adenine dinucleotide - reduced,C21H27N7O14P2,-2,c,74.0,True
+amp_c,AMP C10H12N5O7P,C10H12N5O7P,-2,c,30.0,True
+3php_c,3-Phosphohydroxypyruvate,C3H2O7P,-3,c,8.0,True
+dhf_c,"7,8-Dihydrofolate",C19H19N7O6,-2,c,64.0,True
+for_c,Formate,CH1O2,-1,c,2.0,True
+pi_e,Phosphate,HO4P,-2,e,0.0,True
+thmmp_c,Thiamin monophosphate,C12H16N4O4PS,-1,c,56.0,True
+b2coa_c,Crotonoyl-CoA,C25H36N7O17P3S,-4,c,106.0,True
+fe3_e,Iron (Fe3+),Fe,3,e,,False
+asp__L_e,L-Aspartate,C4H6NO4,-1,e,12.0,True
+thr__L_e,L-Threonine,C4H9NO3,0,e,16.0,True
+metsox_S__L_e,L-Methionine Sulfoxide,C5H11NO3S,0,e,28.0,True
+nac_c,Nicotinate,C6H4NO2,-1,c,22.0,True
+4per_c,4-Phospho-D-erythronate,C4H6O8P,-3,c,14.0,True
+15dap_e,"1,5-Diaminopentane",C5H16N2,2,e,28.0,True
+2dh3dgal6p_c,2-Dehydro-3-deoxy-D-galactonate 6-phosphate,C6H8O9P,-3,c,22.0,True
+ap4a_c,"P1,P4-Bis(5'-adenosyl) tetraphosphate",C20H24N10O19P4,-4,c,60.0,True
+35cgmp_c,"3',5'-Cyclic GMP",C10H11N5O7P,-1,c,28.0,True
+adocbip_c,Adenosyl cobinamide phosphate,C58H83CoN16O14P,-1,c,,False
+etha_e,Ethanolamine,C2H8NO,1,e,10.0,True
+k_p,Potassium,K,1,p,-1.0,True
+xylu__L_p,L-Xylulose,C5H10O5,0,p,20.0,True
+fe3hox_e,Fe(III)hydroxamate,C9H18O6N3Fe,0,e,,False
+g3ps_p,Glycerophosphoserine,C6H13NO8P,-1,p,24.0,True
+ggbutal_c,Gamma-glutamyl-gamma-butyraldehyde,C9H16O4N2,0,c,38.0,True
+mso3_p,Methanesulfonate,CH3O3S,-1,p,8.0,True
+LalaDgluMdap_c,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",C15H25N4O8,-1,c,58.0,True
+LalaLglu_c,L-alanine-L-glutamate,C8H13N2O5,-1,c,30.0,True
+aragund_c,O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate,C71H115N1O17P2,-2,c,374.0,True
+o16a2und_p,(O16 antigen)x2 undecaprenyl diphosphate,C123H200N2O57P2,-2,p,584.0,True
+mmet_c,S-Methyl-L-methionine,C6H14NO2S,1,c,36.0,True
+acgam1p_e,N-Acetyl-D-glucosamine 1-phosphate,C8H14NO9P,-2,e,32.0,True
+pa141_p,"1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate",C31H55O8P1,-2,p,170.0,True
+12dgr141_p,"1,2-Diacyl-sn-glycerol (ditetradec-7-enoyl, n-C14:1)",C31H56O5,0,p,170.0,True
+pa180_p,"1,2-dioctadecanoyl-sn-glycerol 3-phosphate",C39H75O8P1,-2,p,222.0,True
+2agpe141_c,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1),C19H38NO7P1,0,c,102.0,True
+1agpe141_p,1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1),C19H38NO7P1,0,p,102.0,True
+1agpg161_p,1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1),C22H42O9P1,-1,p,118.0,True
+LalaDglu_e,L-alanine-D-glutamate,C8H13N2O5,-1,e,30.0,True
+sufbcd_2fe2s2_c,SufBCD with two bound [2Fe-2S] clusters,O2S10Fe4R,-4,c,,False
+cm_e,Chloramphenicol,C11H12Cl2N2O5,0,e,40.0,True
+fe3dhbzs3_p,2-3-dihydroxybenzoylserine trimer-Fe-III,C30H29FeN3O16,3,p,,False
+dxylnt_c,D-Xylonate,C5H9O6,-1,c,18.0,True
+urdgci_c,S-ureidoglycine,C3H7N3O3,0,c,4.0,True
+co2_c,CO2 CO2,CO2,0,c,0.0,True
+4ppcys_c,N-((R)-4-Phosphopantothenoyl)-L-cysteine,C12H20N2O9PS,-3,c,58.0,True
+alltt_c,Allantoate,C4H7N4O4,-1,c,4.0,True
+fum_e,Fumarate,C4H2O4,-2,e,12.0,True
+acald_e,Acetaldehyde,C2H4O,0,e,10.0,True
+25drapp_c,"2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate",C9H14N5O8P,-2,c,26.0,True
+gthox_c,Oxidized glutathione,C20H30N6O12S2,-2,c,82.0,True
+gar_c,N1-(5-Phospho-D-ribosyl)glycinamide,C7H14N2O8P,-1,c,26.0,True
+enter_c,Enterochelin,C30H27N3O15,0,c,108.0,True
+fe3hox_p,Fe(III)hydroxamate,C9H18O6N3Fe,0,p,,False
+lald__D_c,D-Lactaldehyde,C3H6O2,0,c,14.0,True
+fe3hox_un_e,"Fe(III)hydoxamate, unloaded",C9H18O6N3,-3,e,36.0,True
+pydxn_e,Pyridoxine,C8H11NO3,0,e,34.0,True
+tym_e,Tyramine,C8H12NO,1,e,38.0,True
+3ooctACP_c,3-Oxooctanoyl-[acyl-carrier protein],C19H33N2O9PRS,-1,c,,False
+1odecg3p_c,1-octadecanoyl-sn-glycerol 3-phosphate,C21H41O7P1,-2,c,118.0,True
+2agpe120_p,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0),C17H36NO7P1,0,p,92.0,True
+2agpg160_p,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0),C22H44O9P1,-1,p,120.0,True
+2agpg161_p,2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1),C22H42O9P1,-1,p,118.0,True
+1tdec7eg3p_p,1-tetradec-7-enoyl-sn-glycerol 3-phosphate,C17H31O7P1,-2,p,92.0,True
+1agpg140_p,1-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0),C20H40O9P1,-1,p,108.0,True
+sufbcd_4fe4s_c,SufBCD with bound [4Fe-4S] cluster,H4O2S10Fe4R,-2,c,,False
+rfamp_e,Rifampin,C43H58N4O12,0,e,194.0,True
+rfamp_p,Rifampin,C43H58N4O12,0,p,194.0,True
+ch4_c,Methane,CH4,0,c,8.0,True
+3mop_c,(S)-3-Methyl-2-oxopentanoate,C6H9O3,-1,c,28.0,True
+fad_c,Flavin adenine dinucleotide oxidized,C27H31N9O15P2,-2,c,94.0,True
+36dahx_c,"(3S)-3,6-Diaminohexanoate",C6H15N2O2,1,c,28.0,True
+udcpp_c,Undecaprenyl phosphate,C55H89O4P,-2,c,308.0,True
+dcamp_c,"N6-(1,2-Dicarboxyethyl)-AMP",C14H14N5O11P,-4,c,42.0,True
+4h2opntn_c,4-Hydroxy-2-oxopentanoate,C5H7O4,-1,c,20.0,True
+camp_c,CAMP C10H11N5O6P,C10H11N5O6P,-1,c,30.0,True
+galur_e,D-Galacturonate,C6H9O7,-1,e,20.0,True
+ACP_c,Acyl carrier protein,C11H21N2O7PRS,-1,c,,False
+palmACP_c,Palmitoyl-ACP (n-C16:0ACP),C27H51N2O8PRS,-1,c,,False
+arbtn_fe3_c,Aerobactin,C22H33FeN4O13,0,c,,False
+pi_p,Phosphate,HO4P,-2,p,0.0,True
+h2_p,Hydrogen,H2,0,p,2.0,True
+etoh_p,Ethanol,C2H6O,0,p,12.0,True
+tungs_c,Tungstate,O4W1,-2,c,,False
+arbtn_c,Aerobactin minus Fe3,C22H33N4O13,-3,c,86.0,True
+feoxam_un_e,Ferroxamine minus Fe(3),C25H46N6O8,-2,e,114.0,True
+ump_p,UMP C9H11N2O9P,C9H11N2O9P,-2,p,30.0,True
+cmp_p,CMP C9H12N3O8P,C9H12N3O8P,-2,p,30.0,True
+23cgmp_e,"2',3'-Cyclic GMP",C10H11N5O7P,-1,e,28.0,True
+23dhbzs_c,"2,3-dihydroxybenzoylserine",C10H10NO6,-1,c,36.0,True
+pser__L_e,O-Phospho-L-serine,C3H6NO6P,-2,e,10.0,True
+so2_c,Sulfur dioxide,O2S,0,c,2.0,True
+cdpdhdecg_c,"CDP-1,2-dihexadecanoylglycerol",C44H79N3O15P2,-2,c,228.0,True
+hdcea_p,Hexadecenoate (n-C16:1),C16H29O2,-1,p,90.0,True
+2agpe180_c,2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0),C23H48NO7P1,0,c,128.0,True
+3hpp_c,3-Hydroxypropanoate,C3H5O3,-1,c,12.0,True
+mincyc_e,Minocycline,C23H27N3O7,0,e,96.0,True
+dhcur_c,Dihydrocurcumin,C21H22O6,0,c,94.0,True
+rml_c,L-Rhamnulose,C6H12O5,0,c,26.0,True
+4pasp_c,4-Phospho-L-aspartate,C4H6NO7P,-2,c,12.0,True
+h2o_e,H2O H2O,H2O,0,e,0.0,True
+3htdcoa_c,(S)-3-Hydroxytetradecanoyl-CoA,C35H58N7O18P3S,-4,c,166.0,True
+rib__D_e,D-Ribose,C5H10O5,0,e,20.0,True
+uri_e,Uridine,C9H12N2O6,0,e,30.0,True
+trp__L_e,L-Tryptophan,C11H12N2O2,0,e,46.0,True
+2ommbl_c,"2-Octaprenyl-3-methyl-6-methoxy- 1,4-benzoquinol",C48H74O3,0,c,260.0,True
+din_e,Deoxyinosine,C10H12N4O4,0,e,32.0,True
+kdo2lipid4_c,KDO(2)-lipid IV(A),C84H148N2O37P2,-6,c,420.0,True
+udpglcur_c,UDP-D-glucuronate,C15H19N2O18P2,-3,c,50.0,True
+btnso_c,D-biotin d-sulfoxide,C10H15N2O4S,-1,c,48.0,True
+selnp_c,Selenophosphate,H2O3PSe,-1,c,,False
+gmhep17bp_c,"D-Glycero-D-manno-heptose 1,7-bisphosphate",C7H12O13P2,-4,c,28.0,True
+alltn_p,Allantoin,C4H6N4O3,0,p,4.0,True
+dad_2_p,Deoxyadenosine,C10H13N5O3,0,p,32.0,True
+suc6p_c,Sucrose 6-phosphate,C12H21O14P,-2,c,48.0,True
+etha_p,Ethanolamine,C2H8NO,1,p,10.0,True
+dgmp_p,DGMP C10H12N5O7P,C10H12N5O7P,-2,p,30.0,True
+23dappa_p,"2,3-diaminopropionate",C3H9N2O2,1,p,10.0,True
+g3pi_p,Sn-Glycero-3-phospho-1-inositol,C9H18O11P,-1,p,38.0,True
+23camp_e,"2',3'-Cyclic AMP",C10H11N5O6P,-1,e,30.0,True
+uLa4n_p,Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose,C60H100N1O7P1,0,p,328.0,True
+cu_c,Cu+,Cu,1,c,,False
+cpgn_un_p,Coprogen unloaded (no Fe(III)),C35H52N6O13,-4,p,152.0,True
+ps141_c,"Phosphatidylserine (ditetradec-7-enoyl, n-C14:1)",C34H61N1O10P1,-1,c,180.0,True
+pgp141_p,"Phosphatidylglycerophosphate (ditetradec-7-enoyl, n-C14:1)",C34H61O13P2,-3,p,184.0,True
+pgp180_p,"Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)",C42H81O13P2,-3,p,236.0,True
+psclys_p,Psicoselysine,C12H25N2O7,1,p,52.0,True
+4abzglu_c,4-aminobenzoyl-glutamate,C12H12N2O5,-2,c,46.0,True
+dhps_e,"2,3-Dihydroxypropane-1-sulfonate",C3H7O5S,-1,e,16.0,True
+erthrs_c,D-erythrose,C4H8O4,0,c,16.0,True
+succoa_c,Succinyl-CoA,C25H35N7O19P3S,-5,c,102.0,True
+xyl__D_c,D-Xylose,C5H10O5,0,c,20.0,True
+sucsal_c,Succinic semialdehyde,C4H5O3,-1,c,16.0,True
+alltn_c,Allantoin,C4H6N4O3,0,c,4.0,True
+3hdcoa_c,(S)-3-Hydroxydecanoyl-CoA,C31H50N7O18P3S,-4,c,142.0,True
+mnl_e,D-Mannitol,C6H14O6,0,e,26.0,True
+for_e,Formate,CH1O2,-1,e,2.0,True
+kdolipid4_c,KDO-lipid IV(A),C76H137N2O30P2,-5,c,390.0,True
+seramp_c,L-seryl-AMP,C13H19N6O9P,0,c,40.0,True
+ade_p,Adenine,C5H5N5,0,p,10.0,True
+sbt__D_p,D-Sorbitol,C6H14O6,0,p,26.0,True
+12ppd__S_p,"(S)-Propane-1,2-diol",C3H8O2,0,p,16.0,True
+dca_p,Decanoate (n-C10:0),C10H19O2,-1,p,56.0,True
+fe3dcit_p,Fe(III)dicitrate,C12H10FeO14,-3,p,,False
+h2o2_e,Hydrogen peroxide,H2O2,0,e,-2.0,True
+23cump_e,"2',3'-Cyclic UMP",C9H10N2O8P,-1,e,30.0,True
+eca2und_p,(enterobacterial common antigen)x2 undecaprenyl-diphosphate,C103H162N6O37P2,-4,p,496.0,True
+cl_p,Chloride,Cl,-1,p,1.0,True
+murein4p3p_p,"Two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain)",C71H109N13O39,-4,p,280.0,True
+12dgr160_p,"1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)",C35H68O5,0,p,198.0,True
+1agpg120_p,1-Acyl-sn-glycero-3-phosphoglycerol (n-C12:0),C18H36O9P1,-1,p,96.0,True
+tungs_e,Tungstate,O4W1,-2,e,,False
+5fthf_c,5-Formyltetrahydrofolate,C20H21N7O7,-2,c,68.0,True

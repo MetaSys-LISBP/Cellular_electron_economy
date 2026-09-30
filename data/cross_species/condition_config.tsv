@@ -1,0 +1,11 @@
+organism	condition	glucose	oxygen	other constraints	interpretation
+E. coli	aerobic	8.7	11.9	Aerobic lactate/succinate/formate/ethanol non-detection constraints	Experimentally constrained manuscript state
+E. coli	anaerobic	14.9	0	Original M9 configuration	Experimentally constrained manuscript state
+S. cerevisiae	aerobic	10	non-limiting	Yeast9 standard aerobic model	Standardized model-defined state
+S. cerevisiae	anaerobic	10	0	Official Yeast9 v9.1.0 anaerobic model edits and supplements	Model-defined anaerobic state
+B. subtilis	aerobic	10	non-limiting	NH4 uptake allowed; nitrate uptake blocked	Standardized model-defined state
+B. subtilis	anaerobic	10	0	NH4 uptake allowed; nitrate uptake blocked	Fermentative anoxia
+S. enterica	high-respiratory-capacity	10	cap 20	Nitrate uptake blocked	Standardized model-defined state
+S. enterica	anoxic	10	0	Nitrate uptake blocked	Fermentative anoxia
+K. phaffii	high-respiratory-capacity	10	cap 20	Native iMT1026 medium	Standardized model-defined state
+K. phaffii	severe oxygen limitation	10	cap 0.5	Native iMT1026 medium	Physiological low-oxygen endpoint; not claimed as anaerobic

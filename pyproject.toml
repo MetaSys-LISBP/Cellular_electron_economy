@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "etn"
+version = "1.0.0"
+description = "Electron transfer network reconstruction and genome-scale electron flux analysis"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Pierre Millard <pierre.millard@insa-toulouse.fr>" }]
+dependencies = [
+    "cobra>=0.29",
+    "rdkit>=2023.9",
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "networkx>=3.0",
+    "python-louvain>=0.16",
+    "scikit-learn>=1.3",
+    "scipy>=1.10",
+    "statsmodels>=0.14",
+    "matplotlib>=3.7",
+    "openpyxl>=3.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools]
+packages = ["etn"]

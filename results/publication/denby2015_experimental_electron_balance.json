@@ -1,0 +1,9 @@
+{
+  "measured_TMA_per_glucose": 2.29,
+  "measured_TMA_per_glucose_sd": 0.06999999999999999,
+  "measured_terminal_delivery_e_per_glucose": 4.58,
+  "measured_terminal_delivery_e_sd_per_glucose": 0.13999999999999999,
+  "reported_source_generation_e_per_glucose": 5.4399999999999995,
+  "reported_internal_sink_e_per_glucose": 0.8,
+  "reported_TMAO_sink_e_per_glucose": 4.64
+}

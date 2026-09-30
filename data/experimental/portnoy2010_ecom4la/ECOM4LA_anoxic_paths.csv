@@ -1,0 +1,2 @@
+path_id,source,sink,path,n_transfer_steps,electron_flux
+0,unresolved:GAPD,lac__D_c,unresolved:GAPD -> nadh_c -> lac__D_c,2,48.5911111111111
