@@ -99,8 +99,8 @@ generate_main_figures(ROOT, OUT)
 # Supplementary numbering:
 # S1 reconstruction diagnostics;
 # S2 reconstructed iML1515 electron transfer network; S3 E. coli condition diagnostics; S4 pFBA/13C-MFA validation;
-# S5 13C-MFA source decomposition; S6 ECOM4LA; S7 respiratory architecture;
-# S8 acceptor endpoints; S9 Denby TMAO; S10 Toya nitrate; S11 Perrenoud;
+# S11 13C-MFA source decomposition; S5 ECOM4LA; S6 respiratory architecture;
+# S8 acceptor endpoints; S7 Denby TMAO; S10 Toya nitrate; S9 Perrenoud;
 # S12 factorial response; S13 cross-species relay; S14 Baumann; S15 extended acceptors;
 # S16 cross-species carbon normalization; S17 extended carbon entry; S18 Fromanger;
 # S19 respiratory-architecture predictive transfer; S20 carbon-source predictive transfer.
@@ -233,10 +233,10 @@ for ax,cond in zip(axs,['Anaerobic glucose','Anaerobic xylose']):
     ax.barh(ss.source,ss.electron_source_per_substrate)
     ax.set_xlabel('Electron-source flux (e$^-$ per substrate)')
     ax.set_title(cond)
-save(fig,'SuppFigS5_13C_MFA_source_decomposition.png')
+save(fig,'SuppFigS11_13C_MFA_source_decomposition.png')
 
 
-# S2: detailed reconstruction statistics supporting the electron-transfer reconstruction.
+# S1: detailed reconstruction statistics supporting the electron-transfer reconstruction.
 status_order=["non_redox","not_applicable","redox","unscorable","ambiguous"]
 status_labels=["Non-redox","Struct. excluded","Redox","Chem. unscorable","Ambiguous"]
 status_counts=et["redox_status"].value_counts().reindex(status_order,fill_value=0).astype(int)
@@ -265,7 +265,7 @@ for cls in classes:
 axs[1].set_xticks(x,["WT anaerobic","WT + nitrate","ΔarcA + nitrate"],rotation=20,ha="right"); axs[1].set_ylabel("Electron-source contribution\n(e$^-$ per glucose)"); axs[1].legend(frameon=False,fontsize=6.5); panel_title(axs[1],"b","Oxidative pathways account for the expansion")
 save(fig,"SuppFigS10_Toya2012_nitrate_source_architecture.png")
 
-# S9: Denby 2015 TMAO validation and extracellular-product redistribution.
+# S7: Denby 2015 TMAO validation and extracellular-product redistribution.
 fig,axs=plt.subplots(1,2,figsize=(10.0,4.2),constrained_layout=True)
 dm=denby_model.set_index("condition"); x=np.arange(2); model_vals=[float(dm.loc["fermentation","net_per_glucose"]),float(dm.loc["tmao_matched","net_per_glucose"])]
 axs[0].bar(x,model_vals,width=.58,label="iML1515/ETN net flux")
@@ -274,15 +274,15 @@ axs[0].errorbar([1],[denby_summary["measured_terminal_delivery_e_per_glucose"]],
 axs[0].set_xticks(x,["Fermentation","TMAO respiration"]); axs[0].set_ylabel("Electron-flux observable\n(e$^-$ per glucose)"); axs[0].set_ylim(0,7.35); axs[0].legend(frameon=False,fontsize=6.4); panel_title(axs[0],"a","Independent sink-side validation")
 pp=denby_products.set_index("metabolite").loc[["acetate","formate","ethanol","succinate"]].reset_index(); xx=np.arange(len(pp)); w=.34
 axs[1].bar(xx-w/2,pp.experimental_fold,width=w,label="Experiment"); axs[1].bar(xx+w/2,pp.model_fold,width=w,label="Matched model"); axs[1].axhline(1,lw=.8); axs[1].set_xticks(xx,[m.capitalize() for m in pp.metabolite],rotation=20,ha="right"); axs[1].set_ylabel("TMAO / fermentative state ratio"); axs[1].legend(frameon=False); panel_title(axs[1],"b","Product redistribution has the same direction")
-save(fig,"SuppFigS9_Denby2015_TMAO_validation.png")
+save(fig,"SuppFigS7_Denby2015_TMAO_validation.png")
 
-# S11: Perrenoud & Sauer 2005 qualitative acceptor contrast.
+# S9: Perrenoud & Sauer 2005 qualitative acceptor contrast.
 fig,axs=plt.subplots(1,2,figsize=(9.6,4.0),constrained_layout=True)
 pord=["strict anaerobic","nitrate","DMSO"]; pp=perrenoud.set_index("experimental_condition").loc[pord].reset_index(); x=np.arange(3)
 axs[0].bar(x,pp.reported_respiratory_cyclic_TCA_flux_mmol_g_h); axs[0].set_xticks(x,["No acceptor","Nitrate","DMSO"]); axs[0].set_ylabel("Reported respiratory cyclic TCA flux\n(mmol g$^{-1}$ h$^{-1}$)"); panel_title(axs[0],"a","Nitrate, but not DMSO, opens cyclic TCA flux")
 axs[1].bar(x,pp.model_net_e_per_glucose); axs[1].set_xticks(x,["No acceptor","Nitrate","DMSO"]); axs[1].set_ylabel("Model net electron flux\n(e$^-$ per glucose)"); panel_title(axs[1],"b","Standardized model comparison")
 axs[1].text(.02,.03,"Equal uptake cap = 10; qualitative only, not matched to 40 mM medium",transform=axs[1].transAxes,fontsize=6.6)
-save(fig,"SuppFigS11_Perrenoud2005_acceptor_routing.png")
+save(fig,"SuppFigS9_Perrenoud2005_acceptor_routing.png")
 
 # S16: cross-species generalization and normalization robustness of the baseline state.
 fig,axs=plt.subplots(2,2,figsize=(10.6,8.2),constrained_layout=True)
@@ -377,7 +377,7 @@ axs[1].set_xticks(range(3),['Acetate','Pyruvate','Succinate']); axs[1].set_ylabe
 panel_title(axs[1],'b','Extended entry-point coverage at high disposal capacity')
 save(fig,'SuppFigS17_extended_carbon_entry_coverage.png')
 
-# S6: ECOM4LA direct measurements, isotope observables and model-completion robustness.
+# S5: ECOM4LA direct measurements, isotope observables and model-completion robustness.
 rob=pd.read_csv(ROOT/'results/publication/constraint_robustness.csv'); iso=pd.read_csv(ROOT/'results/publication/ecom4la_published_13C_checks.csv')
 fig,axs=plt.subplots(2,3,figsize=(12.6,7.8),constrained_layout=True)
 ax=axs[0,0]; x=np.arange(2); w=.34; ee=ecom.set_index('condition'); ax.bar(x-w/2,[ee.loc['WT_oxic','qGLC'],ee.loc['ECOM4LA_oxic','qGLC']],w,label='Glucose uptake'); ax.bar(x+w/2,[ee.loc['WT_oxic','qO2'],ee.loc['ECOM4LA_oxic','qO2']],w,label='O$_2$ uptake'); ax.set_xticks(x,['WT oxic','ECOM4LA oxic']); ax.set_ylabel('Measured uptake (mmol gDW$^{-1}$ h$^{-1}$)'); ax.legend(frameon=False); panel_title(ax,'a','Measured uptake')
@@ -396,9 +396,9 @@ ax.set_xticks(x,['WT oxic','ECOM4LA oxic','Zero respiratory capacity']); ax.set_
 for i,(v,e) in enumerate(zip(vals,errs)): ax.text(i,v+e+.12,f'{v:.2f}',ha='center',fontsize=7)
 panel_title(ax,'e','Net electron-flux comparison')
 axs[1,2].axis('off')
-save(fig,'SuppFigS6_ECOM4LA_respiratory_disposal.png')
+save(fig,'SuppFigS5_ECOM4LA_respiratory_disposal.png')
 
-# S7: independent respiratory-architecture controls.
+# S6: independent respiratory-architecture controls.
 anand=pd.read_csv(ROOT/'data/experimental/anand2022/anand2022_replicate_phenotypes.csv')
 fig,axs=plt.subplots(1,2,figsize=(9.2,4.2),constrained_layout=True)
 ax=axs[0]
@@ -408,7 +408,7 @@ ax=axs[1]; summ=anand.groupby(['architecture','state']).acetate_carbon_fraction.
 for off,state in [(-w/2,'unevolved'),(w/2,'evolved')]:
  g=summ[summ.state==state].set_index('architecture').loc[arch]; ax.bar(xx+off,g['mean'],w,yerr=g['std'],capsize=2,label=state.capitalize())
 ax.set_xticks(xx,arch); ax.set_ylabel('Acetate carbon fraction'); ax.legend(frameon=False); panel_title(ax,'b','Architecture signature persists after evolution')
-save(fig,'SuppFigS7_respiratory_architecture_controls.png')
+save(fig,'SuppFigS6_respiratory_architecture_controls.png')
 
 # S12: complete E. coli factorial response surface.
 fig,axs=plt.subplots(2,2,figsize=(9.0,8.0),constrained_layout=True)

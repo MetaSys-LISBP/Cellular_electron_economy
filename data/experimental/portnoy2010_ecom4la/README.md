@@ -14,4 +14,4 @@ The directory contains:
 - strict and relaxed product-secretion robustness calculations;
 - edge and illustrative-path tables for the wild-type and ECOM4LA states.
 
-Measured quantities, direct endpoint calculations and genome-scale model-derived electron-flux quantities remain explicitly distinct. `results/publication/ecom4la_state_constrained_summary.csv` contains the principal state summary, and the corresponding figure-facing files support Supplementary Fig. S6.
+Measured quantities, direct endpoint calculations and genome-scale model-derived electron-flux quantities remain explicitly distinct. `results/publication/ecom4la_state_constrained_summary.csv` contains the principal state summary, and the corresponding figure-facing files support Supplementary Fig. S5.

@@ -109,7 +109,7 @@ def phosphorus_conservation_check(model):
     reduction-degree formula's phosphorus term (+5P) contribute identically
     to both sides of every matched pair, so it never affects a reported
     electron count while still being required for gamma to be correct as
-    an absolute, per-molecule quantity (Supplementary Note 2, Supplementary Table 1).
+    an absolute, per-molecule quantity (Supplementary Note 3, Supplementary Table 1).
     """
     print()
     print("=" * 78)

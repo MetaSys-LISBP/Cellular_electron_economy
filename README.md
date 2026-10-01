@@ -26,13 +26,13 @@ Principal entry points include `scripts/validate_reduction_degree.py`, `scripts/
 
 ### 2. Electron and carbon flows decouple
 
-Aerobic and anaerobic glucose-grown *E. coli* states test whether carbon uptake determines electron flow. The analysis calculates net electron flux, reaction-level rerouting, carrier relay, effective transfer depth and terminal electron delivery. Independent Gonzalez <sup>13</sup>C-MFA flux maps test the same decoupling on glucose and xylose. ECOM4LA and respiratory-chain perturbations distinguish oxygen availability from respiratory disposal capacity. These analyses support Fig. 2 and Supplementary Figs. S3–S7.
+Aerobic and anaerobic glucose-grown *E. coli* states test whether carbon uptake determines electron flow. The analysis calculates net electron flux, reaction-level rerouting, carrier relay, effective transfer depth and terminal electron delivery. Independent Gonzalez <sup>13</sup>C-MFA flux maps test the same decoupling on glucose and xylose. ECOM4LA and respiratory-chain perturbations distinguish oxygen availability from respiratory disposal capacity. These analyses support Fig. 2 and Supplementary Figs. S3–S6 and S11.
 
 Principal entry points include `scripts/run_electron_flow_analyses.py`, `scripts/run_electron_path_decomposition.py`, `scripts/run_gonzalez_13c_mfa_validation.py`, `data/experimental/portnoy2010_ecom4la/run_ecom4la_state_constrained.py` and `scripts/run_respiratory_architecture_support.py`.
 
 ### 3. A carbon source–disposal relation
 
-Alternative terminal acceptors, six carbon sources and a six-substrate × seven-O₂-capacity factorial analysis separate the roles of carbon source and disposal capacity. Carbon source sets the baseline and maximal electron flow, whereas disposal capacity determines how much of that range is realized. Gonzalez, Denby, Toya and Perrenoud datasets provide complementary experimental checks while retaining the observable resolved by each dataset. These analyses support Fig. 3 and Supplementary Figs. S5 and S8–S12.
+Alternative terminal acceptors, six carbon sources and a six-substrate × seven-O₂-capacity factorial analysis separate the roles of carbon source and disposal capacity. Carbon source sets the baseline and maximal electron flow, whereas disposal capacity determines how much of that range is realized. Gonzalez, Denby, Toya and Perrenoud datasets provide complementary experimental checks while retaining the observable resolved by each dataset. These analyses support Fig. 3 and Supplementary Figs. S7–S12.
 
 Principal entry points include `scripts/run_acceptor_experimental_validation.py`, `scripts/run_mechanistic_analysis.py` and `scripts/run_factorial_carbon_disposal_analysis.py`.
 

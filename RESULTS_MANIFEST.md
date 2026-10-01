@@ -42,9 +42,9 @@ Principal outputs:
 Related figures and Source Data:
 
 - main Fig. 2;
-- Supplementary Figs. S3–S7;
+- Supplementary Figs. S3–S6 and S11;
 - `source_data/publication/Fig2*`;
-- `source_data/publication/SuppFigS3_*` to `SuppFigS7_*`.
+- `source_data/publication/SuppFigS3_*` to `SuppFigS6_*` and `SuppFigS11_*`.
 
 ## 3. Carbon source and disposal capacity
 
@@ -66,9 +66,9 @@ Principal outputs:
 Related figures and Source Data:
 
 - main Fig. 3;
-- Supplementary Figs. S5 and S8–S12;
+- Supplementary Figs. S7–S12;
 - `source_data/publication/Fig3*`;
-- corresponding `source_data/publication/SuppFigS5_*` and `SuppFigS8_*` to `SuppFigS12_*` files.
+- corresponding `source_data/publication/SuppFigS7_*` to `SuppFigS12_*` files.
 
 ## 4. Cross-species organization and robustness
 

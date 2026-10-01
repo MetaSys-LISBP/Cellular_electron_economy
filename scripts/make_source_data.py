@@ -75,24 +75,24 @@ supp = {
 "SuppFigS4_Gonzalez_13C_MFA_electron_flux_metrics.csv":"results/publication/gonzalez_13c_mfa_electron_flux_metrics.csv",
 "SuppFigS4_substrate_flux_compression.csv":"results/publication/substrate_flux_compression.csv",
 "SuppFigS4_Gonzalez_normalization_summary.csv":"results/publication/gonzalez_13c_mfa_normalization_summary.csv",
-"SuppFigS5_Gonzalez_anaerobic_source_decomposition.csv":"results/publication/gonzalez_anaerobic_source_decomposition.csv",
-"SuppFigS9_Denby2015_model_matched_states.csv":"results/publication/denby2015_model_matched_states.csv",
-"SuppFigS9_Denby2015_product_redistribution.csv":"results/publication/denby2015_product_redistribution.csv",
+"SuppFigS11_Gonzalez_anaerobic_source_decomposition.csv":"results/publication/gonzalez_anaerobic_source_decomposition.csv",
+"SuppFigS7_Denby2015_model_matched_states.csv":"results/publication/denby2015_model_matched_states.csv",
+"SuppFigS7_Denby2015_product_redistribution.csv":"results/publication/denby2015_product_redistribution.csv",
 "SuppFigS10_Toya2012_source_totals.csv":"results/publication/toya2012_electron_source_totals.csv",
 "SuppFigS10_Toya2012_source_decomposition.csv":"results/publication/toya2012_electron_source_decomposition.csv",
-"SuppFigS11_Perrenoud2005_acceptor_routing.csv":"results/publication/perrenoud2005_acceptor_comparison.csv",
+"SuppFigS9_Perrenoud2005_acceptor_routing.csv":"results/publication/perrenoud2005_acceptor_comparison.csv",
 "SuppFigS16_cross_species_carbon_acceptor_pairs.csv":"results/publication/cross_species_carbon_acceptor_pairs.csv",
 "SuppFigS16_cross_species_carbon_acceptor_feasibility.csv":"results/publication/cross_species_carbon_acceptor_feasibility.csv",
 "SuppFigS16_Ecoli_core_redox_contribution.csv":"results/publication/substrate_core_redox_contribution.csv",
 "SuppFigS16_normalization_summary.csv":"results/publication/cross_species_carbon_acceptor_normalization_summary.csv",
 "SuppFigS18_Fromanger2010_electron_balance.csv":"results/publication/fromanger2010_electron_balance.csv",
-"SuppFigS6_ECOM4LA_measured_endpoint_delivery.csv":"results/publication/ecom4la_measured_endpoint_electron_delivery.csv",
-"SuppFigS6_ECOM4LA_state_constrained_summary.csv":"results/publication/ecom4la_state_constrained_summary.csv",
-"SuppFigS6_ECOM4LA_published_13C_checks.csv":"results/publication/ecom4la_published_13C_checks.csv",
-"SuppFigS6_ECOM4LA_constraint_robustness.csv":"results/publication/constraint_robustness.csv",
-"SuppFigS6_substrate_flux_compression.csv":"results/publication/substrate_flux_compression.csv",
-"SuppFigS7_Steinsiek2014.csv":"data/experimental/steinsiek2014/steinsiek2014_byproducts_means.csv",
-"SuppFigS7_Anand2022.csv":"data/experimental/anand2022/anand2022_replicate_phenotypes.csv",
+"SuppFigS5_ECOM4LA_measured_endpoint_delivery.csv":"results/publication/ecom4la_measured_endpoint_electron_delivery.csv",
+"SuppFigS5_ECOM4LA_state_constrained_summary.csv":"results/publication/ecom4la_state_constrained_summary.csv",
+"SuppFigS5_ECOM4LA_published_13C_checks.csv":"results/publication/ecom4la_published_13C_checks.csv",
+"SuppFigS5_ECOM4LA_constraint_robustness.csv":"results/publication/constraint_robustness.csv",
+"SuppFigS5_substrate_flux_compression.csv":"results/publication/substrate_flux_compression.csv",
+"SuppFigS6_Steinsiek2014.csv":"data/experimental/steinsiek2014/steinsiek2014_byproducts_means.csv",
+"SuppFigS6_Anand2022.csv":"data/experimental/anand2022/anand2022_replicate_phenotypes.csv",
 "SuppFigS12_factorial_states.csv":"results/publication/factorial_carbon_oxygen_states.csv",
 "SuppFigS12_scaled_curves.csv":"results/publication/factorial_scaled_expansion_curves.csv",
 "SuppFigS15_extended_acceptor_functional_states.csv":"results/publication/extended_acceptor_functional_states.csv",
@@ -126,14 +126,14 @@ pd.DataFrame([
 ],columns=["origin","source_code","n_matched_pair_instances"]).to_csv(OUT / "SuppFigS1_pair_origin_summary.csv", index=False)
 hubs[["metabolite_id","name","weighted_degree_electrons"]].to_csv(OUT / "SuppFigS1_electron_weighted_hubs.csv", index=False)
 
-# Denby observables used only in Supplementary Fig. S9.
+# Denby observables used only in Supplementary Fig. S7.
 denby=json.loads((ROOT/'results/publication/denby2015_summary.json').read_text())
 pd.DataFrame([
     ("Measured TMAO terminal delivery", denby["measured_terminal_delivery_e_per_glucose"], denby["measured_terminal_delivery_e_sd_per_glucose"], "experimental"),
     ("Reported source generation", denby["reported_source_generation_e_per_glucose"], float("nan"), "experimental redox balance"),
     ("Model fermentation net flux", denby["model_fermentation_net_e_per_glucose"], float("nan"), "iML1515/ETN"),
     ("Model TMAO net flux", denby["model_TMAO_net_e_per_glucose"], float("nan"), "iML1515/ETN at measured TMAO/glucose ratio"),
-], columns=["observable","e_per_glucose","sd_e_per_glucose","provenance"]).to_csv(OUT/'SuppFigS9_Denby2015_TMAO_observables.csv',index=False)
+], columns=["observable","e_per_glucose","sd_e_per_glucose","provenance"]).to_csv(OUT/'SuppFigS7_Denby2015_TMAO_observables.csv',index=False)
 
 assert counts.to_dict() == {"non_redox":1783,"not_applicable":339,"redox":270,"unscorable":314,"ambiguous":6}
 assert stoich.to_dict() == {1:2,2:237,4:22,6:6,8:3}

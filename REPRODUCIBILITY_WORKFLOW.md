@@ -112,8 +112,8 @@ python scripts/make_figures.py
 
 Important figure-specific analyses include:
 
-- Fig. 2 and Supplementary Figs. S3–S7: *E. coli* decoupling, Gonzalez, ECOM4LA and respiratory-architecture analyses;
-- Fig. 3 and Supplementary Figs. S5 and S8–S12: acceptors, carbon sources and the factorial response surface;
+- Fig. 2 and Supplementary Figs. S3–S6 and S11: *E. coli* decoupling, Gonzalez, ECOM4LA and respiratory-architecture analyses;
+- Fig. 3 and Supplementary Figs. S7–S12: acceptors, carbon sources and the factorial response surface;
 - Fig. 4 and Supplementary Figs. S13–S20: cross-species analyses, electron generation, whole-cell accounting and predictive transfer.
 
 ## Tests

@@ -12,7 +12,7 @@ def test_publication_source_data_contract():
         'Fig4a_cross_species_flux_compression.csv','Fig4e_Steinsiek2014_predictive_transfer.csv',
         'Fig4f_Weusthuis1994_predictive_transfer.csv',
         'SuppFigS2_iML1515_ETN_nodes.csv','SuppFigS2_iML1515_ETN_edges.csv',
-        'SuppFigS1_classification_summary.csv','SuppFigS6_ECOM4LA_state_constrained_summary.csv',
+        'SuppFigS1_classification_summary.csv','SuppFigS5_ECOM4LA_state_constrained_summary.csv',
         'SuppFigS10_Toya2012_source_totals.csv','SuppFigS14_Baumann2010_oxygen_gradient.csv',
         'SuppFigS15_extended_acceptor_functional_states.csv','SuppFigS17_extended_carbon_entry_summary.csv',
         'SuppFigS18_Fromanger2010_electron_balance.csv','SuppFigS19_Steinsiek2014_predictive_transfer.csv',
